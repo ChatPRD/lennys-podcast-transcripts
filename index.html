@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lenny's Podcast - Episode Selector</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            color: white;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.95;
+        }
+
+        .selector-section {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            margin-bottom: 30px;
+        }
+
+        .selector-label {
+            display: block;
+            font-size: 1rem;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: #555;
+        }
+
+        .episode-count {
+            color: #667eea;
+            font-weight: normal;
+            font-size: 0.9rem;
+        }
+
+        select {
+            width: 100%;
+            padding: 15px;
+            font-size: 1rem;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            background-color: #fafafa;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            appearance: none;
+            background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+            background-repeat: no-repeat;
+            background-position: right 15px center;
+            background-size: 20px;
+            padding-right: 45px;
+        }
+
+        select:hover {
+            border-color: #667eea;
+        }
+
+        select:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .episode-details {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            display: none;
+        }
+
+        .episode-details.show {
+            display: block;
+            animation: fadeIn 0.5s ease;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .episode-header {
+            margin-bottom: 25px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #f0f0f0;
+        }
+
+        .episode-title {
+            font-size: 1.8rem;
+            color: #333;
+            margin-bottom: 10px;
+            line-height: 1.3;
+        }
+
+        .episode-guest {
+            font-size: 1.2rem;
+            color: #667eea;
+            font-weight: 600;
+        }
+
+        .metadata-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 25px;
+        }
+
+        .metadata-item {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+        }
+
+        .metadata-label {
+            font-size: 0.85rem;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 5px;
+            font-weight: 600;
+        }
+
+        .metadata-value {
+            font-size: 1.1rem;
+            color: #333;
+            font-weight: 500;
+        }
+
+        .description-section {
+            margin-bottom: 25px;
+        }
+
+        .description-label {
+            font-size: 0.85rem;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+
+        .description-text {
+            font-size: 1rem;
+            line-height: 1.6;
+            color: #555;
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+        }
+
+        .youtube-button {
+            display: inline-block;
+            padding: 12px 24px;
+            background: #ff0000;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 12px rgba(255, 0, 0, 0.3);
+        }
+
+        .youtube-button:hover {
+            background: #cc0000;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 16px rgba(255, 0, 0, 0.4);
+        }
+
+        .youtube-button::before {
+            content: "▶ ";
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: white;
+            font-size: 1.2rem;
+        }
+
+        .error {
+            background: #fee;
+            color: #c33;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border-left: 4px solid #c33;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            .selector-section,
+            .episode-details {
+                padding: 20px;
+            }
+
+            .metadata-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Lenny's Podcast</h1>
+            <p class="subtitle">Episode Archive & Selector</p>
+        </header>
+
+        <div class="selector-section">
+            <label for="episode-select" class="selector-label">
+                Select an Episode <span class="episode-count" id="episode-count">(Loading...)</span>
+            </label>
+            <select id="episode-select">
+                <option value="">Choose an episode...</option>
+            </select>
+        </div>
+
+        <div id="episode-details" class="episode-details">
+            <div class="episode-header">
+                <h2 class="episode-title" id="episode-title"></h2>
+                <p class="episode-guest" id="episode-guest"></p>
+            </div>
+
+            <div class="metadata-grid">
+                <div class="metadata-item">
+                    <div class="metadata-label">Duration</div>
+                    <div class="metadata-value" id="episode-duration"></div>
+                </div>
+                <div class="metadata-item">
+                    <div class="metadata-label">View Count</div>
+                    <div class="metadata-value" id="episode-views"></div>
+                </div>
+                <div class="metadata-item">
+                    <div class="metadata-label">Channel</div>
+                    <div class="metadata-value" id="episode-channel"></div>
+                </div>
+            </div>
+
+            <div class="description-section">
+                <div class="description-label">Description</div>
+                <div class="description-text" id="episode-description"></div>
+            </div>
+
+            <a href="#" id="youtube-link" class="youtube-button" target="_blank">Watch on YouTube</a>
+        </div>
+    </div>
+
+    <script>
+        let episodes = [];
+
+        // Load episodes data
+        async function loadEpisodes() {
+            try {
+                const response = await fetch('episodes.json');
+                if (!response.ok) {
+                    throw new Error('Failed to load episodes data');
+                }
+                episodes = await response.json();
+                populateDropdown();
+            } catch (error) {
+                console.error('Error loading episodes:', error);
+                alert('Failed to load episodes data. Please make sure episodes.json exists.');
+            }
+        }
+
+        // Populate the dropdown with episodes
+        function populateDropdown() {
+            const select = document.getElementById('episode-select');
+            const countSpan = document.getElementById('episode-count');
+
+            // Update count
+            countSpan.textContent = `(${episodes.length} episodes)`;
+
+            // Add episodes to dropdown
+            episodes.forEach((episode, index) => {
+                const option = document.createElement('option');
+                option.value = index;
+                option.textContent = `${episode.guest} - ${episode.title}`;
+                select.appendChild(option);
+            });
+        }
+
+        // Format number with commas
+        function formatNumber(num) {
+            return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        }
+
+        // Display selected episode details
+        function displayEpisode(index) {
+            const episode = episodes[index];
+            const detailsDiv = document.getElementById('episode-details');
+
+            // Update all fields
+            document.getElementById('episode-title').textContent = episode.title;
+            document.getElementById('episode-guest').textContent = episode.guest;
+            document.getElementById('episode-duration').textContent = episode.duration;
+            document.getElementById('episode-views').textContent = formatNumber(episode.view_count);
+            document.getElementById('episode-channel').textContent = episode.channel;
+            document.getElementById('episode-description').textContent = episode.description || 'No description available.';
+            document.getElementById('youtube-link').href = episode.youtube_url;
+
+            // Show the details section
+            detailsDiv.classList.add('show');
+        }
+
+        // Handle dropdown change
+        document.getElementById('episode-select').addEventListener('change', function() {
+            const selectedIndex = this.value;
+            if (selectedIndex !== '') {
+                displayEpisode(parseInt(selectedIndex));
+            } else {
+                document.getElementById('episode-details').classList.remove('show');
+            }
+        });
+
+        // Initialize on page load
+        loadEpisodes();
+    </script>
+</body>
+</html>
