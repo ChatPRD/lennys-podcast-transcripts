@@ -1,14 +1,33 @@
 ---
-guest: "Vijay"
-title: "An inside look at Mixpanel’s product journey | Vijay Iyengar"
-youtube_url: "https://www.youtube.com/watch?v=t-2oXtZrlEc"
-video_id: "t-2oXtZrlEc"
-description: |
-  Vijay Iyengar is Head of Product at Mixpanel, and similar to myself, came from an engineering background before transitioning to product. In today’s episode, he explains how Mixpanel has...
+guest: Vijay
+title: An inside look at Mixpanel’s product journey | Vijay Iyengar
+youtube_url: https://www.youtube.com/watch?v=t-2oXtZrlEc
+video_id: t-2oXtZrlEc
+description: 'Vijay Iyengar is Head of Product at Mixpanel, and similar to myself,
+  came from an engineering background before transitioning to product. In today’s
+  episode, he explains how Mixpanel has...
+
+  '
 duration_seconds: 2811.0
-duration: "46:51"
+duration: '46:51'
 view_count: 8119
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- onboarding
+- churn
+- metrics
+- okrs
+- roadmap
+- prioritization
+- analytics
+- funnel
+- pricing
+- revenue
+- hiring
+- culture
+- leadership
 ---
 
 # An inside look at Mixpanel’s product journey | Vijay Iyengar

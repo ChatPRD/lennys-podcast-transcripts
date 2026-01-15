@@ -1,14 +1,33 @@
 ---
-guest: "Varun Parmar"
-title: "An inside look at how Miro builds product | Varun Parmar (CPO of Miro)"
-youtube_url: "https://www.youtube.com/watch?v=furNg4njlsg"
-video_id: "furNg4njlsg"
-description: |
-  Varun Parmar is the Chief Product Officer of Miro and has over two decades of experience in the tech industry. Prior to joining Miro, Varun held executive positions as Chief Product Officer...
+guest: Varun Parmar
+title: An inside look at how Miro builds product | Varun Parmar (CPO of Miro)
+youtube_url: https://www.youtube.com/watch?v=furNg4njlsg
+video_id: furNg4njlsg
+description: 'Varun Parmar is the Chief Product Officer of Miro and has over two decades
+  of experience in the tech industry. Prior to joining Miro, Varun held executive
+  positions as Chief Product Officer...
+
+  '
 duration_seconds: 5111.0
-duration: "1:25:11"
+duration: '1:25:11'
 view_count: 13074
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- metrics
+- okrs
+- roadmap
+- analytics
+- funnel
+- pricing
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
 ---
 
 # An inside look at how Miro builds product | Varun Parmar (CPO of Miro)

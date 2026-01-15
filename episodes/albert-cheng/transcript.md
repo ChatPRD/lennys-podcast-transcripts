@@ -1,14 +1,34 @@
 ---
-guest: "Albert Cheng"
-title: "Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)"
-youtube_url: "https://www.youtube.com/watch?v=2BKmNmnEj9w"
-video_id: "2BKmNmnEj9w"
-description: |
-  Albert Cheng has led growth at three of the world’s most successful consumer subscription companies: Duolingo, Grammarly, and Chess.com. A former Google product manager (and serious pianist!),...
+guest: Albert Cheng
+title: Finding hidden growth opportunities in your product | Albert Cheng (Duolingo,
+  Grammarly, Chess.com)
+youtube_url: https://www.youtube.com/watch?v=2BKmNmnEj9w
+video_id: 2BKmNmnEj9w
+description: 'Albert Cheng has led growth at three of the world’s most successful
+  consumer subscription companies: Duolingo, Grammarly, and Chess.com. A former Google
+  product manager (and serious pianist!),...
+
+  '
 duration_seconds: 5125.0
-duration: "1:25:25"
+duration: '1:25:25'
 view_count: 21773
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- onboarding
+- metrics
+- roadmap
+- user research
+- experimentation
+- conversion
+- pricing
+- monetization
+- freemium
+- subscription
+- revenue
 ---
 
 # Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)

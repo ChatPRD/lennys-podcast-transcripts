@@ -1,14 +1,33 @@
 ---
-guest: "Lauryn Isford"
-title: "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)"
-youtube_url: "https://www.youtube.com/watch?v=dLku0AiGPVA"
-video_id: "dLku0AiGPVA"
-description: |
-  Lauryn Isford is a product growth leader and practitioner, who most recently led Growth at Airtable, and is about to start something new 🤫.  In today’s episode, we get into the many tactics...
+guest: Lauryn Isford
+title: Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)
+youtube_url: https://www.youtube.com/watch?v=dLku0AiGPVA
+video_id: dLku0AiGPVA
+description: 'Lauryn Isford is a product growth leader and practitioner, who most
+  recently led Growth at Airtable, and is about to start something new 🤫.  In today’s
+  episode, we get into the many tactics...
+
+  '
 duration_seconds: 3861.0
-duration: "1:04:21"
+duration: '1:04:21'
 view_count: 18254
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- onboarding
+- churn
+- metrics
+- kpis
+- roadmap
+- prioritization
+- a/b testing
+- experimentation
+- analytics
+- funnel
+- conversion
 ---
 
 # Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)

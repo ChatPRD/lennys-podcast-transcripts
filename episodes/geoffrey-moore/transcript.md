@@ -1,14 +1,32 @@
 ---
-guest: "Geoffrey Moore"
-title: "Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)"
-youtube_url: "https://www.youtube.com/watch?v=CtB0O0M7YS0"
-video_id: "CtB0O0M7YS0"
-description: |
-  Gergely Orosz writes the #1 technology newsletter at Substack, called The Pragmatic Engineer. He started his career as a software developer in the U.K., spent three years at Skype, and followed...
-duration_seconds: 4491.0
-duration: "1:14:51"
-view_count: 13365
-channel: "Lenny's Podcast"
+guest: Geoffrey Moore
+title: Geoffrey Moore on finding your beachhead, crossing the chasm, and dominating
+  a market
+youtube_url: https://www.youtube.com/watch?v=RBbINB5HSHk
+video_id: RBbINB5HSHk
+description: 'Geoffrey Moore is an author, speaker, and advisor, widely known for
+  his seminal book Crossing the Chasm: Marketing and Selling Disruptive Products to
+  Mainstream Customers, which many consider...'
+duration_seconds: 5090.0
+duration: '1:24:50'
+view_count: 27639
+channel: Lenny's Podcast
+keywords:
+- growth
+- churn
+- roadmap
+- analytics
+- conversion
+- pricing
+- monetization
+- freemium
+- revenue
+- hiring
+- management
+- strategy
+- vision
+- mission
+- positioning
 ---
 
 # Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)

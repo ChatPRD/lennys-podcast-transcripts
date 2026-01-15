@@ -1,14 +1,34 @@
 ---
-guest: "Jake Knapp + John Zeratsky"
-title: "Making time for what matters | Jake Knapp and John Zeratsky (Authors of Make Time, Character VC)"
-youtube_url: "https://www.youtube.com/watch?v=cuce7zvOFHY"
-video_id: "cuce7zvOFHY"
-description: |
-  Jake Knapp and John Zeratsky are bestselling authors of the books Sprint and Make Time. They have helped more than 300 teams design new products and bring them to market, including those at...
+guest: Jake Knapp + John Zeratsky
+title: Making time for what matters | Jake Knapp and John Zeratsky (Authors of Make
+  Time, Character VC)
+youtube_url: https://www.youtube.com/watch?v=cuce7zvOFHY
+video_id: cuce7zvOFHY
+description: 'Jake Knapp and John Zeratsky are bestselling authors of the books Sprint
+  and Make Time. They have helped more than 300 teams design new products and bring
+  them to market, including those at...
+
+  '
 duration_seconds: 5739.0
-duration: "1:35:39"
+duration: '1:35:39'
 view_count: 14486
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- churn
+- okrs
+- pricing
+- culture
+- leadership
+- management
+- strategy
+- vision
+- market
+- persona
+- design
+- ux
+- ui
+- prototype
 ---
 
 # Making time for what matters | Jake Knapp and John Zeratsky (Authors of Make Time, Character VC)

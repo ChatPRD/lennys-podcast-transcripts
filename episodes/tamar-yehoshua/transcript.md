@@ -1,14 +1,34 @@
 ---
-guest: "Tamar Yehoshua"
-title: "Lessons in product leadership and AI strategy from Glean, Google, Amazon, and Slack | Tamar Yehoshua"
-youtube_url: "https://www.youtube.com/watch?v=ZoSeOltKqQk"
-video_id: "ZoSeOltKqQk"
-description: |
-  Tamar Yehoshua is the president of product and technology at Glean. Prior to joining Glean, Tamar was chief product officer at Slack, where she led product, design, and research as the company...
+guest: Tamar Yehoshua
+title: Lessons in product leadership and AI strategy from Glean, Google, Amazon, and
+  Slack | Tamar Yehoshua
+youtube_url: https://www.youtube.com/watch?v=ZoSeOltKqQk
+video_id: ZoSeOltKqQk
+description: 'Tamar Yehoshua is the president of product and technology at Glean.
+  Prior to joining Glean, Tamar was chief product officer at Slack, where she led
+  product, design, and research as the company...
+
+  '
 duration_seconds: 4644.0
-duration: "1:17:24"
+duration: '1:17:24'
 view_count: 26562
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- metrics
+- okrs
+- roadmap
+- analytics
+- conversion
+- revenue
+- leadership
+- management
+- strategy
+- vision
+- market
+- persona
 ---
 
 # Lessons in product leadership and AI strategy from Glean, Google, Amazon, and Slack | Tamar Yehoshua

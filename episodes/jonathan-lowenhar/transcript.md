@@ -1,14 +1,34 @@
 ---
-guest: "Jonathan Lowenhar"
-title: "How a great founder becomes a great CEO | Jonathan Lowenhar (co-founder of Enjoy The Work)"
-youtube_url: "https://www.youtube.com/watch?v=s0jn7eE33nk"
-video_id: "s0jn7eE33nk"
-description: |
-  Jonathan Lowenhar is the co-founder of Enjoy The Work, an executive coaching firm that helps founders become great CEOs. Over the past decade, Enjoy The Work has supported over 165 founders...
+guest: Jonathan Lowenhar
+title: How a great founder becomes a great CEO | Jonathan Lowenhar (co-founder of
+  Enjoy The Work)
+youtube_url: https://www.youtube.com/watch?v=s0jn7eE33nk
+video_id: s0jn7eE33nk
+description: 'Jonathan Lowenhar is the co-founder of Enjoy The Work, an executive
+  coaching firm that helps founders become great CEOs. Over the past decade, Enjoy
+  The Work has supported over 165 founders...
+
+  '
 duration_seconds: 5676.0
-duration: "1:34:36"
+duration: '1:34:36'
 view_count: 13172
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- okrs
+- roadmap
+- iteration
+- experimentation
+- analytics
+- funnel
+- conversion
+- revenue
+- hiring
+- culture
+- leadership
+- management
 ---
 
 # How a great founder becomes a great CEO | Jonathan Lowenhar (co-founder of Enjoy The Work)

@@ -1,14 +1,34 @@
 ---
-guest: "Noah Weiss"
-title: "The 10 traits of great PMs, AI, and Slack’s approach to product | Noah Weiss (Slack, Google)"
-youtube_url: "https://www.youtube.com/watch?v=XrRlVOWe5GE"
-video_id: "XrRlVOWe5GE"
-description: |
-  Noah Weiss is Chief Product Officer at Slack, where he leads all aspects of the product organization, including the self-service SMB business, the team that launched huddles and clips, and...
+guest: Noah Weiss
+title: The 10 traits of great PMs, AI, and Slack’s approach to product | Noah Weiss
+  (Slack, Google)
+youtube_url: https://www.youtube.com/watch?v=XrRlVOWe5GE
+video_id: XrRlVOWe5GE
+description: 'Noah Weiss is Chief Product Officer at Slack, where he leads all aspects
+  of the product organization, including the self-service SMB business, the team that
+  launched huddles and clips, and...
+
+  '
 duration_seconds: 5134.0
-duration: "1:25:34"
+duration: '1:25:34'
 view_count: 10335
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- onboarding
+- metrics
+- roadmap
+- user research
+- experimentation
+- data-driven
+- analytics
+- funnel
+- freemium
+- subscription
+- revenue
 ---
 
 # The 10 traits of great PMs, AI, and Slack’s approach to product | Noah Weiss (Slack, Google)

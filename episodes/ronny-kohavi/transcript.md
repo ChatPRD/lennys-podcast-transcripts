@@ -1,14 +1,33 @@
 ---
-guest: "Ronny Kohavi"
-title: "The ultimate guide to A/B testing | Ronny Kohavi (Airbnb, Microsoft, Amazon)"
-youtube_url: "https://www.youtube.com/watch?v=hEzpiDuYFoE"
-video_id: "hEzpiDuYFoE"
-description: |
-  Ronny Kohavi, PhD, is a consultant, teacher, and leading expert on the art and science of A/B testing. Previously, Ronny was Vice President and Technical Fellow at Airbnb, Technical Fellow...
+guest: Ronny Kohavi
+title: The ultimate guide to A/B testing | Ronny Kohavi (Airbnb, Microsoft, Amazon)
+youtube_url: https://www.youtube.com/watch?v=hEzpiDuYFoE
+video_id: hEzpiDuYFoE
+description: 'Ronny Kohavi, PhD, is a consultant, teacher, and leading expert on the
+  art and science of A/B testing. Previously, Ronny was Vice President and Technical
+  Fellow at Airbnb, Technical Fellow...
+
+  '
 duration_seconds: 4988.0
-duration: "1:23:08"
+duration: '1:23:08'
 view_count: 69278
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- onboarding
+- churn
+- metrics
+- roadmap
+- iteration
+- a/b testing
+- experimentation
+- data-driven
+- analytics
+- funnel
+- conversion
 ---
 
 # The ultimate guide to A/B testing | Ronny Kohavi (Airbnb, Microsoft, Amazon)

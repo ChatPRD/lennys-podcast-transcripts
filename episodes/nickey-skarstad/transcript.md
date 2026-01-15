@@ -1,5 +1,21 @@
 ---
-guest: "Nickey Skarstad"
+guest: Nickey Skarstad
+keywords:
+- growth
+- onboarding
+- metrics
+- okrs
+- user research
+- analytics
+- pricing
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
 ---
 
 # Nickey Skarstad

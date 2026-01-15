@@ -1,15 +1,32 @@
 ---
-guest: "Seth Godin"
-title: "Inside Gong: How teams work with design partners, their pod structure, autonomy, trust, and more"
-youtube_url: "https://www.youtube.com/watch?v=HL7PS0fy1Ho"
-video_id: "HL7PS0fy1Ho"
-description: |
-  Eilon Reshef is the co-founder and chief product officer at Gong, one of the most ubiquitous B2B products in the world. In our conversation, we discuss:
-  • Gong’s unique approach to working...
-duration_seconds: 3403.0
-duration: "56:43"
-view_count: 7667
-channel: "Lenny's Podcast"
+guest: Seth Godin
+title: Seth Godin's best tactics for building remarkable products, strategies, brands
+  and more
+youtube_url: https://www.youtube.com/watch?v=UyWTDmDjNy4
+video_id: UyWTDmDjNy4
+description: Seth Godin is a legend. He’s a marketer, teacher, entrepreneur, and author
+  of more than 20 books, including Purple Cow, Permission Marketing, and Linchpin.
+  He also writes one of the most...
+duration_seconds: 2716.0
+duration: '45:16'
+view_count: 37826
+channel: Lenny's Podcast
+keywords:
+- metrics
+- roadmap
+- culture
+- leadership
+- management
+- strategy
+- mission
+- competition
+- market
+- design
+- ux
+- ui
+- engineering
+- startup
+- founder
 ---
 
 # Inside Gong: How teams work with design partners, their pod structure, autonomy, trust, and more

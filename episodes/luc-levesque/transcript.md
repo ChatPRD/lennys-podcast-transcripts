@@ -1,14 +1,34 @@
 ---
-guest: "Luc Levesque"
-title: "Leveraging growth advisors, mastering SEO, and honing your craft | Luc Levesque (Shopify, Meta)"
-youtube_url: "https://www.youtube.com/watch?v=Xf_ZXIGCQb0"
-video_id: "Xf_ZXIGCQb0"
-description: |
-  Luc Levesque is Chief Growth Officer at Shopify and has advised companies like Canva, Twitter, Pinterest, and Patreon on growth and product strategy. Previously he served as an executive at...
+guest: Luc Levesque
+title: Leveraging growth advisors, mastering SEO, and honing your craft | Luc Levesque
+  (Shopify, Meta)
+youtube_url: https://www.youtube.com/watch?v=Xf_ZXIGCQb0
+video_id: Xf_ZXIGCQb0
+description: 'Luc Levesque is Chief Growth Officer at Shopify and has advised companies
+  like Canva, Twitter, Pinterest, and Patreon on growth and product strategy. Previously
+  he served as an executive at...
+
+  '
 duration_seconds: 4812.0
-duration: "1:20:12"
+duration: '1:20:12'
 view_count: 6800
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- onboarding
+- metrics
+- prioritization
+- a/b testing
+- experimentation
+- analytics
+- funnel
+- subscription
+- hiring
+- culture
+- leadership
 ---
 
 # Leveraging growth advisors, mastering SEO, and honing your craft | Luc Levesque (Shopify, Meta)

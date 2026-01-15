@@ -1,14 +1,34 @@
 ---
-guest: "Lauren Ipsen"
-title: "Lessons from one of the world’s top executive recruiters | Lauren Ipsen (Daversa Partners, GC)"
-youtube_url: "https://www.youtube.com/watch?v=v3pofqabzhs"
-video_id: "v3pofqabzhs"
-description: |
-  Lauren Ipsen is one of the most well-known and respected executive recruiters in the industry, having placed over 90 senior product leaders at companies including Twitter, Reddit, Opendoor,...
+guest: Lauren Ipsen
+title: Lessons from one of the world’s top executive recruiters | Lauren Ipsen (Daversa
+  Partners, GC)
+youtube_url: https://www.youtube.com/watch?v=v3pofqabzhs
+video_id: v3pofqabzhs
+description: 'Lauren Ipsen is one of the most well-known and respected executive recruiters
+  in the industry, having placed over 90 senior product leaders at companies including
+  Twitter, Reddit, Opendoor,...
+
+  '
 duration_seconds: 4133.0
-duration: "1:08:53"
+duration: '1:08:53'
 view_count: 9019
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- roadmap
+- monetization
+- hiring
+- team building
+- leadership
+- management
+- strategy
+- vision
+- market
+- persona
+- design
+- ux
+- ui
+- user experience
 ---
 
 # Lessons from one of the world’s top executive recruiters | Lauren Ipsen (Daversa Partners, GC)

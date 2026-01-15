@@ -1,14 +1,34 @@
 ---
-guest: "Roger Martin"
-title: "5 essential questions to craft a winning strategy | Roger Martin (author, advisor, speaker)"
-youtube_url: "https://www.youtube.com/watch?v=y7SN4FK8noY"
-video_id: "y7SN4FK8noY"
-description: |
-  Roger Martin is one of the world’s leading experts on strategy and the author of Playing to Win, one of the most beloved books on strategy. He’s written extensively for the Harvard Business...
+guest: Roger Martin
+title: 5 essential questions to craft a winning strategy | Roger Martin (author, advisor,
+  speaker)
+youtube_url: https://www.youtube.com/watch?v=y7SN4FK8noY
+video_id: y7SN4FK8noY
+description: 'Roger Martin is one of the world’s leading experts on strategy and the
+  author of Playing to Win, one of the most beloved books on strategy. He’s written
+  extensively for the Harvard Business...
+
+  '
 duration_seconds: 4923.0
-duration: "1:22:03"
+duration: '1:22:03'
 view_count: 111686
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- onboarding
+- user research
+- conversion
+- pricing
+- hiring
+- leadership
+- management
+- strategy
+- vision
+- positioning
+- differentiation
+- competition
+- market
+- design
 ---
 
 # 5 essential questions to craft a winning strategy | Roger Martin (author, advisor, speaker)

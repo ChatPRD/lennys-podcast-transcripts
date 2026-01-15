@@ -1,14 +1,34 @@
 ---
-guest: "Michael Truell"
-title: "The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell"
-youtube_url: "https://www.youtube.com/watch?v=En5cSXgGvZM"
-video_id: "En5cSXgGvZM"
-description: |
-  *Michael Truell* is the co-founder and CEO of Anysphere, the company behind Cursor—the fastest-growing AI code editor in the world, reaching $300 million in annual recurring revenue just...
+guest: Michael Truell
+title: 'The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using
+  | Michael Truell'
+youtube_url: https://www.youtube.com/watch?v=En5cSXgGvZM
+video_id: En5cSXgGvZM
+description: '*Michael Truell* is the co-founder and CEO of Anysphere, the company
+  behind Cursor—the fastest-growing AI code editor in the world, reaching $300 million
+  in annual recurring revenue just...
+
+  '
 duration_seconds: 4274.0
-duration: "1:11:14"
+duration: '1:11:14'
 view_count: 122050
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- roadmap
+- a/b testing
+- experimentation
+- analytics
+- monetization
+- revenue
+- hiring
+- management
+- strategy
+- vision
+- market
+- persona
+- design
+- ux
 ---
 
 # The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell

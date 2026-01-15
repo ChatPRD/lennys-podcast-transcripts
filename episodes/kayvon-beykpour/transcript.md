@@ -1,14 +1,34 @@
 ---
-guest: "Kayvon Beykpour"
-title: "Twitter’s ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour"
-youtube_url: "https://www.youtube.com/watch?v=MKDnDueTvKk"
-video_id: "MKDnDueTvKk"
-description: |
-  Kayvon Beykpour was the longest-serving head of product at Twitter and was GM of Twitter’s consumer division until the platform was acquired by Elon Musk. He originally joined Twitter in...
+guest: Kayvon Beykpour
+title: Twitter’s ex-Head of Product on Elon, consumer products, culture, more | Kayvon
+  Beykpour
+youtube_url: https://www.youtube.com/watch?v=MKDnDueTvKk
+video_id: MKDnDueTvKk
+description: 'Kayvon Beykpour was the longest-serving head of product at Twitter and
+  was GM of Twitter’s consumer division until the platform was acquired by Elon Musk.
+  He originally joined Twitter in...
+
+  '
 duration_seconds: 5727.0
-duration: "1:35:27"
+duration: '1:35:27'
 view_count: 18224
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- onboarding
+- metrics
+- okrs
+- roadmap
+- iteration
+- analytics
+- conversion
+- revenue
+- hiring
+- culture
+- leadership
+- management
 ---
 
 # Twitter’s ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour

@@ -1,14 +1,33 @@
 ---
-guest: "Annie Pearl"
-title: "Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)"
-youtube_url: "https://www.youtube.com/watch?v=-tUIGpgmsZw"
-video_id: "-tUIGpgmsZw"
-description: |
-  Annie Pearl is the Chief Product Officer at Calendly. Previously, she was Chief Product Officer at Glassdoor, as well as Director of Product Management at Box. She was named one of the most...
+guest: Annie Pearl
+title: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)
+youtube_url: https://www.youtube.com/watch?v=-tUIGpgmsZw
+video_id: -tUIGpgmsZw
+description: 'Annie Pearl is the Chief Product Officer at Calendly. Previously, she
+  was Chief Product Officer at Glassdoor, as well as Director of Product Management
+  at Box. She was named one of the most...
+
+  '
 duration_seconds: 3709.0
-duration: "1:01:49"
+duration: '1:01:49'
 view_count: 7743
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- okrs
+- roadmap
+- prioritization
+- funnel
+- conversion
+- revenue
+- hiring
+- team building
+- culture
+- leadership
+- management
 ---
 
 # Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)

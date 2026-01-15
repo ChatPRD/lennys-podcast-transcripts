@@ -1,14 +1,33 @@
 ---
-guest: "Ethan Evans"
-title: "Taking control of your career | Ethan Evans (Amazon)"
-youtube_url: "https://www.youtube.com/watch?v=GB0P0_nFPTA"
-video_id: "GB0P0_nFPTA"
-description: |
-  Ethan Evans is a writer, career coach, course instructor, and retired VP at Amazon. During his 15 years at Amazon, he helped invent Prime Video, Amazon Video, the Amazon Appstore, Prime Gaming...
+guest: Ethan Evans
+title: Taking control of your career | Ethan Evans (Amazon)
+youtube_url: https://www.youtube.com/watch?v=GB0P0_nFPTA
+video_id: GB0P0_nFPTA
+description: 'Ethan Evans is a writer, career coach, course instructor, and retired
+  VP at Amazon. During his 15 years at Amazon, he helped invent Prime Video, Amazon
+  Video, the Amazon Appstore, Prime Gaming...
+
+  '
 duration_seconds: 4868.0
-duration: "1:21:08"
+duration: '1:21:08'
 view_count: 68243
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- analytics
+- conversion
+- hiring
+- leadership
+- management
+- vision
+- market
+- persona
+- design
+- ui
+- engineering
+- startup
+- platform
+- ai
 ---
 
 # Taking control of your career | Ethan Evans (Amazon)

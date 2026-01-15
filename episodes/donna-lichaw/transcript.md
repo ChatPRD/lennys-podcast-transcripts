@@ -1,14 +1,34 @@
 ---
-guest: "Donna Lichaw"
-title: "How to discover your superpowers, own your story, and unlock personal growth | Donna Lichaw"
-youtube_url: "https://www.youtube.com/watch?v=7fA8DMMUNPI"
-video_id: "7fA8DMMUNPI"
-description: |
-  Donna Lichaw is an internationally sought-after executive coach, keynote speaker, and best-selling author. She helps visionary founders, CEOs, and executive teams level up their leadership...
+guest: Donna Lichaw
+title: How to discover your superpowers, own your story, and unlock personal growth
+  | Donna Lichaw
+youtube_url: https://www.youtube.com/watch?v=7fA8DMMUNPI
+video_id: 7fA8DMMUNPI
+description: 'Donna Lichaw is an internationally sought-after executive coach, keynote
+  speaker, and best-selling author. She helps visionary founders, CEOs, and executive
+  teams level up their leadership...
+
+  '
 duration_seconds: 5223.0
-duration: "1:27:03"
+duration: '1:27:03'
 view_count: 11727
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- roadmap
+- prioritization
+- user research
+- customer discovery
+- data-driven
+- conversion
+- hiring
+- leadership
+- management
+- strategy
+- vision
+- mission
+- market
 ---
 
 # How to discover your superpowers, own your story, and unlock personal growth | Donna Lichaw

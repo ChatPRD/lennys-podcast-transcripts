@@ -1,14 +1,33 @@
 ---
-guest: "Upasna Gautam"
-title: "An inside look at how CNN builds product | Upasna Gautam"
-youtube_url: "https://www.youtube.com/watch?v=gRiCzfFEd7c"
-video_id: "gRiCzfFEd7c"
-description: |
-  Upasna Gautam is a product manager at CNN Digital, where she works closely with editorial staff and journalists to build their internal content management system. She is also a longtime meditation...
+guest: Upasna Gautam
+title: An inside look at how CNN builds product | Upasna Gautam
+youtube_url: https://www.youtube.com/watch?v=gRiCzfFEd7c
+video_id: gRiCzfFEd7c
+description: 'Upasna Gautam is a product manager at CNN Digital, where she works closely
+  with editorial staff and journalists to build their internal content management
+  system. She is also a longtime meditation...
+
+  '
 duration_seconds: 3492.0
-duration: "58:12"
+duration: '58:12'
 view_count: 2690
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- onboarding
+- okrs
+- roadmap
+- analytics
+- conversion
+- leadership
+- management
+- vision
+- persona
+- design
+- ui
+- engineering
+- startup
+- saas
 ---
 
 # An inside look at how CNN builds product | Upasna Gautam

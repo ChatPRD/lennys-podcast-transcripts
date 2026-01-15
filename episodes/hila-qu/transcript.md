@@ -1,14 +1,33 @@
 ---
-guest: "Hila Qu"
-title: "The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)"
-youtube_url: "https://www.youtube.com/watch?v=7l1fIxk7SnA"
-video_id: "7l1fIxk7SnA"
-description: |
-  Hila Qu is an Executive in Residence at Reforge as well as a renowned growth advisor, angel investor, and published author (her book about growth was named one of the top 10 business books...
+guest: Hila Qu
+title: The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)
+youtube_url: https://www.youtube.com/watch?v=7l1fIxk7SnA
+video_id: 7l1fIxk7SnA
+description: 'Hila Qu is an Executive in Residence at Reforge as well as a renowned
+  growth advisor, angel investor, and published author (her book about growth was
+  named one of the top 10 business books...
+
+  '
 duration_seconds: 5603.0
-duration: "1:33:23"
+duration: '1:33:23'
 view_count: 14992
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- onboarding
+- metrics
+- kpis
+- roadmap
+- user research
+- mvp
+- iteration
+- experimentation
+- data-driven
+- analytics
+- funnel
 ---
 
 # The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)

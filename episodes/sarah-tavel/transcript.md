@@ -1,14 +1,33 @@
 ---
-guest: "Sarah Tavel"
-title: "The hierarchy of engagement | Sarah Tavel (Benchmark, Greylock, Pinterest)"
-youtube_url: "https://www.youtube.com/watch?v=H9g4pzcz6Tk"
-video_id: "H9g4pzcz6Tk"
-description: |
-  Sarah Tavel is a General Partner at Benchmark and sits on the boards of Chainalysis, Hipcamp, Rekki, Cambly, and Medely. She is a founding member of All Raise, the nonprofit organization working...
+guest: Sarah Tavel
+title: The hierarchy of engagement | Sarah Tavel (Benchmark, Greylock, Pinterest)
+youtube_url: https://www.youtube.com/watch?v=H9g4pzcz6Tk
+video_id: H9g4pzcz6Tk
+description: 'Sarah Tavel is a General Partner at Benchmark and sits on the boards
+  of Chainalysis, Hipcamp, Rekki, Cambly, and Medely. She is a founding member of
+  All Raise, the nonprofit organization working...
+
+  '
 duration_seconds: 6655.0
-duration: "1:50:55"
+duration: '1:50:55'
 view_count: 17482
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- churn
+- metrics
+- roadmap
+- pricing
+- culture
+- strategy
+- competition
+- market
+- persona
+- design
+- ux
 ---
 
 # The hierarchy of engagement | Sarah Tavel (Benchmark, Greylock, Pinterest)

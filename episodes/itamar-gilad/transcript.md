@@ -1,14 +1,33 @@
 ---
-guest: "Itamar Gilad"
-title: "Becoming evidence-guided | Itamar Gilad (Gmail, YouTube, Microsoft)"
-youtube_url: "https://www.youtube.com/watch?v=aJWSn-tz3jQ"
-video_id: "aJWSn-tz3jQ"
-description: |
-  Itamar Gilad is a product coach, author, and speaker with over two decades of experience in senior product roles at Google, Microsoft, and various startups. He is also the author of Evidence-Guided...
+guest: Itamar Gilad
+title: Becoming evidence-guided | Itamar Gilad (Gmail, YouTube, Microsoft)
+youtube_url: https://www.youtube.com/watch?v=aJWSn-tz3jQ
+video_id: aJWSn-tz3jQ
+description: 'Itamar Gilad is a product coach, author, and speaker with over two decades
+  of experience in senior product roles at Google, Microsoft, and various startups.
+  He is also the author of Evidence-Guided...
+
+  '
 duration_seconds: 4372.0
-duration: "1:12:52"
+duration: '1:12:52'
 view_count: 14878
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- activation
+- onboarding
+- churn
+- metrics
+- okrs
+- roadmap
+- prioritization
+- user research
+- mvp
+- iteration
+- experimentation
+- analytics
+- revenue
+- culture
 ---
 
 # Becoming evidence-guided | Itamar Gilad (Gmail, YouTube, Microsoft)

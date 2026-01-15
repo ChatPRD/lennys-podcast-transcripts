@@ -1,14 +1,33 @@
 ---
-guest: "Alisa Cohn"
-title: "Scripts for navigating difficult conversations | Alisa Cohn (executive coach)"
-youtube_url: "https://www.youtube.com/watch?v=bvF0ZM8DjuI"
-video_id: "bvF0ZM8DjuI"
-description: |
-  Alisa Cohn is an executive coach who has worked with C-suite executives at startups like Venmo, Etsy, Wirecutter, and DraftKings, and Fortune 500 companies like Microsoft, Google, Pfizer, Dell,...
+guest: Alisa Cohn
+title: Scripts for navigating difficult conversations | Alisa Cohn (executive coach)
+youtube_url: https://www.youtube.com/watch?v=bvF0ZM8DjuI
+video_id: bvF0ZM8DjuI
+description: 'Alisa Cohn is an executive coach who has worked with C-suite executives
+  at startups like Venmo, Etsy, Wirecutter, and DraftKings, and Fortune 500 companies
+  like Microsoft, Google, Pfizer, Dell,...
+
+  '
 duration_seconds: 5023.0
-duration: "1:23:43"
+duration: '1:23:43'
 view_count: 15528
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- onboarding
+- okrs
+- a/b testing
+- experimentation
+- monetization
+- revenue
+- culture
+- leadership
+- management
+- vision
+- mission
+- competition
+- market
+- persona
 ---
 
 # Scripts for navigating difficult conversations | Alisa Cohn (executive coach)

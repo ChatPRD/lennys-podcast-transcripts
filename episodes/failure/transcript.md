@@ -1,14 +1,33 @@
 ---
-guest: "Failure"
-title: "Failure"
-youtube_url: "https://www.youtube.com/watch?v=9euy9gC48lc"
-video_id: "9euy9gC48lc"
-description: |
-  In this special compilation episode, we delve into failure—an overlooked source of wisdom. From freezing onstage in front of thousands of people, to coworkers staging an intervention, to...
+guest: Failure
+title: Failure
+youtube_url: https://www.youtube.com/watch?v=9euy9gC48lc
+video_id: 9euy9gC48lc
+description: 'In this special compilation episode, we delve into failure—an overlooked
+  source of wisdom. From freezing onstage in front of thousands of people, to coworkers
+  staging an intervention, to...
+
+  '
 duration_seconds: 3672.0
-duration: "1:01:12"
+duration: '1:01:12'
 view_count: 9074
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- metrics
+- roadmap
+- iteration
+- a/b testing
+- experimentation
+- conversion
+- monetization
+- revenue
+- culture
+- leadership
+- management
+- strategy
 ---
 
 # Failure

@@ -1,14 +1,34 @@
 ---
-guest: "Sam Schillace"
-title: "How to be more innovative | Sam Schillace (Microsoft deputy CTO, creator of Google Docs)"
-youtube_url: "https://www.youtube.com/watch?v=IOWDoDpQ7Xg"
-video_id: "IOWDoDpQ7Xg"
-description: |
-  Sam Schillace is deputy CTO and corporate vice president at Microsoft. Prior to working at Microsoft, Sam started a company called Writely, which was acquired by Google and became the foundation...
+guest: Sam Schillace
+title: How to be more innovative | Sam Schillace (Microsoft deputy CTO, creator of
+  Google Docs)
+youtube_url: https://www.youtube.com/watch?v=IOWDoDpQ7Xg
+video_id: IOWDoDpQ7Xg
+description: 'Sam Schillace is deputy CTO and corporate vice president at Microsoft.
+  Prior to working at Microsoft, Sam started a company called Writely, which was acquired
+  by Google and became the foundation...
+
+  '
 duration_seconds: 5271.0
-duration: "1:27:51"
+duration: '1:27:51'
 view_count: 16183
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- onboarding
+- iteration
+- subscription
+- culture
+- leadership
+- strategy
+- vision
+- mission
+- market
+- persona
+- design
+- ux
+- ui
+- engineering
 ---
 
 # How to be more innovative | Sam Schillace (Microsoft deputy CTO, creator of Google Docs)

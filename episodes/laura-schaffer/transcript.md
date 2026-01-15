@@ -1,14 +1,34 @@
 ---
-guest: "Laura Schaffer"
-title: "Career frameworks, A/B testing, onboarding tips, selling to engineers |  Laura Schaffer (Amplitude)"
-youtube_url: "https://www.youtube.com/watch?v=UMAmj1bciww"
-video_id: "UMAmj1bciww"
-description: |
-  Laura Schaffer is the brand-new VP of Growth at Amplitude. Prior to this role, she spent over 10 years leading product management and growth teams at Twilio, Bandwidth, and Rapid. In today’s...
+guest: Laura Schaffer
+title: Career frameworks, A/B testing, onboarding tips, selling to engineers |  Laura
+  Schaffer (Amplitude)
+youtube_url: https://www.youtube.com/watch?v=UMAmj1bciww
+video_id: UMAmj1bciww
+description: 'Laura Schaffer is the brand-new VP of Growth at Amplitude. Prior to
+  this role, she spent over 10 years leading product management and growth teams at
+  Twilio, Bandwidth, and Rapid. In today’s...
+
+  '
 duration_seconds: 4873.0
-duration: "1:21:13"
+duration: '1:21:13'
 view_count: 9069
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- activation
+- onboarding
+- churn
+- metrics
+- prioritization
+- mvp
+- iteration
+- a/b testing
+- experimentation
+- data-driven
+- analytics
+- conversion
+- pricing
 ---
 
 # Career frameworks, A/B testing, onboarding tips, selling to engineers |  Laura Schaffer (Amplitude)

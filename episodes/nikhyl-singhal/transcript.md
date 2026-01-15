@@ -1,14 +1,33 @@
 ---
-guest: "Nikhyl Singhal"
-title: "Building a long and meaningful career | Nikhyl Singhal (Meta, Google)"
-youtube_url: "https://www.youtube.com/watch?v=U_WQuUIYnJg"
-video_id: "U_WQuUIYnJg"
-description: |
-  Nikhyl Singhal is VP of Product at Meta, overseeing teams building messaging, groups, stories, and the main Facebook feed. Before that, he served as the Chief Product Officer at Credit Karma...
+guest: Nikhyl Singhal
+title: Building a long and meaningful career | Nikhyl Singhal (Meta, Google)
+youtube_url: https://www.youtube.com/watch?v=U_WQuUIYnJg
+video_id: U_WQuUIYnJg
+description: 'Nikhyl Singhal is VP of Product at Meta, overseeing teams building messaging,
+  groups, stories, and the main Facebook feed. Before that, he served as the Chief
+  Product Officer at Credit Karma...
+
+  '
 duration_seconds: 5151.0
-duration: "1:25:51"
+duration: '1:25:51'
 view_count: 73708
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- onboarding
+- metrics
+- a/b testing
+- experimentation
+- conversion
+- subscription
+- revenue
+- hiring
+- leadership
+- management
+- strategy
 ---
 
 # Building a long and meaningful career | Nikhyl Singhal (Meta, Google)

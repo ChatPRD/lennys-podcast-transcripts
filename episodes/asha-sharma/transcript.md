@@ -1,14 +1,34 @@
 ---
-guest: "Asha Sharma"
-title: "How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma"
-youtube_url: "https://www.youtube.com/watch?v=J9UWaltU-7Q"
-video_id: "J9UWaltU-7Q"
-description: |
-  Asha Sharma leads AI product strategy at Microsoft, where she works with thousands of companies building AI products and has unique visibility into what’s working (and what’s not) across...
+guest: Asha Sharma
+title: 'How 80,000 companies build with AI: Products as organisms and the death of
+  org charts | Asha Sharma'
+youtube_url: https://www.youtube.com/watch?v=J9UWaltU-7Q
+video_id: J9UWaltU-7Q
+description: 'Asha Sharma leads AI product strategy at Microsoft, where she works
+  with thousands of companies building AI products and has unique visibility into
+  what’s working (and what’s not) across...
+
+  '
 duration_seconds: 3431.0
-duration: "57:11"
+duration: '57:11'
 view_count: 29562
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- onboarding
+- metrics
+- okrs
+- kpis
+- roadmap
+- user research
+- iteration
+- conversion
+- revenue
+- culture
+- leadership
+- strategy
+- vision
 ---
 
 # How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma

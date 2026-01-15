@@ -1,14 +1,33 @@
 ---
-guest: "Timothy Davis"
-title: "The ultimate guide to paid growth | Timothy Davis (Shopify)"
-youtube_url: "https://www.youtube.com/watch?v=zNJyb3R_Pnc"
-video_id: "zNJyb3R_Pnc"
-description: |
-  Timothy Davis has led performance marketing for all of Shopify for the past 2.5 years, and as a consultant has helped companies like Pinterest, LinkedIn, Redfin, and Eventbrite kickstart and...
+guest: Timothy Davis
+title: The ultimate guide to paid growth | Timothy Davis (Shopify)
+youtube_url: https://www.youtube.com/watch?v=zNJyb3R_Pnc
+video_id: zNJyb3R_Pnc
+description: 'Timothy Davis has led performance marketing for all of Shopify for the
+  past 2.5 years, and as a consultant has helped companies like Pinterest, LinkedIn,
+  Redfin, and Eventbrite kickstart and...
+
+  '
 duration_seconds: 6124.0
-duration: "1:42:04"
+duration: '1:42:04'
 view_count: 19230
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- metrics
+- roadmap
+- user research
+- iteration
+- a/b testing
+- experimentation
+- data-driven
+- analytics
+- funnel
+- conversion
+- pricing
+- monetization
+- subscription
 ---
 
 # The ultimate guide to paid growth | Timothy Davis (Shopify)

@@ -1,14 +1,34 @@
 ---
-guest: "Bob Baxley"
-title: "35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley"
-youtube_url: "https://www.youtube.com/watch?v=X-83gvgVaWc"
-video_id: "X-83gvgVaWc"
-description: |
-  Bob Baxley is a design leader who has shaped products used by billions at Apple, Pinterest, Yahoo, and ThoughtSpot. During his eight years at Apple, he led design for the online store and the...
+guest: Bob Baxley
+title: 35 years of product design wisdom from Apple, Disney, Pinterest and beyond
+  | Bob Baxley
+youtube_url: https://www.youtube.com/watch?v=X-83gvgVaWc
+video_id: X-83gvgVaWc
+description: 'Bob Baxley is a design leader who has shaped products used by billions
+  at Apple, Pinterest, Yahoo, and ThoughtSpot. During his eight years at Apple, he
+  led design for the online store and the...
+
+  '
 duration_seconds: 6119.0
-duration: "1:41:59"
+duration: '1:41:59'
 view_count: 46540
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- acquisition
+- onboarding
+- churn
+- metrics
+- roadmap
+- analytics
+- conversion
+- pricing
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
 ---
 
 # 35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley

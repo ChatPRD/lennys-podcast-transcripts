@@ -1,14 +1,34 @@
 ---
-guest: "Ben Horowitz"
-title: "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)"
-youtube_url: "https://www.youtube.com/watch?v=KPxTekxQjzc"
-video_id: "KPxTekxQjzc"
-description: |
-  Ben Horowitz is the co-founder of Andreessen Horowitz, Silicon Valley’s largest and most influential venture capital firm, with over $46B in committed capital across multiple funds. He took...
+guest: Ben Horowitz
+title: '$46B of hard truths: Why founders fail and why you need to run toward fear
+  | Ben Horowitz (a16z)'
+youtube_url: https://www.youtube.com/watch?v=KPxTekxQjzc
+video_id: KPxTekxQjzc
+description: 'Ben Horowitz is the co-founder of Andreessen Horowitz, Silicon Valley’s
+  largest and most influential venture capital firm, with over $46B in committed capital
+  across multiple funds. He took...
+
+  '
 duration_seconds: 5880.0
-duration: "1:38:00"
+duration: '1:38:00'
 view_count: 119415
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- churn
+- okrs
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- vision
+- mission
+- competition
+- market
+- persona
+- design
+- ui
 ---
 
 # $46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)

@@ -1,8 +1,33 @@
 ---
-guest: "Aishwarya Naresh Reganti + Kiriti Badam"
+guest: Aishwarya Naresh Reganti + Kiriti Badam
+keywords:
+- retention
+- onboarding
+- metrics
+- roadmap
+- user research
+- iteration
+- subscription
+- culture
+- strategy
+- vision
+- mission
+- market
+- design
+- ui
+- prototype
+title: 'Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google
+  & Amazon'
+youtube_url: https://www.youtube.com/watch?v=z7T1pCxgvlA
+video_id: z7T1pCxgvlA
+description: Aishwarya Naresh Reganti and Kiriti Badam have helped build and launch
+  more than 50 enterprise AI products across companies like OpenAI, Google, Amazon.
+duration_seconds: 5183.0
+duration: '1:26:23'
+view_count: 21183
 ---
 
-# Aishwarya Naresh Reganti + Kiriti Badam
+# Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google & Amazon
 
 ## Transcript
 

@@ -1,18 +1,38 @@
 ---
-guest: "Ada Chen Rekhi"
-title: "Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi"
-youtube_url: "https://www.youtube.com/watch?v=l-T8sNRcWQk"
-video_id: "l-T8sNRcWQk"
-description: |
-  Ada Chen Rekhi explains when it's time to leave your job and what to consider before doing so.
+guest: Ada Chen Rekhi
+title: Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen
+  Rekhi
+youtube_url: https://www.youtube.com/watch?v=l-T8sNRcWQk
+video_id: l-T8sNRcWQk
+description: 'Ada Chen Rekhi explains when it''s time to leave your job and what to
+  consider before doing so.
+
   🎙️Find the full episode here: https://youtu.be/N64vIY2nJQo
-  
+
+
   —
-  
+
+  '
 duration_seconds: 230.0
-duration: "3:50"
+duration: '3:50'
 view_count: 1936
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- roadmap
+- user research
+- funnel
+- conversion
+- pricing
+- subscription
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
+- market
 ---
 
 # Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi

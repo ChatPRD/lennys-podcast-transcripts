@@ -1,14 +1,33 @@
 ---
-guest: "Claire Butler"
-title: "An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)"
-youtube_url: "https://www.youtube.com/watch?v=UmirRfy-gzA"
-video_id: "UmirRfy-gzA"
-description: |
-  Claire Butler was Figma’s first GTM hire and their 10th employee. She led Figma’s early GTM strategy from stealth through monetization. She also helped the team through the journey to find...
+guest: Claire Butler
+title: An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)
+youtube_url: https://www.youtube.com/watch?v=UmirRfy-gzA
+video_id: UmirRfy-gzA
+description: 'Claire Butler was Figma’s first GTM hire and their 10th employee. She
+  led Figma’s early GTM strategy from stealth through monetization. She also helped
+  the team through the journey to find...
+
+  '
 duration_seconds: 5486.0
-duration: "1:31:26"
+duration: '1:31:26'
 view_count: 29014
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- metrics
+- roadmap
+- analytics
+- funnel
+- conversion
+- pricing
+- monetization
+- freemium
+- revenue
+- hiring
+- culture
+- leadership
 ---
 
 # An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)

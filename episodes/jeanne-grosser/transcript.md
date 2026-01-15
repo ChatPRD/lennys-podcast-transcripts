@@ -1,14 +1,34 @@
 ---
-guest: "Jeanne Grosser"
-title: "What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe, Google)"
-youtube_url: "https://www.youtube.com/watch?v=RmnWHz8HD74"
-video_id: "RmnWHz8HD74"
-description: |
-  Jeanne DeWitt Grosser built world-class GTM teams at Stripe, Google, and, most recently, Vercel, where she serves as COO and oversees marketing, sales, customer success, revenue operations,...
+guest: Jeanne Grosser
+title: What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe,
+  Google)
+youtube_url: https://www.youtube.com/watch?v=RmnWHz8HD74
+video_id: RmnWHz8HD74
+description: 'Jeanne DeWitt Grosser built world-class GTM teams at Stripe, Google,
+  and, most recently, Vercel, where she serves as COO and oversees marketing, sales,
+  customer success, revenue operations,...
+
+  '
 duration_seconds: 5162.0
-duration: "1:26:02"
+duration: '1:26:02'
 view_count: 55863
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- metrics
+- kpis
+- iteration
+- experimentation
+- data-driven
+- analytics
+- funnel
+- conversion
+- pricing
+- freemium
+- revenue
+- hiring
+- leadership
 ---
 
 # What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe, Google)

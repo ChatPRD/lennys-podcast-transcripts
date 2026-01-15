@@ -1,14 +1,33 @@
 ---
-guest: "Shishir Mehrotra"
-title: "The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft"
-youtube_url: "https://www.youtube.com/watch?v=7uSuMIJhONA"
-video_id: "7uSuMIJhONA"
-description: |
-  Shishir Mehrotra is the co-founder and CEO of Coda, and formerly head of product and engineering at YouTube. In this episode, he shares his insights on growth strategy, how he evaluates talent,...
+guest: Shishir Mehrotra
+title: The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft
+youtube_url: https://www.youtube.com/watch?v=7uSuMIJhONA
+video_id: 7uSuMIJhONA
+description: 'Shishir Mehrotra is the co-founder and CEO of Coda, and formerly head
+  of product and engineering at YouTube. In this episode, he shares his insights on
+  growth strategy, how he evaluates talent,...
+
+  '
 duration_seconds: 5509.0
-duration: "1:31:49"
+duration: '1:31:49'
 view_count: 11647
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- onboarding
+- metrics
+- okrs
+- roadmap
+- experimentation
+- funnel
+- conversion
+- pricing
+- subscription
+- hiring
+- team building
 ---
 
 # The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft

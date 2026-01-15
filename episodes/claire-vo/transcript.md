@@ -1,14 +1,34 @@
 ---
-guest: "Claire Vo"
-title: "Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)"
-youtube_url: "https://www.youtube.com/watch?v=aXGo1o_baBo"
-video_id: "aXGo1o_baBo"
-description: |
-  Claire Vo is the chief product officer at LaunchDarkly and the founder of ChatPRD, likely the most popular PM-specific AI product out there. Before LaunchDarkly, she was a longtime chief product...
+guest: Claire Vo
+title: Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely,
+  ChatPRD)
+youtube_url: https://www.youtube.com/watch?v=aXGo1o_baBo
+video_id: aXGo1o_baBo
+description: 'Claire Vo is the chief product officer at LaunchDarkly and the founder
+  of ChatPRD, likely the most popular PM-specific AI product out there. Before LaunchDarkly,
+  she was a longtime chief product...
+
+  '
 duration_seconds: 5265.0
-duration: "1:27:45"
+duration: '1:27:45'
 view_count: 29347
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- roadmap
+- iteration
+- a/b testing
+- experimentation
+- funnel
+- pricing
+- monetization
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
 ---
 
 # Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)

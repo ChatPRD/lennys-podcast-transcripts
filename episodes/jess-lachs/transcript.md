@@ -1,14 +1,34 @@
 ---
-guest: "Jess Lachs"
-title: "Building a world-class data org | Jessica Lachs (VP of Analytics and Data Science at DoorDash)"
-youtube_url: "https://www.youtube.com/watch?v=D4PDb_C8Dww"
-video_id: "D4PDb_C8Dww"
-description: |
-  Jessica Lachs is the global head of analytics and data science at DoorDash, where she’s built one of the largest and most respected data organizations in tech. In her more than 10 years at...
+guest: Jess Lachs
+title: Building a world-class data org | Jessica Lachs (VP of Analytics and Data Science
+  at DoorDash)
+youtube_url: https://www.youtube.com/watch?v=D4PDb_C8Dww
+video_id: D4PDb_C8Dww
+description: 'Jessica Lachs is the global head of analytics and data science at DoorDash,
+  where she’s built one of the largest and most respected data organizations in tech.
+  In her more than 10 years at...
+
+  '
 duration_seconds: 4796.0
-duration: "1:19:56"
+duration: '1:19:56'
 view_count: 30076
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- onboarding
+- churn
+- metrics
+- roadmap
+- prioritization
+- experimentation
+- data-driven
+- analytics
+- funnel
+- conversion
+- hiring
+- culture
 ---
 
 # Building a world-class data org | Jessica Lachs (VP of Analytics and Data Science at DoorDash)

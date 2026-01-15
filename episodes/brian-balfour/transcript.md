@@ -1,14 +1,34 @@
 ---
-guest: "Brian Balfour"
-title: "Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour"
-youtube_url: "https://www.youtube.com/watch?v=cX4cL6B-_aU"
-video_id: "cX4cL6B-_aU"
-description: |
-  Brian Balfour is the founder of Reforge, the former VP of Growth at HubSpot, and a student (and teacher) of product growth. Brian has studied every major platform shift—from Facebook to Apple...
+guest: Brian Balfour
+title: Why ChatGPT will be the next big growth channel (and how to capitalize on it)
+  | Brian Balfour
+youtube_url: https://www.youtube.com/watch?v=cX4cL6B-_aU
+video_id: cX4cL6B-_aU
+description: 'Brian Balfour is the founder of Reforge, the former VP of Growth at
+  HubSpot, and a student (and teacher) of product growth. Brian has studied every
+  major platform shift—from Facebook to Apple...
+
+  '
 duration_seconds: 5352.0
-duration: "1:29:12"
+duration: '1:29:12'
 view_count: 38284
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- metrics
+- pricing
+- monetization
+- subscription
+- revenue
+- hiring
+- culture
+- management
+- strategy
+- mission
+- competition
+- market
+- persona
 ---
 
 # Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour

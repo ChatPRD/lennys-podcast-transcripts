@@ -1,17 +1,34 @@
 ---
-guest: "Matt MacInnis"
-title: "The one question that saves product careers | Matt LeMay"
-youtube_url: "https://www.youtube.com/watch?v=ts9ZvlkeWGs"
-video_id: "ts9ZvlkeWGs"
-description: |
-  Matt LeMay spent 13 years as a music critic at Pitchfork before becoming one of product management’s most influential voices. He’s consulted with companies from startups to Fortune 500s...
-duration_seconds: 5529.0
-duration: "1:32:09"
-view_count: 27437
-channel: "Lenny's Podcast"
+guest: Matt MacInnis
+title: '"I deliberately understaff every project" | Leadership lessons from Rippling''s
+  $16B journey'
+youtube_url: https://www.youtube.com/watch?v=O_W76LR77Vw
+video_id: O_W76LR77Vw
+description: Matt MacInnis is the chief product officer and former longtime COO at
+  Rippling, a unified workforce management platform valued at over $16 billion.
+duration_seconds: 5777.0
+duration: '1:36:17'
+view_count: 28828
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- churn
+- metrics
+- experimentation
+- analytics
+- funnel
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
 ---
 
-# The one question that saves product careers | Matt LeMay
+# "I deliberately understaff every project" | Leadership lessons from Rippling's $16B journey
 
 ## Transcript
 

@@ -1,14 +1,34 @@
 ---
-guest: "Ravi Mehta"
-title: "How to build your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor, Outpace)"
-youtube_url: "https://www.youtube.com/watch?v=tncs0m5pmQg"
-video_id: "tncs0m5pmQg"
-description: |
-  Ravi was previously CPO at Tinder, Product Director at Facebook, and VP of Product at Tripadvisor. Currently, he’s co-founder and CEO of Outpace, a coaching platform designed to help people...
+guest: Ravi Mehta
+title: How to build your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor,
+  Outpace)
+youtube_url: https://www.youtube.com/watch?v=tncs0m5pmQg
+video_id: tncs0m5pmQg
+description: 'Ravi was previously CPO at Tinder, Product Director at Facebook, and
+  VP of Product at Tripadvisor. Currently, he’s co-founder and CEO of Outpace, a coaching
+  platform designed to help people...
+
+  '
 duration_seconds: 4885.0
-duration: "1:21:25"
+duration: '1:21:25'
 view_count: 35852
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- metrics
+- okrs
+- kpis
+- roadmap
+- prioritization
+- conversion
+- pricing
+- monetization
+- freemium
+- subscription
+- revenue
+- hiring
 ---
 
 # How to build your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor, Outpace)

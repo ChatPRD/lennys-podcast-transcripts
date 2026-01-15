@@ -1,14 +1,33 @@
 ---
-guest: "Bill Carr"
-title: "Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)"
-youtube_url: "https://www.youtube.com/watch?v=S9WHQa_AJQo"
-video_id: "S9WHQa_AJQo"
-description: |
-  Bill Carr is the co-author of Working Backwards: Insights, Stories, and Secrets from Inside Amazon. With a background at Amazon of over 15 years, Bill played a pivotal role in shaping the company...
+guest: Bill Carr
+title: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
+youtube_url: https://www.youtube.com/watch?v=S9WHQa_AJQo
+video_id: S9WHQa_AJQo
+description: 'Bill Carr is the co-author of Working Backwards: Insights, Stories,
+  and Secrets from Inside Amazon. With a background at Amazon of over 15 years, Bill
+  played a pivotal role in shaping the company...
+
+  '
 duration_seconds: 5608.0
-duration: "1:33:28"
+duration: '1:33:28'
 view_count: 27591
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- metrics
+- roadmap
+- funnel
+- subscription
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- vision
+- competition
+- market
+- persona
+- design
 ---
 
 # Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)

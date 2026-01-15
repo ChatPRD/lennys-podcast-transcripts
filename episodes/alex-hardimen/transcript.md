@@ -1,14 +1,34 @@
 ---
-guest: "Alex Hardimen"
-title: "An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)"
-youtube_url: "https://www.youtube.com/watch?v=y3-cwoHMwQs"
-video_id: "y3-cwoHMwQs"
-description: |
-  Alex Hardiman is Chief Product Officer at the New York Times, where she oversees the company’s news, cooking, games, audio and advertising products. Previously, Alex was Chief Product Officer...
+guest: Alex Hardimen
+title: An inside look at how the New York Times builds product | Alex Hardiman (CPO,
+  the New York Times)
+youtube_url: https://www.youtube.com/watch?v=y3-cwoHMwQs
+video_id: y3-cwoHMwQs
+description: 'Alex Hardiman is Chief Product Officer at the New York Times, where
+  she oversees the company’s news, cooking, games, audio and advertising products.
+  Previously, Alex was Chief Product Officer...
+
+  '
 duration_seconds: 4041.0
-duration: "1:07:21"
+duration: '1:07:21'
 view_count: 6759
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- metrics
+- kpis
+- roadmap
+- prioritization
+- iteration
+- experimentation
+- funnel
+- conversion
+- monetization
+- subscription
+- revenue
+- culture
+- leadership
 ---
 
 # An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)

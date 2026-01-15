@@ -1,14 +1,33 @@
 ---
-guest: "Andy Raskin"
-title: "The power of strategic narrative | Andy Raskin"
-youtube_url: "https://www.youtube.com/watch?v=dkVJnaxDlXE"
-video_id: "dkVJnaxDlXE"
-description: |
-  Andy Raskin helps CEOs align their leadership teams around a strategic narrative—a single story that powers success in sales, marketing, product, fundraising, and recruiting. His clients...
+guest: Andy Raskin
+title: The power of strategic narrative | Andy Raskin
+youtube_url: https://www.youtube.com/watch?v=dkVJnaxDlXE
+video_id: dkVJnaxDlXE
+description: 'Andy Raskin helps CEOs align their leadership teams around a strategic
+  narrative—a single story that powers success in sales, marketing, product, fundraising,
+  and recruiting. His clients...
+
+  '
 duration_seconds: 3769.0
-duration: "1:02:49"
+duration: '1:02:49'
 view_count: 18530
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- onboarding
+- roadmap
+- subscription
+- revenue
+- hiring
+- culture
+- leadership
+- strategy
+- mission
+- market
+- persona
+- jobs to be done
+- design
+- ux
 ---
 
 # The power of strategic narrative | Andy Raskin

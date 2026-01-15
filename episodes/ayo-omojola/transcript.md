@@ -1,14 +1,34 @@
 ---
-guest: "Ayo Omojola"
-title: "Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola"
-youtube_url: "https://www.youtube.com/watch?v=EW6K8ZOWoIs"
-video_id: "EW6K8ZOWoIs"
-description: |
-  Ayo Omojola is Chief Product Officer at Carbon Health, one of the fastest-growing and most innovative health tech companies in the world. Previously, he was a PM leader at Cash App, where he...
+guest: Ayo Omojola
+title: Frameworks for product differentiation, team building, and first principles
+  thinking | Ayo Omojola
+youtube_url: https://www.youtube.com/watch?v=EW6K8ZOWoIs
+video_id: EW6K8ZOWoIs
+description: 'Ayo Omojola is Chief Product Officer at Carbon Health, one of the fastest-growing
+  and most innovative health tech companies in the world. Previously, he was a PM
+  leader at Cash App, where he...
+
+  '
 duration_seconds: 3129.0
-duration: "52:09"
+duration: '52:09'
 view_count: 8980
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- onboarding
+- metrics
+- user research
+- iteration
+- hiring
+- team building
+- leadership
+- strategy
+- mission
+- differentiation
+- market
+- persona
+- design
+- ui
 ---
 
 # Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola

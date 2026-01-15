@@ -1,5 +1,21 @@
 ---
-guest: "Rachel Lockett"
+guest: Rachel Lockett
+keywords:
+- growth
+- retention
+- kpis
+- roadmap
+- conversion
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- market
+- persona
+- design
+- ux
 ---
 
 # Rachel Lockett

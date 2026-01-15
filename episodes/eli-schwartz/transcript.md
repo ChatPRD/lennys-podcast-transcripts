@@ -1,14 +1,33 @@
 ---
-guest: "Eli Schwartz"
-title: "Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)"
-youtube_url: "https://www.youtube.com/watch?v=Z71yGshPTwk"
-video_id: "Z71yGshPTwk"
-description: |
-  Eli Schwartz is a leading SEO consultant and the author of Product-Led SEO. He has worked with industry giants like Zapier, Tinder, Coinbase, Quora, LinkedIn, and WordPress to build and execute...
+guest: Eli Schwartz
+title: Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)
+youtube_url: https://www.youtube.com/watch?v=Z71yGshPTwk
+video_id: Z71yGshPTwk
+description: 'Eli Schwartz is a leading SEO consultant and the author of Product-Led
+  SEO. He has worked with industry giants like Zapier, Tinder, Coinbase, Quora, LinkedIn,
+  and WordPress to build and execute...
+
+  '
 duration_seconds: 6910.0
-duration: "1:55:10"
+duration: '1:55:10'
 view_count: 88168
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- onboarding
+- metrics
+- roadmap
+- user research
+- analytics
+- funnel
+- conversion
+- monetization
+- freemium
+- subscription
+- revenue
+- hiring
+- strategy
+- vision
 ---
 
 # Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)

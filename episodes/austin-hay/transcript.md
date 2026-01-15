@@ -1,14 +1,33 @@
 ---
-guest: "Austin Hay"
-title: "The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)"
-youtube_url: "https://www.youtube.com/watch?v=B79p85DHLkU"
-video_id: "B79p85DHLkU"
-description: |
-  Austin Hay is currently Head of Marketing Technology at Ramp and was previously the VP of Business Operations at Runway, the VP of Growth at mParticle, and the fourth employee at the unicorn...
+guest: Austin Hay
+title: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
+youtube_url: https://www.youtube.com/watch?v=B79p85DHLkU
+video_id: B79p85DHLkU
+description: 'Austin Hay is currently Head of Marketing Technology at Ramp and was
+  previously the VP of Business Operations at Runway, the VP of Growth at mParticle,
+  and the fourth employee at the unicorn...
+
+  '
 duration_seconds: 5077.0
-duration: "1:24:37"
+duration: '1:24:37'
 view_count: 15343
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- onboarding
+- metrics
+- mvp
+- experimentation
+- analytics
+- funnel
+- conversion
+- revenue
+- hiring
+- culture
+- leadership
+- management
 ---
 
 # The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)

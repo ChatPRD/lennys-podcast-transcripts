@@ -1,14 +1,33 @@
 ---
-guest: "Keith Yandell"
-title: "Leading with empathy | Keith Yandell (DoorDash, Uber)"
-youtube_url: "https://www.youtube.com/watch?v=tlCK9TuALtk"
-video_id: "tlCK9TuALtk"
-description: |
-  Keith Yandell started at DoorDash as Chief Legal Officer and during his tenure has also led the HR, Customer Support, Marketing, and now Corporate Development teams. In today’s episode, we...
+guest: Keith Yandell
+title: Leading with empathy | Keith Yandell (DoorDash, Uber)
+youtube_url: https://www.youtube.com/watch?v=tlCK9TuALtk
+video_id: tlCK9TuALtk
+description: 'Keith Yandell started at DoorDash as Chief Legal Officer and during
+  his tenure has also led the HR, Customer Support, Marketing, and now Corporate Development
+  teams. In today’s episode, we...
+
+  '
 duration_seconds: 3351.0
-duration: "55:51"
+duration: '55:51'
 view_count: 7133
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- analytics
+- conversion
+- subscription
+- hiring
+- culture
+- leadership
+- strategy
+- mission
+- market
+- persona
+- ui
+- engineering
+- founder
+- venture capital
 ---
 
 # Leading with empathy | Keith Yandell (DoorDash, Uber)

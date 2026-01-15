@@ -1,14 +1,33 @@
 ---
-guest: "Janna Bastow"
-title: "Building better roadmaps | Janna Bastow (Mind the Product, ProdPad)"
-youtube_url: "https://www.youtube.com/watch?v=W3cvqPCGcck"
-video_id: "W3cvqPCGcck"
-description: |
-  Janna Bastow is a former product manager, and currently the CEO and co-founder of ProdPad. She also co-founded Mind the Product, a community for PMs, which has grown to 300,000 members across...
+guest: Janna Bastow
+title: Building better roadmaps | Janna Bastow (Mind the Product, ProdPad)
+youtube_url: https://www.youtube.com/watch?v=W3cvqPCGcck
+video_id: W3cvqPCGcck
+description: 'Janna Bastow is a former product manager, and currently the CEO and
+  co-founder of ProdPad. She also co-founded Mind the Product, a community for PMs,
+  which has grown to 300,000 members across...
+
+  '
 duration_seconds: 3220.0
-duration: "53:40"
+duration: '53:40'
 view_count: 12144
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- activation
+- onboarding
+- okrs
+- roadmap
+- iteration
+- experimentation
+- analytics
+- conversion
+- pricing
+- revenue
+- culture
+- leadership
+- management
 ---
 
 # Building better roadmaps | Janna Bastow (Mind the Product, ProdPad)

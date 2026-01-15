@@ -1,14 +1,34 @@
 ---
-guest: "Jerry Colonna"
-title: "How have I been complicit in creating the conditions I say I don’t want? | Jerry Colonna"
-youtube_url: "https://www.youtube.com/watch?v=PJE7etZQ9us"
-video_id: "PJE7etZQ9us"
-description: |
-  *Jerry Colonna* is a world-renowned executive coach, a former venture capitalist, and the co-founder and CEO of Reboot, an executive coaching firm that combines practical leadership development...
+guest: Jerry Colonna
+title: How have I been complicit in creating the conditions I say I don’t want? |
+  Jerry Colonna
+youtube_url: https://www.youtube.com/watch?v=PJE7etZQ9us
+video_id: PJE7etZQ9us
+description: '*Jerry Colonna* is a world-renowned executive coach, a former venture
+  capitalist, and the co-founder and CEO of Reboot, an executive coaching firm that
+  combines practical leadership development...
+
+  '
 duration_seconds: 4970.0
-duration: "1:22:50"
+duration: '1:22:50'
 view_count: 13997
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- roadmap
+- iteration
+- a/b testing
+- experimentation
+- analytics
+- monetization
+- leadership
+- management
+- strategy
+- mission
+- market
+- persona
+- design
+- ux
 ---
 
 # How have I been complicit in creating the conditions I say I don’t want? | Jerry Colonna

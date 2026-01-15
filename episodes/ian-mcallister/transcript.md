@@ -1,14 +1,33 @@
 ---
-guest: "Ian McAllister"
-title: "What it takes to become a top 1% PM | Ian McAllister (Uber, Amazon, Airbnb)"
-youtube_url: "https://www.youtube.com/watch?v=7gaPPrAd7nc"
-video_id: "7gaPPrAd7nc"
-description: |
-  Ian McAllister is the Senior Director of Product for Vehicles at Uber. Before moving to Uber, Ian spent over a decade directing teams at Amazon, where he created and led Amazon Smile. He was...
+guest: Ian McAllister
+title: What it takes to become a top 1% PM | Ian McAllister (Uber, Amazon, Airbnb)
+youtube_url: https://www.youtube.com/watch?v=7gaPPrAd7nc
+video_id: 7gaPPrAd7nc
+description: 'Ian McAllister is the Senior Director of Product for Vehicles at Uber.
+  Before moving to Uber, Ian spent over a decade directing teams at Amazon, where
+  he created and led Amazon Smile. He was...
+
+  '
 duration_seconds: 3899.0
-duration: "1:04:59"
+duration: '1:04:59'
 view_count: 84211
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- metrics
+- roadmap
+- prioritization
+- iteration
+- analytics
+- conversion
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- market
+- design
 ---
 
 # What it takes to become a top 1% PM | Ian McAllister (Uber, Amazon, Airbnb)

@@ -1,14 +1,32 @@
 ---
-guest: "Nancy Duarte"
-title: "Linear’s secret to building beloved B2B products | Nan Yu (Head of Product)"
-youtube_url: "https://www.youtube.com/watch?v=nTr21kgCFF4"
-video_id: "nTr21kgCFF4"
-description: |
-  Nan Yu is the head of product at Linear, one of the most beloved and fastest-growing B2B SaaS products out there today, and the gold standard for high-performing tech teams. In our conversation,...
-duration_seconds: 4868.0
-duration: "1:21:08"
-view_count: 39440
-channel: "Lenny's Podcast"
+guest: Nancy Duarte
+title: 'Storytelling with Nancy Duarte: How to craft compelling presentations and
+  tell a story that sticks'
+youtube_url: https://www.youtube.com/watch?v=-kHkWgjGD7U
+video_id: -kHkWgjGD7U
+description: Nancy Duarte is the CEO of Duarte Inc. and has helped create over 250,000
+  presentations for influential business leaders across the globe, including Apple,
+  TED, the World Bank, and Al Gore’s...
+duration_seconds: 4644.0
+duration: '1:17:24'
+view_count: 32045
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- activation
+- metrics
+- roadmap
+- a/b testing
+- experimentation
+- analytics
+- conversion
+- subscription
+- hiring
+- culture
+- management
+- strategy
+- vision
 ---
 
 # Linear’s secret to building beloved B2B products | Nan Yu (Head of Product)

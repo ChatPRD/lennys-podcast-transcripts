@@ -1,14 +1,34 @@
 ---
-guest: "Katie Dill"
-title: "Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)"
-youtube_url: "https://www.youtube.com/watch?v=gfEEcssu304"
-video_id: "gfEEcssu304"
-description: |
-  Katie Dill is the Head of Design at Stripe. Previously, she was Head of Experience Design at Airbnb and Head of Design at Lyft. Katie has been named one of Business Insider’s 10 People Changing...
+guest: Katie Dill
+title: Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe,
+  Airbnb, Lyft)
+youtube_url: https://www.youtube.com/watch?v=gfEEcssu304
+video_id: gfEEcssu304
+description: 'Katie Dill is the Head of Design at Stripe. Previously, she was Head
+  of Experience Design at Airbnb and Head of Design at Lyft. Katie has been named
+  one of Business Insider’s 10 People Changing...
+
+  '
 duration_seconds: 5641.0
-duration: "1:34:01"
+duration: '1:34:01'
 view_count: 68045
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- activation
+- onboarding
+- metrics
+- okrs
+- roadmap
+- prioritization
+- user research
+- iteration
+- conversion
+- subscription
+- revenue
+- hiring
+- team building
+- culture
 ---
 
 # Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)

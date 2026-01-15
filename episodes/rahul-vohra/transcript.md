@@ -1,14 +1,33 @@
 ---
-guest: "Rahul Vohra"
-title: "Superhuman's secret to success | Rahul Vohra (CEO and founder)"
-youtube_url: "https://www.youtube.com/watch?v=0igjSRZyX-w"
-video_id: "0igjSRZyX-w"
-description: |
-  Rahul Vohra is the founder and CEO of Superhuman. Prior to Superhuman, Rahul founded Rapportive, the first Gmail plug-in to scale to millions of users, which he sold to LinkedIn in 2012. He...
+guest: Rahul Vohra
+title: Superhuman's secret to success | Rahul Vohra (CEO and founder)
+youtube_url: https://www.youtube.com/watch?v=0igjSRZyX-w
+video_id: 0igjSRZyX-w
+description: 'Rahul Vohra is the founder and CEO of Superhuman. Prior to Superhuman,
+  Rahul founded Rapportive, the first Gmail plug-in to scale to millions of users,
+  which he sold to LinkedIn in 2012. He...
+
+  '
 duration_seconds: 5108.0
-duration: "1:25:08"
+duration: '1:25:08'
 view_count: 35311
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- onboarding
+- metrics
+- okrs
+- roadmap
+- a/b testing
+- experimentation
+- analytics
+- funnel
+- pricing
+- monetization
+- hiring
 ---
 
 # Superhuman's secret to success | Rahul Vohra (CEO and founder)

@@ -1,14 +1,32 @@
 ---
-guest: "Merci Grace"
-title: "Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)"
-youtube_url: "https://www.youtube.com/watch?v=6UHAop9fhNU"
-video_id: "6UHAop9fhNU"
-description: |
-  Ami Vora is the Chief Product Officer of Faire, which connects independent retailers and brands around the world. Before Faire, Ami spent over 15 years at Meta, including as VP of Product and...
-duration_seconds: 5039.0
-duration: "1:23:59"
-view_count: 40831
-channel: "Lenny's Podcast"
+guest: Merci Grace
+title: How to work through fear, give hard feedback, and doing layoffs with grace
+  | Matt Mochary
+youtube_url: https://www.youtube.com/watch?v=bCel0X2Ta7U
+video_id: bCel0X2Ta7U
+description: Matt Mochary, CEO of Mochary Method, is a full-time executive coach who
+  has worked with some of the biggest names in tech and finance, including investor
+  Naval Ravikant and the CEOs of Notion,...
+duration_seconds: 4268.0
+duration: '1:11:08'
+view_count: 69199
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- activation
+- onboarding
+- metrics
+- user research
+- experimentation
+- analytics
+- funnel
+- conversion
+- pricing
+- subscription
+- revenue
+- hiring
+- culture
 ---
 
 # Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)

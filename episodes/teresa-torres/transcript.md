@@ -1,14 +1,33 @@
 ---
-guest: "Teresa Torres"
-title: "Build better products with continuous product discovery | Teresa Torres"
-youtube_url: "https://www.youtube.com/watch?v=9RFaz9ZBXpk"
-video_id: "9RFaz9ZBXpk"
-description: |
-  Teresa Torres is an internationally acclaimed author, speaker, and coach. She teaches a structured and sustainable system for continuous discovery that helps product teams infuse their daily...
+guest: Teresa Torres
+title: Build better products with continuous product discovery | Teresa Torres
+youtube_url: https://www.youtube.com/watch?v=9RFaz9ZBXpk
+video_id: 9RFaz9ZBXpk
+description: 'Teresa Torres is an internationally acclaimed author, speaker, and coach.
+  She teaches a structured and sustainable system for continuous discovery that helps
+  product teams infuse their daily...
+
+  '
 duration_seconds: 2898.0
-duration: "48:18"
+duration: '48:18'
 view_count: 53376
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- retention
+- onboarding
+- metrics
+- roadmap
+- user research
+- conversion
+- culture
+- management
+- strategy
+- vision
+- mission
+- persona
+- design
+- ux
+- ui
 ---
 
 # Build better products with continuous product discovery | Teresa Torres

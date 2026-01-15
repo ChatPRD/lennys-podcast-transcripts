@@ -1,14 +1,34 @@
 ---
-guest: "Dalton Caldwell"
-title: "Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)"
-youtube_url: "https://www.youtube.com/watch?v=m7LvNTbaqSI"
-video_id: "m7LvNTbaqSI"
-description: |
-  Dalton Caldwell is Managing Director and Group Partner at Y Combinator. Prior to YC, he was the co-founder and CEO of imeem (acquired by MySpace in 2009) and the co-founder and CEO of App.net....
+guest: Dalton Caldwell
+title: 'Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more
+  | Dalton Caldwell (YC)'
+youtube_url: https://www.youtube.com/watch?v=m7LvNTbaqSI
+video_id: m7LvNTbaqSI
+description: 'Dalton Caldwell is Managing Director and Group Partner at Y Combinator.
+  Prior to YC, he was the co-founder and CEO of imeem (acquired by MySpace in 2009)
+  and the co-founder and CEO of App.net....
+
+  '
 duration_seconds: 4853.0
-duration: "1:20:53"
+duration: '1:20:53'
 view_count: 260707
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- churn
+- metrics
+- okrs
+- roadmap
+- a/b testing
+- experimentation
+- analytics
+- monetization
+- hiring
+- culture
+- management
+- strategy
+- vision
+- mission
 ---
 
 # Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)

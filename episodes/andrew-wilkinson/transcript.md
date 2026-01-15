@@ -1,14 +1,34 @@
 ---
-guest: "Andrew Wilkinson"
-title: "I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson"
-youtube_url: "https://www.youtube.com/watch?v=VxAwUb86MUE"
-video_id: "VxAwUb86MUE"
-description: |
-  Andrew Wilkinson is the co‑founder of Tiny, a holding company that quietly owns more than three dozen profitable internet and consumer brands, including Dribbble and the AeroPress coffee...
+guest: Andrew Wilkinson
+title: I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea.
+  | Andrew Wilkinson
+youtube_url: https://www.youtube.com/watch?v=VxAwUb86MUE
+video_id: VxAwUb86MUE
+description: 'Andrew Wilkinson is the co‑founder of Tiny, a holding company that quietly
+  owns more than three dozen profitable internet and consumer brands, including Dribbble
+  and the AeroPress coffee...
+
+  '
 duration_seconds: 5308.0
-duration: "1:28:28"
+duration: '1:28:28'
 view_count: 57875
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- churn
+- metrics
+- conversion
+- pricing
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- competition
+- market
 ---
 
 # I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson

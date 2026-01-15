@@ -1,14 +1,34 @@
 ---
-guest: "Barbra Gago"
-title: "Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)"
-youtube_url: "https://www.youtube.com/watch?v=gCEaUfZUuI0"
-video_id: "gCEaUfZUuI0"
-description: |
-  Barbra Gago is the founder and CEO of Pando, where she’s democratizing career progression. Previously she worked as the Chief Marketing Officer and Global Head of Marketing at Miro, where...
+guest: Barbra Gago
+title: Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse,
+  Culture Amp)
+youtube_url: https://www.youtube.com/watch?v=gCEaUfZUuI0
+video_id: gCEaUfZUuI0
+description: 'Barbra Gago is the founder and CEO of Pando, where she’s democratizing
+  career progression. Previously she worked as the Chief Marketing Officer and Global
+  Head of Marketing at Miro, where...
+
+  '
 duration_seconds: 3348.0
-duration: "55:48"
+duration: '55:48'
 view_count: 3496
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- onboarding
+- metrics
+- iteration
+- analytics
+- conversion
+- revenue
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
+- positioning
 ---
 
 # Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)

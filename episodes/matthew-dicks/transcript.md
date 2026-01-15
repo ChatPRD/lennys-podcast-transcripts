@@ -1,14 +1,33 @@
 ---
-guest: "Matthew Dicks"
-title: "How to tell better stories | Matthew Dicks (Storyworthy)"
-youtube_url: "https://www.youtube.com/watch?v=J4wguyJZI6A"
-video_id: "J4wguyJZI6A"
-description: |
-  Matthew Dicks is a best-selling author, columnist, blogger, podcaster, playwright, and teacher. He wrote my all-time favorite book on storytelling, Storyworthy. He is an elementary school teacher...
+guest: Matthew Dicks
+title: How to tell better stories | Matthew Dicks (Storyworthy)
+youtube_url: https://www.youtube.com/watch?v=J4wguyJZI6A
+video_id: J4wguyJZI6A
+description: 'Matthew Dicks is a best-selling author, columnist, blogger, podcaster,
+  playwright, and teacher. He wrote my all-time favorite book on storytelling, Storyworthy.
+  He is an elementary school teacher...
+
+  '
 duration_seconds: 6177.0
-duration: "1:42:57"
+duration: '1:42:57'
 view_count: 57944
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- funnel
+- conversion
+- hiring
+- vision
+- mission
+- market
+- persona
+- design
+- ux
+- ui
+- engineering
+- founder
+- saas
+- platform
 ---
 
 # How to tell better stories | Matthew Dicks (Storyworthy)

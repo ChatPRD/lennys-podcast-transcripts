@@ -1,14 +1,33 @@
 ---
-guest: "Ray Cao"
-title: "Product management theater | Marty Cagan (Silicon Valley Product Group)"
-youtube_url: "https://www.youtube.com/watch?v=9N4ZgNaWvI0"
-video_id: "9N4ZgNaWvI0"
-description: |
-  Marty Cagan is a luminary in the world of product. He’s the author of two of the most foundational books for product teams and product leaders (Inspired and Empowered), he’s the founder...
+guest: Ray Cao
+title: Product management theater | Marty Cagan (Silicon Valley Product Group)
+youtube_url: https://www.youtube.com/watch?v=9N4ZgNaWvI0
+video_id: 9N4ZgNaWvI0
+description: 'Marty Cagan is a luminary in the world of product. He’s the author of
+  two of the most foundational books for product teams and product leaders (Inspired and Empowered),
+  he’s the founder...
+
+  '
 duration_seconds: 5115.0
-duration: "1:25:15"
+duration: '1:25:15'
 view_count: 226150
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- okrs
+- roadmap
+- prioritization
+- iteration
+- a/b testing
+- experimentation
+- analytics
+- funnel
+- conversion
+- pricing
+- monetization
+- revenue
+- hiring
+- culture
 ---
 
 # Product management theater | Marty Cagan (Silicon Valley Product Group)

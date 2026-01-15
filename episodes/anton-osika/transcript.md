@@ -1,14 +1,34 @@
 ---
-guest: "Anton Osika"
-title: "Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)"
-youtube_url: "https://www.youtube.com/watch?v=DZtGxNs9AVg"
-video_id: "DZtGxNs9AVg"
-description: |
-  Anton Osika is the co-founder and CEO of Lovable, which is building what they call “the last piece of software”—an AI-powered tool that turns descriptions into working products without...
+guest: Anton Osika
+title: 'Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and
+  co-founder)'
+youtube_url: https://www.youtube.com/watch?v=DZtGxNs9AVg
+video_id: DZtGxNs9AVg
+description: 'Anton Osika is the co-founder and CEO of Lovable, which is building
+  what they call “the last piece of software”—an AI-powered tool that turns descriptions
+  into working products without...
+
+  '
 duration_seconds: 4188.0
-duration: "1:09:48"
+duration: '1:09:48'
 view_count: 56547
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- roadmap
+- prioritization
+- mvp
+- experimentation
+- analytics
+- conversion
+- revenue
+- hiring
+- team building
+- management
+- vision
+- mission
+- market
+- persona
 ---
 
 # Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)

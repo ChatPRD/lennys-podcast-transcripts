@@ -1,5 +1,13 @@
 ---
-guest: "Teaser_2021"
+guest: Teaser_2021
+keywords:
+- ui
+- startup
+- founder
+- investors
+- ai
+- career
+- feedback
 ---
 
 # Teaser_2021

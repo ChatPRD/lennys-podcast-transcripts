@@ -1,14 +1,34 @@
 ---
-guest: "Jason Fried"
-title: "How to get press for your product | Jason Feifer (editor in chief of Entrepreneur magazine)"
-youtube_url: "https://www.youtube.com/watch?v=LZLdoAq3R7Y"
-video_id: "LZLdoAq3R7Y"
-description: |
-  Jason Feifer is the editor in chief of Entrepreneur magazine and a former editor at Fast Company. He’s also a podcast host, book author, keynote speaker, and startup advisor. Every week,...
+guest: Jason Fried
+title: How to get press for your product | Jason Feifer (editor in chief of Entrepreneur
+  magazine)
+youtube_url: https://www.youtube.com/watch?v=LZLdoAq3R7Y
+video_id: LZLdoAq3R7Y
+description: 'Jason Feifer is the editor in chief of Entrepreneur magazine and a former
+  editor at Fast Company. He’s also a podcast host, book author, keynote speaker,
+  and startup advisor. Every week,...
+
+  '
 duration_seconds: 6148.0
-duration: "1:42:28"
+duration: '1:42:28'
 view_count: 3834
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- metrics
+- okrs
+- kpis
+- roadmap
+- data-driven
+- pricing
+- subscription
+- revenue
+- hiring
+- management
+- strategy
+- vision
+- mission
 ---
 
 # How to get press for your product | Jason Feifer (editor in chief of Entrepreneur magazine)

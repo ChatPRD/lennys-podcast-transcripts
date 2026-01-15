@@ -1,14 +1,33 @@
 ---
-guest: "Julia Schottenstein"
-title: "M&A, competition, pricing, and investing | Julia Schottenstein (dbt Labs)"
-youtube_url: "https://www.youtube.com/watch?v=y9hmrMBRPDI"
-video_id: "y9hmrMBRPDI"
-description: |
-  Julia Schottenstein is a product lead at dbt Labs, a data transformation company, and an active angel investor in data and infrastructure startups. She first got excited about dbt in 2019 when...
+guest: Julia Schottenstein
+title: M&A, competition, pricing, and investing | Julia Schottenstein (dbt Labs)
+youtube_url: https://www.youtube.com/watch?v=y9hmrMBRPDI
+video_id: y9hmrMBRPDI
+description: 'Julia Schottenstein is a product lead at dbt Labs, a data transformation
+  company, and an active angel investor in data and infrastructure startups. She first
+  got excited about dbt in 2019 when...
+
+  '
 duration_seconds: 3651.0
-duration: "1:00:51"
+duration: '1:00:51'
 view_count: 3577
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- metrics
+- prioritization
+- analytics
+- conversion
+- pricing
+- revenue
+- culture
+- management
+- strategy
+- vision
+- mission
+- positioning
+- competition
 ---
 
 # M&A, competition, pricing, and investing | Julia Schottenstein (dbt Labs)

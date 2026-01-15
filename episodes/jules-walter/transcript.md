@@ -1,14 +1,33 @@
 ---
-guest: "Jules Walter"
-title: "Leveraging mentors to uplevel your career | Jules Walter (YouTube, Slack)"
-youtube_url: "https://www.youtube.com/watch?v=zn2JNbZwf00"
-video_id: "zn2JNbZwf00"
-description: |
-  Jules Walter is a product leader at YouTube and co-founder of both the Black Product Managers Network and Codepath.org. Previously, he led monetization and mobile growth teams at Slack. He’s...
+guest: Jules Walter
+title: Leveraging mentors to uplevel your career | Jules Walter (YouTube, Slack)
+youtube_url: https://www.youtube.com/watch?v=zn2JNbZwf00
+video_id: zn2JNbZwf00
+description: 'Jules Walter is a product leader at YouTube and co-founder of both the
+  Black Product Managers Network and Codepath.org. Previously, he led monetization
+  and mobile growth teams at Slack. He’s...
+
+  '
 duration_seconds: 4227.0
-duration: "1:10:27"
+duration: '1:10:27'
 view_count: 10296
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- activation
+- onboarding
+- metrics
+- okrs
+- roadmap
+- user research
+- iteration
+- monetization
+- revenue
+- leadership
+- management
+- strategy
+- vision
 ---
 
 # Leveraging mentors to uplevel your career | Jules Walter (YouTube, Slack)

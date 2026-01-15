@@ -1,14 +1,34 @@
 ---
-guest: "Kristen Berman"
-title: "Using behavioral science to improve your product | Kristen Berman (Irrational Labs)"
-youtube_url: "https://www.youtube.com/watch?v=u53fplD_C30"
-video_id: "u53fplD_C30"
-description: |
-  Kristen Berman is the CEO and co-founder of Irrational Labs, where she helps companies like Google, Airbnb, PayPal, Microsoft, and LinkedIn improve their products and services through behavioral...
+guest: Kristen Berman
+title: Using behavioral science to improve your product | Kristen Berman (Irrational
+  Labs)
+youtube_url: https://www.youtube.com/watch?v=u53fplD_C30
+video_id: u53fplD_C30
+description: 'Kristen Berman is the CEO and co-founder of Irrational Labs, where she
+  helps companies like Google, Airbnb, PayPal, Microsoft, and LinkedIn improve their
+  products and services through behavioral...
+
+  '
 duration_seconds: 3375.0
-duration: "56:15"
+duration: '56:15'
 view_count: 12123
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- activation
+- onboarding
+- customer discovery
+- conversion
+- hiring
+- culture
+- management
+- market
+- persona
+- design
+- ux
+- ui
+- startup
 ---
 
 # Using behavioral science to improve your product | Kristen Berman (Irrational Labs)

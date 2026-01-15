@@ -1,14 +1,34 @@
 ---
-guest: "Naomi Gleit"
-title: "Meta’s head of product on working with Mark Zuckerberg, early growth tactics, and more | Naomi Gleit"
-youtube_url: "https://www.youtube.com/watch?v=sTYuKgzZoL8"
-video_id: "sTYuKgzZoL8"
-description: |
-  Naomi Gleit is head of product at Meta, joined as employee #29, and is the longest-serving executive at Meta other than Mark Zuckerberg. She’s been at the center of some of the company’s...
+guest: Naomi Gleit
+title: Meta’s head of product on working with Mark Zuckerberg, early growth tactics,
+  and more | Naomi Gleit
+youtube_url: https://www.youtube.com/watch?v=sTYuKgzZoL8
+video_id: sTYuKgzZoL8
+description: 'Naomi Gleit is head of product at Meta, joined as employee #29, and
+  is the longest-serving executive at Meta other than Mark Zuckerberg. She’s been
+  at the center of some of the company’s...
+
+  '
 duration_seconds: 5894.0
-duration: "1:38:14"
+duration: '1:38:14'
 view_count: 41690
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- product-market fit
+- growth
+- retention
+- acquisition
+- activation
+- onboarding
+- churn
+- roadmap
+- iteration
+- a/b testing
+- experimentation
+- data-driven
+- analytics
+- monetization
+- hiring
 ---
 
 # Meta’s head of product on working with Mark Zuckerberg, early growth tactics, and more | Naomi Gleit

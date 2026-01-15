@@ -1,14 +1,34 @@
 ---
-guest: "Scott Belsky"
-title: "Lessons on product sense, AI, the first mile experience, and the messy middle | Scott Belsky (Adobe)"
-youtube_url: "https://www.youtube.com/watch?v=HCKosdV1J-8"
-video_id: "HCKosdV1J-8"
-description: |
-  Scott Belsky is an entrepreneur, author, investor, and currently Adobe’s Chief Strategy Officer and EVP of Design and Emerging Products. He founded Behance, an online platform for creative...
+guest: Scott Belsky
+title: Lessons on product sense, AI, the first mile experience, and the messy middle
+  | Scott Belsky (Adobe)
+youtube_url: https://www.youtube.com/watch?v=HCKosdV1J-8
+video_id: HCKosdV1J-8
+description: 'Scott Belsky is an entrepreneur, author, investor, and currently Adobe’s
+  Chief Strategy Officer and EVP of Design and Emerging Products. He founded Behance,
+  an online platform for creative...
+
+  '
 duration_seconds: 3753.0
-duration: "1:02:33"
+duration: '1:02:33'
 view_count: 12526
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- onboarding
+- metrics
+- prioritization
+- mvp
+- experimentation
+- analytics
+- funnel
+- subscription
+- revenue
+- hiring
+- culture
 ---
 
 # Lessons on product sense, AI, the first mile experience, and the messy middle | Scott Belsky (Adobe)

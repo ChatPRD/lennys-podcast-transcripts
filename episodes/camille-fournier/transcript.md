@@ -1,14 +1,34 @@
 ---
-guest: "Camille Fournier"
-title: "The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)"
-youtube_url: "https://www.youtube.com/watch?v=hZSh0rs20uI"
-video_id: "hZSh0rs20uI"
-description: |
-  Camille Fournier is the author of The Manager’s Path, which many consider the definitive guide for navigating one’s career path in tech. Camille was previously the CTO of Rent the Runway,...
+guest: Camille Fournier
+title: The things engineers are desperate for PMs to understand | Camille Fournier
+  (“The Manager’s Path”)
+youtube_url: https://www.youtube.com/watch?v=hZSh0rs20uI
+video_id: hZSh0rs20uI
+description: 'Camille Fournier is the author of The Manager’s Path, which many consider
+  the definitive guide for navigating one’s career path in tech. Camille was previously
+  the CTO of Rent the Runway,...
+
+  '
 duration_seconds: 4995.0
-duration: "1:23:15"
+duration: '1:23:15'
 view_count: 15738
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- onboarding
+- metrics
+- okrs
+- roadmap
+- culture
+- leadership
+- management
+- strategy
+- vision
+- market
+- persona
+- design
+- ui
+- engineering
 ---
 
 # The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)

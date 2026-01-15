@@ -1,14 +1,33 @@
 ---
-guest: "Nilan Peiris"
-title: "How to drive word of mouth | Nilan Peiris (CPO of Wise)"
-youtube_url: "https://www.youtube.com/watch?v=xZifSLGOrrw"
-video_id: "xZifSLGOrrw"
-description: |
-  Nilan Peiris is Chief Product Officer at Wise, one of the fastest-growing (and profitable) tech companies in the world. Wise allows anyone to send money in more than 60 currencies to over 160...
+guest: Nilan Peiris
+title: How to drive word of mouth | Nilan Peiris (CPO of Wise)
+youtube_url: https://www.youtube.com/watch?v=xZifSLGOrrw
+video_id: xZifSLGOrrw
+description: 'Nilan Peiris is Chief Product Officer at Wise, one of the fastest-growing
+  (and profitable) tech companies in the world. Wise allows anyone to send money in
+  more than 60 currencies to over 160...
+
+  '
 duration_seconds: 4594.0
-duration: "1:16:34"
+duration: '1:16:34'
 view_count: 13919
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- onboarding
+- kpis
+- roadmap
+- prioritization
+- experimentation
+- analytics
+- conversion
+- pricing
+- revenue
+- culture
+- leadership
+- management
+- strategy
+- vision
 ---
 
 # How to drive word of mouth | Nilan Peiris (CPO of Wise)

@@ -1,14 +1,34 @@
 ---
-guest: "Mayur Kamat"
-title: "Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat (CPO at N26)"
-youtube_url: "https://www.youtube.com/watch?v=UVyfuSBwbNA"
-video_id: "UVyfuSBwbNA"
-description: |
-  Mayur Kamat is the chief product officer at N26—a $9 billion neobank serving over 7 million customers in 25 countries—where he leads product, design, data, and research. Prior to N26, Mayur...
+guest: Mayur Kamat
+title: Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat
+  (CPO at N26)
+youtube_url: https://www.youtube.com/watch?v=UVyfuSBwbNA
+video_id: UVyfuSBwbNA
+description: 'Mayur Kamat is the chief product officer at N26—a $9 billion neobank
+  serving over 7 million customers in 25 countries—where he leads product, design,
+  data, and research. Prior to N26, Mayur...
+
+  '
 duration_seconds: 5876.0
-duration: "1:37:56"
+duration: '1:37:56'
 view_count: 12230
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- onboarding
+- metrics
+- kpis
+- roadmap
+- experimentation
+- analytics
+- conversion
+- pricing
+- revenue
+- hiring
+- culture
+- leadership
 ---
 
 # Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat (CPO at N26)

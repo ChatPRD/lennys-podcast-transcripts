@@ -1,14 +1,34 @@
 ---
-guest: "Evan LaPointe"
-title: "Improve strategy, influence, and decision-making by understanding your brain | Evan LaPointe"
-youtube_url: "https://www.youtube.com/watch?v=GECtyEj9UPA"
-video_id: "GECtyEj9UPA"
-description: |
-  Evan LaPointe is the founder of CORE Sciences, which teaches companies and individuals how our brains work and how that translates to improved collaboration, better products, faster decision-makin...
+guest: Evan LaPointe
+title: Improve strategy, influence, and decision-making by understanding your brain
+  | Evan LaPointe
+youtube_url: https://www.youtube.com/watch?v=GECtyEj9UPA
+video_id: GECtyEj9UPA
+description: 'Evan LaPointe is the founder of CORE Sciences, which teaches companies
+  and individuals how our brains work and how that translates to improved collaboration,
+  better products, faster decision-makin...
+
+  '
 duration_seconds: 8079.0
-duration: "2:14:39"
+duration: '2:14:39'
 view_count: 16336
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- metrics
+- roadmap
+- prioritization
+- experimentation
+- analytics
+- conversion
+- monetization
+- subscription
+- hiring
+- culture
+- leadership
+- management
+- strategy
 ---
 
 # Improve strategy, influence, and decision-making by understanding your brain | Evan LaPointe

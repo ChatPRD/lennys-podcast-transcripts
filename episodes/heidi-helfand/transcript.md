@@ -1,14 +1,33 @@
 ---
-guest: "Heidi Helfand"
-title: "The art and wisdom of changing teams | Heidi Helfand (Author of Dynamic Reteaming)"
-youtube_url: "https://www.youtube.com/watch?v=0wN5wSImUdY"
-video_id: "0wN5wSImUdY"
-description: |
-  Heidi Helfand is the author of Dynamic Reteaming, which outlines practical strategies for orchestrating successful team and company org changes. Her work is informed by more than 20 years in...
+guest: Heidi Helfand
+title: The art and wisdom of changing teams | Heidi Helfand (Author of Dynamic Reteaming)
+youtube_url: https://www.youtube.com/watch?v=0wN5wSImUdY
+video_id: 0wN5wSImUdY
+description: 'Heidi Helfand is the author of Dynamic Reteaming, which outlines practical
+  strategies for orchestrating successful team and company org changes. Her work is
+  informed by more than 20 years in...
+
+  '
 duration_seconds: 4221.0
-duration: "1:10:21"
+duration: '1:10:21'
 view_count: 5036
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- onboarding
+- roadmap
+- iteration
+- analytics
+- revenue
+- hiring
+- culture
+- strategy
+- vision
+- mission
+- market
+- design
+- ux
 ---
 
 # The art and wisdom of changing teams | Heidi Helfand (Author of Dynamic Reteaming)

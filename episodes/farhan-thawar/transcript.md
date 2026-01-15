@@ -1,14 +1,34 @@
 ---
-guest: "Farhan Thawar"
-title: "How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng)"
-youtube_url: "https://www.youtube.com/watch?v=C_lhMOjG7PE"
-video_id: "C_lhMOjG7PE"
-description: |
-  Farhan Thawar is the head of engineering at Shopify, where he oversees more than 1,000 engineers and a platform that powers over 10% of all U.S. e-commerce. Before Shopify, he was VP of engineering...
+guest: Farhan Thawar
+title: How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of
+  Eng)
+youtube_url: https://www.youtube.com/watch?v=C_lhMOjG7PE
+video_id: C_lhMOjG7PE
+description: 'Farhan Thawar is the head of engineering at Shopify, where he oversees
+  more than 1,000 engineers and a platform that powers over 10% of all U.S. e-commerce.
+  Before Shopify, he was VP of engineering...
+
+  '
 duration_seconds: 6003.0
-duration: "1:40:03"
+duration: '1:40:03'
 view_count: 23570
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- metrics
+- roadmap
+- iteration
+- conversion
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
+- market
+- persona
+- design
+- ux
 ---
 
 # How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng)

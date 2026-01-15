@@ -1,14 +1,33 @@
 ---
-guest: "Christine Itwaru"
-title: "Understanding the role of product ops | Christine Itwaru (Pendo)"
-youtube_url: "https://www.youtube.com/watch?v=tGS-NhxrN_Q"
-video_id: "tGS-NhxrN_Q"
-description: |
-  Christine Itwaru is a longtime product operations leader at Pendo and more recently has taken on the larger role of Principal Strategist there. Before leading product ops, Christine spent 12...
+guest: Christine Itwaru
+title: Understanding the role of product ops | Christine Itwaru (Pendo)
+youtube_url: https://www.youtube.com/watch?v=tGS-NhxrN_Q
+video_id: tGS-NhxrN_Q
+description: 'Christine Itwaru is a longtime product operations leader at Pendo and
+  more recently has taken on the larger role of Principal Strategist there. Before
+  leading product ops, Christine spent 12...
+
+  '
 duration_seconds: 4000.0
-duration: "1:06:40"
+duration: '1:06:40'
 view_count: 8973
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- onboarding
+- metrics
+- roadmap
+- user research
+- analytics
+- revenue
+- hiring
+- leadership
+- management
+- strategy
+- market
+- persona
+- design
 ---
 
 # Understanding the role of product ops | Christine Itwaru (Pendo)

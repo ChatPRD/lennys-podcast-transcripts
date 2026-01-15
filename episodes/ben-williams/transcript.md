@@ -1,14 +1,34 @@
 ---
-guest: "Ben Williams"
-title: "How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)"
-youtube_url: "https://www.youtube.com/watch?v=21sFTZzIfUk"
-video_id: "21sFTZzIfUk"
-description: |
-  Ben Williams is VP of Product at Snyk, an industry-leading security platform for developers, last valued at $8.5b. He’s also a product and growth advisor with over 20 years of experience...
+guest: Ben Williams
+title: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product
+  at Snyk)
+youtube_url: https://www.youtube.com/watch?v=21sFTZzIfUk
+video_id: 21sFTZzIfUk
+description: 'Ben Williams is VP of Product at Snyk, an industry-leading security
+  platform for developers, last valued at $8.5b. He’s also a product and growth advisor
+  with over 20 years of experience...
+
+  '
 duration_seconds: 5494.0
-duration: "1:31:34"
+duration: '1:31:34'
 view_count: 11302
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- onboarding
+- metrics
+- okrs
+- kpis
+- user research
+- iteration
+- experimentation
+- analytics
+- funnel
+- conversion
+- pricing
 ---
 
 # How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)

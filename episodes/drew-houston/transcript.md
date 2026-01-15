@@ -1,14 +1,32 @@
 ---
-guest: "Drew Houston"
-title: "How embracing your emotions will accelerate your career | Joe Hudson (Art of Accomplishment)"
-youtube_url: "https://www.youtube.com/watch?v=DYkE1gf37ts"
-video_id: "DYkE1gf37ts"
-description: |
-  Joe Hudson is one of the most sought-after executive coaches in Silicon Valley. He is the founder of Art of Accomplishment, a transformational coaching program that has helped tens of thousands...
-duration_seconds: 4727.0
-duration: "1:18:47"
-view_count: 26945
-channel: "Lenny's Podcast"
+guest: Drew Houston
+title: I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea.
+  | Andrew Wilkinson
+youtube_url: https://www.youtube.com/watch?v=VxAwUb86MUE
+video_id: VxAwUb86MUE
+description: Andrew Wilkinson is the co‑founder of Tiny, a holding company that quietly
+  owns more than three dozen profitable internet and consumer brands, including Dribbble
+  and the AeroPress coffee...
+duration_seconds: 5308.0
+duration: '1:28:28'
+view_count: 57875
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- roadmap
+- mvp
+- iteration
+- analytics
+- monetization
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
 ---
 
 # How embracing your emotions will accelerate your career | Joe Hudson (Art of Accomplishment)

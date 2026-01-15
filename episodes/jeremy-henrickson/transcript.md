@@ -1,14 +1,33 @@
 ---
-guest: "Jeremy Henrickson"
-title: "Moving fast and navigating uncertainty | Jeremy Henrickson (Rippling, Coinbase)"
-youtube_url: "https://www.youtube.com/watch?v=CsruQYKISYI"
-video_id: "CsruQYKISYI"
-description: |
-  Jeremy Henrickson is Rippling’s SVP of Product, responsible for scaling their product and design team across three continents. Previously, as Chief Product Officer at Coinbase, he oversaw...
+guest: Jeremy Henrickson
+title: Moving fast and navigating uncertainty | Jeremy Henrickson (Rippling, Coinbase)
+youtube_url: https://www.youtube.com/watch?v=CsruQYKISYI
+video_id: CsruQYKISYI
+description: 'Jeremy Henrickson is Rippling’s SVP of Product, responsible for scaling
+  their product and design team across three continents. Previously, as Chief Product
+  Officer at Coinbase, he oversaw...
+
+  '
 duration_seconds: 4112.0
-duration: "1:08:32"
+duration: '1:08:32'
 view_count: 7499
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- prioritization
+- user research
+- mvp
+- analytics
+- funnel
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
 ---
 
 # Moving fast and navigating uncertainty | Jeremy Henrickson (Rippling, Coinbase)

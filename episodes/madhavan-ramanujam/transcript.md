@@ -1,14 +1,34 @@
 ---
-guest: "Madhavan Ramanujam"
-title: "Pricing your AI product: Lessons from 400+ companies and 50 unicorns | Madhavan Ramanujam"
-youtube_url: "https://www.youtube.com/watch?v=NR85H55eYkM"
-video_id: "NR85H55eYkM"
-description: |
-  Madhavan Ramanujam is the world’s foremost expert on pricing and monetization strategy. As managing partner at Simon-Kucher, he helped over 250 companies, including 30 unicorns, architect...
+guest: Madhavan Ramanujam
+title: 'Pricing your AI product: Lessons from 400+ companies and 50 unicorns | Madhavan
+  Ramanujam'
+youtube_url: https://www.youtube.com/watch?v=NR85H55eYkM
+video_id: NR85H55eYkM
+description: 'Madhavan Ramanujam is the world’s foremost expert on pricing and monetization
+  strategy. As managing partner at Simon-Kucher, he helped over 250 companies, including
+  30 unicorns, architect...
+
+  '
 duration_seconds: 4304.0
-duration: "1:11:44"
+duration: '1:11:44'
 view_count: 46113
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- churn
+- metrics
+- kpis
+- mvp
+- conversion
+- pricing
+- monetization
+- subscription
+- revenue
+- hiring
+- leadership
+- strategy
 ---
 
 # Pricing your AI product: Lessons from 400+ companies and 50 unicorns | Madhavan Ramanujam

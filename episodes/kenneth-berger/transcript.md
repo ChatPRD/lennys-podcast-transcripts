@@ -1,14 +1,34 @@
 ---
-guest: "Kenneth Berger"
-title: "Why not asking for what you want is holding you back | Kenneth Berger (exec coach, first PM @Slack)"
-youtube_url: "https://www.youtube.com/watch?v=KSCjl_VIdak"
-video_id: "KSCjl_VIdak"
-description: |
-  Kenneth Berger coaches startup leaders on how to prevent burnout, advocate for their desired lifestyle, and make a meaningful impact on the world. He’s spent more than  20 years in the tech...
+guest: Kenneth Berger
+title: Why not asking for what you want is holding you back | Kenneth Berger (exec
+  coach, first PM @Slack)
+youtube_url: https://www.youtube.com/watch?v=KSCjl_VIdak
+video_id: KSCjl_VIdak
+description: 'Kenneth Berger coaches startup leaders on how to prevent burnout, advocate
+  for their desired lifestyle, and make a meaningful impact on the world. He’s spent
+  more than  20 years in the tech...
+
+  '
 duration_seconds: 4416.0
-duration: "1:13:36"
+duration: '1:13:36'
 view_count: 12989
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- metrics
+- user research
+- iteration
+- conversion
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
+- market
+- persona
+- design
+- ui
 ---
 
 # Why not asking for what you want is holding you back | Kenneth Berger (exec coach, first PM @Slack)

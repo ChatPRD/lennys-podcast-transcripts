@@ -1,14 +1,33 @@
 ---
-guest: "Andy Johns"
-title: "When enough is enough | Andy Johns (ex-FB, Twitter, Quora)"
-youtube_url: "https://www.youtube.com/watch?v=_93m4PriHyc"
-video_id: "_93m4PriHyc"
-description: |
-  Andy Johns is a former tech exec and VC who had a successful run at several startups—including Facebook, Twitter, Wealthfront, and Quora—but left it all behind a few years ago to take a...
+guest: Andy Johns
+title: When enough is enough | Andy Johns (ex-FB, Twitter, Quora)
+youtube_url: https://www.youtube.com/watch?v=_93m4PriHyc
+video_id: _93m4PriHyc
+description: 'Andy Johns is a former tech exec and VC who had a successful run at
+  several startups—including Facebook, Twitter, Wealthfront, and Quora—but left it
+  all behind a few years ago to take a...
+
+  '
 duration_seconds: 5192.0
-duration: "1:26:32"
+duration: '1:26:32'
 view_count: 11246
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- roadmap
+- user research
+- mvp
+- management
+- strategy
+- vision
+- persona
+- design
+- ui
+- wireframe
+- startup
+- founder
+- venture capital
+- investors
 ---
 
 # When enough is enough | Andy Johns (ex-FB, Twitter, Quora)

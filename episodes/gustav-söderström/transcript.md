@@ -1,14 +1,34 @@
 ---
-guest: "Gustav Söderström"
-title: "The science of product, big bets, and how AI is impacting the future of music | Gustav Söderström"
-youtube_url: "https://www.youtube.com/watch?v=QtJoYFyrdPI"
-video_id: "QtJoYFyrdPI"
-description: |
-  Gustav Söderström is the Co-President and Chief Product and Technology Officer at Spotify. He is responsible for Spotify’s global product and technology strategy, overseeing the product,...
+guest: Gustav Söderström
+title: The science of product, big bets, and how AI is impacting the future of music
+  | Gustav Söderström
+youtube_url: https://www.youtube.com/watch?v=QtJoYFyrdPI
+video_id: QtJoYFyrdPI
+description: 'Gustav Söderström is the Co-President and Chief Product and Technology
+  Officer at Spotify. He is responsible for Spotify’s global product and technology
+  strategy, overseeing the product,...
+
+  '
 duration_seconds: 5070.0
-duration: "1:24:30"
+duration: '1:24:30'
 view_count: 15979
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- onboarding
+- metrics
+- user research
+- mvp
+- a/b testing
+- experimentation
+- funnel
+- conversion
+- monetization
+- subscription
+- hiring
 ---
 
 # The science of product, big bets, and how AI is impacting the future of music | Gustav Söderström

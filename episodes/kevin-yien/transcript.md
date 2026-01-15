@@ -1,14 +1,34 @@
 ---
-guest: "Kevin Yien"
-title: "Unorthodox PM tips: Automating user insights, unselling candidates, decision logs, more | Kevin Yien"
-youtube_url: "https://www.youtube.com/watch?v=xOTO98MXG9o"
-video_id: "xOTO98MXG9o"
-description: |
-  Kevin Yien leads product for merchant experiences at Stripe. Before that, he meandered his way from being a technical designer to a product manager, built the restaurants business and ecosystem...
+guest: Kevin Yien
+title: 'Unorthodox PM tips: Automating user insights, unselling candidates, decision
+  logs, more | Kevin Yien'
+youtube_url: https://www.youtube.com/watch?v=xOTO98MXG9o
+video_id: xOTO98MXG9o
+description: 'Kevin Yien leads product for merchant experiences at Stripe. Before
+  that, he meandered his way from being a technical designer to a product manager,
+  built the restaurants business and ecosystem...
+
+  '
 duration_seconds: 5321.0
-duration: "1:28:41"
+duration: '1:28:41'
 view_count: 26100
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- product-market fit
+- growth
+- retention
+- roadmap
+- prioritization
+- user research
+- iteration
+- a/b testing
+- experimentation
+- analytics
+- funnel
+- pricing
+- monetization
+- subscription
+- hiring
 ---
 
 # Unorthodox PM tips: Automating user insights, unselling candidates, decision logs, more | Kevin Yien

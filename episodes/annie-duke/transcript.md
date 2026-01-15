@@ -1,14 +1,34 @@
 ---
-guest: "Annie Duke"
-title: "This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)"
-youtube_url: "https://www.youtube.com/watch?v=svQMODvIGAE"
-video_id: "svQMODvIGAE"
-description: |
-  Annie Duke is a former professional poker player, a decision-making expert, and a special partner at First Round Capital. She is the author of Thinking in Bets (a national bestseller) and Quit:...
+guest: Annie Duke
+title: This will make you a better decision maker | Annie Duke (Thinking In Bets,
+  former pro poker player)
+youtube_url: https://www.youtube.com/watch?v=svQMODvIGAE
+video_id: svQMODvIGAE
+description: 'Annie Duke is a former professional poker player, a decision-making
+  expert, and a special partner at First Round Capital. She is the author of Thinking
+  in Bets (a national bestseller) and Quit:...
+
+  '
 duration_seconds: 4861.0
-duration: "1:21:01"
+duration: '1:21:01'
 view_count: 24134
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- acquisition
+- churn
+- roadmap
+- user research
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- market
+- persona
+- ui
+- startup
+- founder
+- investors
 ---
 
 # This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)

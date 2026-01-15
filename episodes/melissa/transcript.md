@@ -1,14 +1,33 @@
 ---
-guest: "Melissa"
-title: "Building high-performing teams | Melissa Tan (Webflow, Dropbox, Canva)"
-youtube_url: "https://www.youtube.com/watch?v=DoEfXj1b_ko"
-video_id: "DoEfXj1b_ko"
-description: |
-  Melissa Tan is an advisor, investor, and growth expert. She’s worked with fast-growing startups like Dropbox, Canva, Grammarly, and Miro, and for the past 2.5 years has been the Head of Growth...
+guest: Melissa
+title: Building high-performing teams | Melissa Tan (Webflow, Dropbox, Canva)
+youtube_url: https://www.youtube.com/watch?v=DoEfXj1b_ko
+video_id: DoEfXj1b_ko
+description: 'Melissa Tan is an advisor, investor, and growth expert. She’s worked
+  with fast-growing startups like Dropbox, Canva, Grammarly, and Miro, and for the
+  past 2.5 years has been the Head of Growth...
+
+  '
 duration_seconds: 4482.0
-duration: "1:14:42"
+duration: '1:14:42'
 view_count: 12103
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- metrics
+- okrs
+- roadmap
+- user research
+- experimentation
+- analytics
+- conversion
+- subscription
+- revenue
+- hiring
+- culture
+- leadership
+- management
 ---
 
 # Building high-performing teams | Melissa Tan (Webflow, Dropbox, Canva)

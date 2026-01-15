@@ -1,14 +1,32 @@
 ---
-guest: "Laura Modi"
-title: "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)"
-youtube_url: "https://www.youtube.com/watch?v=dLku0AiGPVA"
-video_id: "dLku0AiGPVA"
-description: |
-  Lauryn Isford is a product growth leader and practitioner, who most recently led Growth at Airtable, and is about to start something new 🤫.  In today’s episode, we get into the many tactics...
-duration_seconds: 3861.0
-duration: "1:04:21"
-view_count: 18254
-channel: "Lenny's Podcast"
+guest: Laura Modi
+title: Career frameworks, A/B testing, onboarding tips, selling to engineers |  Laura
+  Schaffer (Amplitude)
+youtube_url: https://www.youtube.com/watch?v=UMAmj1bciww
+video_id: UMAmj1bciww
+description: Laura Schaffer is the brand-new VP of Growth at Amplitude. Prior to this
+  role, she spent over 10 years leading product management and growth teams at Twilio,
+  Bandwidth, and Rapid. In today’s...
+duration_seconds: 4873.0
+duration: '1:21:13'
+view_count: 9069
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- onboarding
+- hiring
+- team building
+- culture
+- leadership
+- management
+- strategy
+- vision
+- positioning
+- market
+- persona
+- ui
+- startup
 ---
 
 # Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)

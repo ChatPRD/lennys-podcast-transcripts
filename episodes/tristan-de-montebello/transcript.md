@@ -1,14 +1,34 @@
 ---
-guest: "Tristan de Montebello"
-title: "Why most public speaking advice is wrong—and how to finally overcome anxiety | Tristan de Montebello"
-youtube_url: "https://www.youtube.com/watch?v=BQM3Yq93nVc"
-video_id: "BQM3Yq93nVc"
-description: |
-  Tristan de Montebello is the co-creator of Ultraspeaking, the most effective method I’ve come across for rapidly improving communication and presentation skills. In 2017, Tristan became the...
+guest: Tristan de Montebello
+title: Why most public speaking advice is wrong—and how to finally overcome anxiety
+  | Tristan de Montebello
+youtube_url: https://www.youtube.com/watch?v=BQM3Yq93nVc
+video_id: BQM3Yq93nVc
+description: 'Tristan de Montebello is the co-creator of Ultraspeaking, the most effective
+  method I’ve come across for rapidly improving communication and presentation skills.
+  In 2017, Tristan became the...
+
+  '
 duration_seconds: 6991.0
-duration: "1:56:31"
+duration: '1:56:31'
 view_count: 39257
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- a/b testing
+- experimentation
+- monetization
+- culture
+- management
+- vision
+- market
+- design
+- ui
+- founder
+- platform
+- ai
+- machine learning
+- career
 ---
 
 # Why most public speaking advice is wrong—and how to finally overcome anxiety | Tristan de Montebello

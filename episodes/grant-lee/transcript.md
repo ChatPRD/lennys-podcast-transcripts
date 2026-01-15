@@ -1,14 +1,34 @@
 ---
-guest: "Grant Lee"
-title: "“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee (co-founder)"
-youtube_url: "https://www.youtube.com/watch?v=3H0ngGU5pbM"
-video_id: "3H0ngGU5pbM"
-description: |
-  Grant Lee is the co-founder of Gamma, the AI-powered presentation tool that’s one of the hottest and most interesting AI startups in the world right now. They’re valued at over $2 billion,...
+guest: Grant Lee
+title: '“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee
+  (co-founder)'
+youtube_url: https://www.youtube.com/watch?v=3H0ngGU5pbM
+video_id: 3H0ngGU5pbM
+description: 'Grant Lee is the co-founder of Gamma, the AI-powered presentation tool
+  that’s one of the hottest and most interesting AI startups in the world right now.
+  They’re valued at over $2 billion,...
+
+  '
 duration_seconds: 6834.0
-duration: "1:53:54"
+duration: '1:53:54'
 view_count: 41679
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- pmf
+- growth
+- retention
+- acquisition
+- onboarding
+- metrics
+- prioritization
+- user research
+- iteration
+- a/b testing
+- experimentation
+- funnel
+- conversion
+- pricing
+- monetization
 ---
 
 # “Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee (co-founder)

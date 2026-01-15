@@ -1,14 +1,33 @@
 ---
-guest: "Melissa Perri + Denise Tilles"
-title: "The ultimate guide to product operations | Melissa Perri and Denise Tilles"
-youtube_url: "https://www.youtube.com/watch?v=9VdixM9KPN4"
-video_id: "9VdixM9KPN4"
-description: |
-  Melissa Perri is the CEO of Produx Labs, a product management training organization; author of the seminal PM book The Build Trap; and a former Harvard Business School professor of product...
+guest: Melissa Perri + Denise Tilles
+title: The ultimate guide to product operations | Melissa Perri and Denise Tilles
+youtube_url: https://www.youtube.com/watch?v=9VdixM9KPN4
+video_id: 9VdixM9KPN4
+description: 'Melissa Perri is the CEO of Produx Labs, a product management training
+  organization; author of the seminal PM book The Build Trap; and a former Harvard
+  Business School professor of product...
+
+  '
 duration_seconds: 4772.0
-duration: "1:19:32"
+duration: '1:19:32'
 view_count: 24171
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- churn
+- metrics
+- okrs
+- roadmap
+- prioritization
+- user research
+- analytics
+- revenue
+- hiring
+- leadership
+- management
+- strategy
+- vision
 ---
 
 # The ultimate guide to product operations | Melissa Perri and Denise Tilles

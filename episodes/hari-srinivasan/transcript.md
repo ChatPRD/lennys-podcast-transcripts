@@ -1,14 +1,34 @@
 ---
-guest: "Hari Srinivasan"
-title: "LinkedIn’s product evolution and the art of building complex systems | Hari Srinivasan (LinkedIn)"
-youtube_url: "https://www.youtube.com/watch?v=ZUwkTs_QWqg"
-video_id: "ZUwkTs_QWqg"
-description: |
-  Hari Srinivasan is VP of Product at LinkedIn Talent Solutions, where he oversees LinkedIn Recruiter, LinkedIn Jobs, and LinkedIn Learning. He’s also a frequent guest lecturer at Stanford...
+guest: Hari Srinivasan
+title: LinkedIn’s product evolution and the art of building complex systems | Hari
+  Srinivasan (LinkedIn)
+youtube_url: https://www.youtube.com/watch?v=ZUwkTs_QWqg
+video_id: ZUwkTs_QWqg
+description: 'Hari Srinivasan is VP of Product at LinkedIn Talent Solutions, where
+  he oversees LinkedIn Recruiter, LinkedIn Jobs, and LinkedIn Learning. He’s also
+  a frequent guest lecturer at Stanford...
+
+  '
 duration_seconds: 3888.0
-duration: "1:04:48"
+duration: '1:04:48'
 view_count: 7237
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- metrics
+- user research
+- experimentation
+- analytics
+- subscription
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
 ---
 
 # LinkedIn’s product evolution and the art of building complex systems | Hari Srinivasan (LinkedIn)

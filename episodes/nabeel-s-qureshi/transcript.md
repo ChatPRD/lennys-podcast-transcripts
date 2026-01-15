@@ -1,14 +1,34 @@
 ---
-guest: "Nabeel S. Qureshi"
-title: "How Palantir built the ultimate founder factory | Nabeel S. Qureshi (founder, writer, ex-Palantir)"
-youtube_url: "https://www.youtube.com/watch?v=xQkSenlJvwA"
-video_id: "xQkSenlJvwA"
-description: |
-  *Nabeel Qureshi* is an entrepreneur, writer, researcher, and visiting scholar of AI policy at the Mercatus Center (alongside Tyler Cowen). Previously, he spent nearly eight years at Palantir,...
+guest: Nabeel S. Qureshi
+title: How Palantir built the ultimate founder factory | Nabeel S. Qureshi (founder,
+  writer, ex-Palantir)
+youtube_url: https://www.youtube.com/watch?v=xQkSenlJvwA
+video_id: xQkSenlJvwA
+description: '*Nabeel Qureshi* is an entrepreneur, writer, researcher, and visiting
+  scholar of AI policy at the Mercatus Center (alongside Tyler Cowen). Previously,
+  he spent nearly eight years at Palantir,...
+
+  '
 duration_seconds: 5849.0
-duration: "1:37:29"
+duration: '1:37:29'
 view_count: 23065
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- retention
+- metrics
+- roadmap
+- iteration
+- analytics
+- revenue
+- hiring
+- culture
+- management
+- vision
+- mission
+- competition
+- market
+- persona
+- design
 ---
 
 # How Palantir built the ultimate founder factory | Nabeel S. Qureshi (founder, writer, ex-Palantir)

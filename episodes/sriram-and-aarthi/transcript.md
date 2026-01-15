@@ -1,14 +1,33 @@
 ---
-guest: "Sriram and Aarthi"
-title: "Hot takes and techno-optimism from tech’s top power couple | Sriram and Aarthi"
-youtube_url: "https://www.youtube.com/watch?v=HsD5ycT_umw"
-video_id: "HsD5ycT_umw"
-description: |
-  Aarthi Ramamurthy and Sriram Krishnan are founders, angel investors, and product leaders who host the podcast Aarthi and Sriram’s Good Time Show. They have both held leadership roles at major...
+guest: Sriram and Aarthi
+title: Hot takes and techno-optimism from tech’s top power couple | Sriram and Aarthi
+youtube_url: https://www.youtube.com/watch?v=HsD5ycT_umw
+video_id: HsD5ycT_umw
+description: 'Aarthi Ramamurthy and Sriram Krishnan are founders, angel investors,
+  and product leaders who host the podcast Aarthi and Sriram’s Good Time Show. They
+  have both held leadership roles at major...
+
+  '
 duration_seconds: 4972.0
-duration: "1:22:52"
+duration: '1:22:52'
 view_count: 6739
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- churn
+- iteration
+- funnel
+- monetization
+- hiring
+- leadership
+- strategy
+- competition
+- market
+- persona
+- design
+- ui
 ---
 
 # Hot takes and techno-optimism from tech’s top power couple | Sriram and Aarthi

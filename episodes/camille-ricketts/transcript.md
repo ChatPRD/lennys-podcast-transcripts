@@ -1,14 +1,33 @@
 ---
-guest: "Camille Ricketts"
-title: "How Notion leveraged community to build a $10B business | Camille Ricketts"
-youtube_url: "https://www.youtube.com/watch?v=bY5KC9Gguz8"
-video_id: "bY5KC9Gguz8"
-description: |
-  Camille Ricketts began her career in journalism, at the Wall Street Journal, in 2006. In 2010 she joined Tesla, where she worked in communications alongside Elon Musk. She transitioned into...
+guest: Camille Ricketts
+title: How Notion leveraged community to build a $10B business | Camille Ricketts
+youtube_url: https://www.youtube.com/watch?v=bY5KC9Gguz8
+video_id: bY5KC9Gguz8
+description: 'Camille Ricketts began her career in journalism, at the Wall Street
+  Journal, in 2006. In 2010 she joined Tesla, where she worked in communications alongside
+  Elon Musk. She transitioned into...
+
+  '
 duration_seconds: 4056.0
-duration: "1:07:36"
+duration: '1:07:36'
 view_count: 12661
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- onboarding
+- metrics
+- okrs
+- iteration
+- experimentation
+- analytics
+- conversion
+- freemium
+- subscription
+- revenue
+- hiring
 ---
 
 # How Notion leveraged community to build a $10B business | Camille Ricketts

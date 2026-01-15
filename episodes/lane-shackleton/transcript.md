@@ -1,14 +1,33 @@
 ---
-guest: "Lane Shackleton"
-title: "What sets great teams apart | Lane Shackleton (CPO of Coda)"
-youtube_url: "https://www.youtube.com/watch?v=XmgetFMgQZ0"
-video_id: "XmgetFMgQZ0"
-description: |
-  Lane Shackleton is CPO of Coda, where he’s been leading the product and design team for over eight years. Lane started his career as an Alaskan climbing guide and then as a manual reviewer...
+guest: Lane Shackleton
+title: What sets great teams apart | Lane Shackleton (CPO of Coda)
+youtube_url: https://www.youtube.com/watch?v=XmgetFMgQZ0
+video_id: XmgetFMgQZ0
+description: 'Lane Shackleton is CPO of Coda, where he’s been leading the product
+  and design team for over eight years. Lane started his career as an Alaskan climbing
+  guide and then as a manual reviewer...
+
+  '
 duration_seconds: 5392.0
-duration: "1:29:52"
+duration: '1:29:52'
 view_count: 11297
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- metrics
+- okrs
+- roadmap
+- iteration
+- experimentation
+- subscription
+- culture
+- leadership
+- management
+- strategy
+- vision
 ---
 
 # What sets great teams apart | Lane Shackleton (CPO of Coda)

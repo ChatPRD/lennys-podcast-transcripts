@@ -1,14 +1,32 @@
 ---
-guest: "Crystal W"
-title: "The ultimate guide to OKRs | Christina Wodtke (Stanford)"
-youtube_url: "https://www.youtube.com/watch?v=kvkL18Ue0dE"
-video_id: "kvkL18Ue0dE"
-description: |
-  Christina Wodtke is an author, Stanford University professor, and speaker who teaches strategies for building high-performing teams. She’s also the author of Radical Focus, which some consider...
-duration_seconds: 4393.0
-duration: "1:13:13"
-view_count: 33904
-channel: "Lenny's Podcast"
+guest: Crystal W
+title: How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek
+  and Kumu
+youtube_url: https://www.youtube.com/watch?v=lYaiyi2ZX6Q
+video_id: lYaiyi2ZX6Q
+description: You don't need lots of employees to achieve impressive growth, but you
+  do need a unique approach to hiring and measuring what matters most. Crystal Widjaja
+  has used scrappy tactics to unlock...
+duration_seconds: 3790.0
+duration: '1:03:10'
+view_count: 13767
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- onboarding
+- churn
+- metrics
+- okrs
+- kpis
+- experimentation
+- analytics
+- funnel
+- conversion
+- pricing
+- subscription
 ---
 
 # The ultimate guide to OKRs | Christina Wodtke (Stanford)

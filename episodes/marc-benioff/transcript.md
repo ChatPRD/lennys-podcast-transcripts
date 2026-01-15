@@ -1,14 +1,33 @@
 ---
-guest: "Marc Benioff"
-title: "Behind the founder: Marc Benioff"
-youtube_url: "https://www.youtube.com/watch?v=tOGK1nlHdFo"
-video_id: "tOGK1nlHdFo"
-description: |
-  Marc Benioff is the co-founder and CEO of Salesforce, the second-largest software company in the world. He started programming at age 15, selling his first program for $75, and went on to build...
+guest: Marc Benioff
+title: 'Behind the founder: Marc Benioff'
+youtube_url: https://www.youtube.com/watch?v=tOGK1nlHdFo
+video_id: tOGK1nlHdFo
+description: 'Marc Benioff is the co-founder and CEO of Salesforce, the second-largest
+  software company in the world. He started programming at age 15, selling his first
+  program for $75, and went on to build...
+
+  '
 duration_seconds: 3439.0
-duration: "57:19"
+duration: '57:19'
 view_count: 78232
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- churn
+- okrs
+- roadmap
+- experimentation
+- analytics
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- positioning
+- market
 ---
 
 # Behind the founder: Marc Benioff

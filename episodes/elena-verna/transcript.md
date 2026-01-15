@@ -1,14 +1,34 @@
 ---
-guest: "Elena Verna"
-title: "10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)"
-youtube_url: "https://www.youtube.com/watch?v=IHwS2By9UKM"
-video_id: "IHwS2By9UKM"
-description: |
-  Elena Verna is one of Silicon Valley’s most sought-after growth advisors and operators. She previously led growth at companies like Amplitude, Miro, Dropbox, and SurveyMonkey and is currently...
+guest: Elena Verna
+title: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox,
+  SurveyMonkey)
+youtube_url: https://www.youtube.com/watch?v=IHwS2By9UKM
+video_id: IHwS2By9UKM
+description: 'Elena Verna is one of Silicon Valley’s most sought-after growth advisors
+  and operators. She previously led growth at companies like Amplitude, Miro, Dropbox,
+  and SurveyMonkey and is currently...
+
+  '
 duration_seconds: 5710.0
-duration: "1:35:10"
+duration: '1:35:10'
 view_count: 94594
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- product-market fit
+- pmf
+- growth
+- retention
+- acquisition
+- activation
+- onboarding
+- churn
+- metrics
+- roadmap
+- user research
+- a/b testing
+- experimentation
+- analytics
+- funnel
 ---
 
 # 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)

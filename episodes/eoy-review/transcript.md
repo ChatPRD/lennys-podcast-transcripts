@@ -1,14 +1,31 @@
 ---
-guest: "EOY Review"
-title: "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)"
-youtube_url: "https://www.youtube.com/watch?v=xzebbzIntFc"
-video_id: "xzebbzIntFc"
-description: |
-  Eric Ries is the creator of the Lean Startup methodology, author of the New York Times bestseller The Lean Startup, and founder of the Long-Term Stock Exchange (LTSE). He’s also a multi-time...
-duration_seconds: 8055.0
-duration: "2:14:15"
-view_count: 64647
-channel: "Lenny's Podcast"
+guest: EOY Review
+title: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
+youtube_url: https://www.youtube.com/watch?v=-PDsvl2WCZU
+video_id: -PDsvl2WCZU
+description: Adam Grenier is the former Head of Growth Marketing and Innovation at
+  Uber, where he helped build Uber’s growth infrastructure from the ground up. He
+  is also the former VP of Product and...
+duration_seconds: 4191.0
+duration: '1:09:51'
+view_count: 2975
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- kpis
+- analytics
+- pricing
+- monetization
+- freemium
+- revenue
+- management
+- strategy
+- positioning
+- competition
+- market
 ---
 
 # Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)

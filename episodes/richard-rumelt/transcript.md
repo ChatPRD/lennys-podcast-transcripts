@@ -1,14 +1,33 @@
 ---
-guest: "Richard Rumelt"
-title: "Good Strategy, Bad Strategy | Richard Rumelt"
-youtube_url: "https://www.youtube.com/watch?v=4uWKEG0s9Kc"
-video_id: "4uWKEG0s9Kc"
-description: |
-  Richard Rumelt is a legend in the world of strategy. He’s the author of Good Strategy/Bad Strategy and The Crux: How Leaders Become Strategists, both of which are often recommended by guests...
+guest: Richard Rumelt
+title: Good Strategy, Bad Strategy | Richard Rumelt
+youtube_url: https://www.youtube.com/watch?v=4uWKEG0s9Kc
+video_id: 4uWKEG0s9Kc
+description: 'Richard Rumelt is a legend in the world of strategy. He’s the author
+  of Good Strategy/Bad Strategy and The Crux: How Leaders Become Strategists, both
+  of which are often recommended by guests...
+
+  '
 duration_seconds: 6557.0
-duration: "1:49:17"
+duration: '1:49:17'
 view_count: 96022
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- onboarding
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
+- competition
+- market
+- persona
+- design
+- ux
+- ui
+- engineering
 ---
 
 # Good Strategy, Bad Strategy | Richard Rumelt

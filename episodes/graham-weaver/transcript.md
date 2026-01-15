@@ -1,14 +1,34 @@
 ---
-guest: "Graham Weaver"
-title: "How to break out of autopilot and create the life you want | Graham Weaver (Stanford GSB professor)"
-youtube_url: "https://www.youtube.com/watch?v=UpGR9P0Ufts"
-video_id: "UpGR9P0Ufts"
-description: |
-  Graham Weaver teaches a top-rated course at Stanford’s Graduate School of Business (GSB), where he often unexpectedly ends up helping students figure out what to do with their lives. He...
+guest: Graham Weaver
+title: How to break out of autopilot and create the life you want | Graham Weaver
+  (Stanford GSB professor)
+youtube_url: https://www.youtube.com/watch?v=UpGR9P0Ufts
+video_id: UpGR9P0Ufts
+description: 'Graham Weaver teaches a top-rated course at Stanford’s Graduate School
+  of Business (GSB), where he often unexpectedly ends up helping students figure out
+  what to do with their lives. He...
+
+  '
 duration_seconds: 4333.0
-duration: "1:12:13"
+duration: '1:12:13'
 view_count: 46252
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- conversion
+- hiring
+- leadership
+- management
+- strategy
+- vision
+- mission
+- persona
+- design
+- ux
+- ui
+- startup
+- founder
+- fundraising
 ---
 
 # How to break out of autopilot and create the life you want | Graham Weaver (Stanford GSB professor)

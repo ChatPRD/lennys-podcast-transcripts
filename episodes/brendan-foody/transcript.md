@@ -1,14 +1,34 @@
 ---
-guest: "Brendan Foody"
-title: "Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody"
-youtube_url: "https://www.youtube.com/watch?v=ja6fWTDPQl4"
-video_id: "ja6fWTDPQl4"
-description: |
-  Brendan Foody is the CEO and co-founder of Mercor, the fastest-growing company in history to go from $1M to $500M in revenue (in just 17 months!). At 22, he is also the youngest American unicorn...
+guest: Brendan Foody
+title: Why experts writing AI evals is creating the fastest-growing companies in history
+  | Brendan Foody
+youtube_url: https://www.youtube.com/watch?v=ja6fWTDPQl4
+video_id: ja6fWTDPQl4
+description: 'Brendan Foody is the CEO and co-founder of Mercor, the fastest-growing
+  company in history to go from $1M to $500M in revenue (in just 17 months!). At 22,
+  he is also the youngest American unicorn...
+
+  '
 duration_seconds: 4028.0
-duration: "1:07:08"
+duration: '1:07:08'
 view_count: 28965
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- product-market fit
+- growth
+- retention
+- churn
+- metrics
+- roadmap
+- prioritization
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
 ---
 
 # Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody

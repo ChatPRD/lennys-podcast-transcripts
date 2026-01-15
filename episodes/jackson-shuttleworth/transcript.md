@@ -1,14 +1,34 @@
 ---
-guest: "Jackson Shuttleworth"
-title: "Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)"
-youtube_url: "https://www.youtube.com/watch?v=_CCwoQZH5hI"
-video_id: "_CCwoQZH5hI"
-description: |
-  Jackson Shuttleworth is a Group PM at Duolingo, where he leads the retention team and the powerful streak feature. The streak feature, which gamifies consecutive days of learning, has been...
+guest: Jackson Shuttleworth
+title: 'Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention
+  Team)'
+youtube_url: https://www.youtube.com/watch?v=_CCwoQZH5hI
+video_id: _CCwoQZH5hI
+description: 'Jackson Shuttleworth is a Group PM at Duolingo, where he leads the retention
+  team and the powerful streak feature. The streak feature, which gamifies consecutive
+  days of learning, has been...
+
+  '
 duration_seconds: 5312.0
-duration: "1:28:32"
+duration: '1:28:32'
 view_count: 28994
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- churn
+- metrics
+- okrs
+- roadmap
+- iteration
+- analytics
+- funnel
+- monetization
+- subscription
+- revenue
+- hiring
+- culture
+- management
 ---
 
 # Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)

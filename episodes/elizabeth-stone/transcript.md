@@ -1,14 +1,33 @@
 ---
-guest: "Elizabeth Stone"
-title: "How Netflix builds a culture of excellence | Elizabeth Stone (CTO)"
-youtube_url: "https://www.youtube.com/watch?v=2XgU6T4DalY"
-video_id: "2XgU6T4DalY"
-description: |
-  Elizabeth Stone is the chief technology officer of Netflix. She previously served as vice president of product data science and engineering, and as vice president of data and insights, at Netflix....
+guest: Elizabeth Stone
+title: How Netflix builds a culture of excellence | Elizabeth Stone (CTO)
+youtube_url: https://www.youtube.com/watch?v=2XgU6T4DalY
+video_id: 2XgU6T4DalY
+description: 'Elizabeth Stone is the chief technology officer of Netflix. She previously
+  served as vice president of product data science and engineering, and as vice president
+  of data and insights, at Netflix....
+
+  '
 duration_seconds: 4424.0
-duration: "1:13:44"
+duration: '1:13:44'
 view_count: 220414
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- retention
+- metrics
+- roadmap
+- user research
+- iteration
+- experimentation
+- analytics
+- conversion
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- mission
+- competition
 ---
 
 # How Netflix builds a culture of excellence | Elizabeth Stone (CTO)

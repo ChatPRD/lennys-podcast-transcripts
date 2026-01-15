@@ -1,14 +1,34 @@
 ---
-guest: "Ramesh Johari"
-title: "Marketplace lessons from Uber, Airbnb, Bumble, and more | Ramesh Johari (Stanford professor)"
-youtube_url: "https://www.youtube.com/watch?v=BVzTfsUMaK8"
-video_id: "BVzTfsUMaK8"
-description: |
-  Ramesh Johari is a professor at Stanford University focusing on data science methods and practice, as well as the design and operation of online markets and platforms. Beyond academia, Ramesh...
+guest: Ramesh Johari
+title: Marketplace lessons from Uber, Airbnb, Bumble, and more | Ramesh Johari (Stanford
+  professor)
+youtube_url: https://www.youtube.com/watch?v=BVzTfsUMaK8
+video_id: BVzTfsUMaK8
+description: 'Ramesh Johari is a professor at Stanford University focusing on data
+  science methods and practice, as well as the design and operation of online markets
+  and platforms. Beyond academia, Ramesh...
+
+  '
 duration_seconds: 5016.0
-duration: "1:23:36"
+duration: '1:23:36'
 view_count: 44479
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- metrics
+- roadmap
+- a/b testing
+- experimentation
+- data-driven
+- analytics
+- funnel
+- pricing
+- monetization
+- subscription
+- revenue
+- hiring
 ---
 
 # Marketplace lessons from Uber, Airbnb, Bumble, and more | Ramesh Johari (Stanford professor)

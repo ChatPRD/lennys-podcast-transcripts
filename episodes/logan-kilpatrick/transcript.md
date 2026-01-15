@@ -1,14 +1,33 @@
 ---
-guest: "Logan Kilpatrick"
-title: "Inside OpenAI | Logan Kilpatrick (head of developer relations)"
-youtube_url: "https://www.youtube.com/watch?v=XkMbkWG2ca4"
-video_id: "XkMbkWG2ca4"
-description: |
-  Logan Kilpatrick leads developer relations at OpenAI, supporting developers building with the OpenAI API and ChatGPT. He is also on the board of directors at NumFOCUS, the nonprofit organization...
+guest: Logan Kilpatrick
+title: Inside OpenAI | Logan Kilpatrick (head of developer relations)
+youtube_url: https://www.youtube.com/watch?v=XkMbkWG2ca4
+video_id: XkMbkWG2ca4
+description: 'Logan Kilpatrick leads developer relations at OpenAI, supporting developers
+  building with the OpenAI API and ChatGPT. He is also on the board of directors at
+  NumFOCUS, the nonprofit organization...
+
+  '
 duration_seconds: 4087.0
-duration: "1:08:07"
+duration: '1:08:07'
 view_count: 18284
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- metrics
+- okrs
+- roadmap
+- prioritization
+- analytics
+- conversion
+- monetization
+- subscription
+- revenue
+- hiring
+- culture
+- leadership
+- vision
+- mission
 ---
 
 # Inside OpenAI | Logan Kilpatrick (head of developer relations)

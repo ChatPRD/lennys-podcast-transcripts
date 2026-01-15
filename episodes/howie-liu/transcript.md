@@ -1,14 +1,34 @@
 ---
-guest: "Howie Liu"
-title: "How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)"
-youtube_url: "https://www.youtube.com/watch?v=GT0jtVjRy2E"
-video_id: "GT0jtVjRy2E"
-description: |
-  Howie Liu is the co-founder and CEO of Airtable, the no-code platform valued at around $12 billion. After a viral tweet declared “Airtable is dead” based on incorrect data, Howie led a...
+guest: Howie Liu
+title: How we restructured Airtable's entire org for AI | Howie Liu (co-founder and
+  CEO)
+youtube_url: https://www.youtube.com/watch?v=GT0jtVjRy2E
+video_id: GT0jtVjRy2E
+description: 'Howie Liu is the co-founder and CEO of Airtable, the no-code platform
+  valued at around $12 billion. After a viral tweet declared “Airtable is dead” based
+  on incorrect data, Howie led a...
+
+  '
 duration_seconds: 6042.0
-duration: "1:40:42"
+duration: '1:40:42'
 view_count: 28715
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- onboarding
+- roadmap
+- user research
+- iteration
+- experimentation
+- analytics
+- funnel
+- conversion
+- freemium
+- revenue
+- hiring
+- culture
+- leadership
 ---
 
 # How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)

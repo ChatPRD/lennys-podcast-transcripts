@@ -1,14 +1,34 @@
 ---
-guest: "Dhanji R. Prasanna"
-title: "How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna"
-youtube_url: "https://www.youtube.com/watch?v=JMeXWVw0r3E"
-video_id: "JMeXWVw0r3E"
-description: |
-  Dhanji R. Prasanna is the chief technology officer at Block (formerly Square), where he’s managed more than 4,000 engineers over the past two years. Under his leadership, Block has become...
+guest: Dhanji R. Prasanna
+title: How Block is becoming the most AI-native enterprise in the world | Dhanji R.
+  Prasanna
+youtube_url: https://www.youtube.com/watch?v=JMeXWVw0r3E
+video_id: JMeXWVw0r3E
+description: 'Dhanji R. Prasanna is the chief technology officer at Block (formerly
+  Square), where he’s managed more than 4,000 engineers over the past two years. Under
+  his leadership, Block has become...
+
+  '
 duration_seconds: 5202.0
-duration: "1:26:42"
+duration: '1:26:42'
 view_count: 31288
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- metrics
+- roadmap
+- experimentation
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
+- competition
+- market
+- persona
 ---
 
 # How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna

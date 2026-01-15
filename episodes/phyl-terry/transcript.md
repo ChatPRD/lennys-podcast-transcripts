@@ -1,14 +1,34 @@
 ---
-guest: "Phyl Terry"
-title: "Land your dream job in today’s market: negotiation tactics, job search councils, more | Phyl Terry"
-youtube_url: "https://www.youtube.com/watch?v=OH3nzRdwYPA"
-video_id: "OH3nzRdwYPA"
-description: |
-  Phyl Terry is the author of Never Search Alone, which I’ve seen so many people reference as the most impactful guide they read for finding a job. Phyl was on the founding team of the first...
+guest: Phyl Terry
+title: 'Land your dream job in today’s market: negotiation tactics, job search councils,
+  more | Phyl Terry'
+youtube_url: https://www.youtube.com/watch?v=OH3nzRdwYPA
+video_id: OH3nzRdwYPA
+description: 'Phyl Terry is the author of Never Search Alone, which I’ve seen so many
+  people reference as the most impactful guide they read for finding a job. Phyl was
+  on the founding team of the first...
+
+  '
 duration_seconds: 6690.0
-duration: "1:51:30"
+duration: '1:51:30'
 view_count: 45797
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- okrs
+- analytics
+- conversion
+- revenue
+- hiring
+- culture
+- management
+- strategy
+- vision
+- mission
+- market
+- persona
+- design
 ---
 
 # Land your dream job in today’s market: negotiation tactics, job search councils, more | Phyl Terry

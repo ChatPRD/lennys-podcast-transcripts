@@ -1,14 +1,33 @@
 ---
-guest: "David Singleton"
-title: "Building a culture of excellence | David Singleton (CTO of Stripe)"
-youtube_url: "https://www.youtube.com/watch?v=F0_IKKY3HCk"
-video_id: "F0_IKKY3HCk"
-description: |
-  David Singleton is Chief Technology Officer at Stripe, where he oversees engineering and design teams. Since joining Stripe, David has helped grow the technology org across the U.S. and developed...
+guest: David Singleton
+title: Building a culture of excellence | David Singleton (CTO of Stripe)
+youtube_url: https://www.youtube.com/watch?v=F0_IKKY3HCk
+video_id: F0_IKKY3HCk
+description: 'David Singleton is Chief Technology Officer at Stripe, where he oversees
+  engineering and design teams. Since joining Stripe, David has helped grow the technology
+  org across the U.S. and developed...
+
+  '
 duration_seconds: 5400.0
-duration: "1:30:00"
+duration: '1:30:00'
 view_count: 40035
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- activation
+- onboarding
+- churn
+- metrics
+- roadmap
+- prioritization
+- experimentation
+- analytics
+- conversion
+- monetization
+- subscription
+- revenue
+- hiring
 ---
 
 # Building a culture of excellence | David Singleton (CTO of Stripe)

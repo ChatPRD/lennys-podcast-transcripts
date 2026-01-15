@@ -1,14 +1,34 @@
 ---
-guest: "Tom Conrad"
-title: "Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Zero)"
-youtube_url: "https://www.youtube.com/watch?v=maK0XD9ARoI"
-video_id: "maK0XD9ARoI"
-description: |
-  Tom Conrad is the CEO of Zero and on the board of Sonos. He began his career in engineering at Apple, where he helped build key features that remain in iOS today. Tom was previously the VP...
+guest: Tom Conrad
+title: Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora,
+  Pets.com, Zero)
+youtube_url: https://www.youtube.com/watch?v=maK0XD9ARoI
+video_id: maK0XD9ARoI
+description: 'Tom Conrad is the CEO of Zero and on the board of Sonos. He began his
+  career in engineering at Apple, where he helped build key features that remain in
+  iOS today. Tom was previously the VP...
+
+  '
 duration_seconds: 6004.0
-duration: "1:40:04"
+duration: '1:40:04'
 view_count: 10025
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- churn
+- metrics
+- roadmap
+- prioritization
+- iteration
+- funnel
+- subscription
+- revenue
+- hiring
+- culture
+- leadership
+- management
 ---
 
 # Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Zero)

@@ -1,14 +1,34 @@
 ---
-guest: "Chandra Janakiraman"
-title: "An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)"
-youtube_url: "https://www.youtube.com/watch?v=WFLH8Af2f30"
-video_id: "WFLH8Af2f30"
-description: |
-  Chandra Janakiraman is the chief product officer, executive vice president, and a board member at VRChat. Previously, he was a product leader at Meta, where he led Facebook’s social experience...
+guest: Chandra Janakiraman
+title: An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat,
+  ex-Meta, Headspace)
+youtube_url: https://www.youtube.com/watch?v=WFLH8Af2f30
+video_id: WFLH8Af2f30
+description: 'Chandra Janakiraman is the chief product officer, executive vice president,
+  and a board member at VRChat. Previously, he was a product leader at Meta, where
+  he led Facebook’s social experience...
+
+  '
 duration_seconds: 6442.0
-duration: "1:47:22"
+duration: '1:47:22'
 view_count: 26538
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- onboarding
+- metrics
+- roadmap
+- user research
+- iteration
+- experimentation
+- monetization
+- revenue
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
 ---
 
 # An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)

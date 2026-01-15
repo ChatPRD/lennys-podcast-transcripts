@@ -1,14 +1,34 @@
 ---
-guest: "Kevin Aluwi"
-title: "Taxi mafias, cash vaults & 100% MoM growth: The story of SEA’s biggest startup | Kevin Aluwi (Gojek)"
-youtube_url: "https://www.youtube.com/watch?v=HVB-dqjUJks"
-video_id: "HVB-dqjUJks"
-description: |
-  Kevin Aluwi is the co-founder and former CEO of Gojek. With over 2.7 million drivers and over 3 billion orders completed, Gojek is the biggest startup in Indonesia and all of Southeast Asia....
+guest: Kevin Aluwi
+title: 'Taxi mafias, cash vaults & 100% MoM growth: The story of SEA’s biggest startup
+  | Kevin Aluwi (Gojek)'
+youtube_url: https://www.youtube.com/watch?v=HVB-dqjUJks
+video_id: HVB-dqjUJks
+description: 'Kevin Aluwi is the co-founder and former CEO of Gojek. With over 2.7
+  million drivers and over 3 billion orders completed, Gojek is the biggest startup
+  in Indonesia and all of Southeast Asia....
+
+  '
 duration_seconds: 3771.0
-duration: "1:02:51"
+duration: '1:02:51'
 view_count: 9224
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- roadmap
+- analytics
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- competition
+- market
+- persona
 ---
 
 # Taxi mafias, cash vaults & 100% MoM growth: The story of SEA’s biggest startup | Kevin Aluwi (Gojek)

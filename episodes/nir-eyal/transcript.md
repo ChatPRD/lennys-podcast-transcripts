@@ -1,14 +1,33 @@
 ---
-guest: "Nir Eyal"
-title: "Strategies for becoming less distractible and improving focus | Nir Eyal"
-youtube_url: "https://www.youtube.com/watch?v=WSscIIY609c"
-video_id: "WSscIIY609c"
-description: |
-  Nir Eyal is the author of two best-selling books, Hooked: How to Build Habit-Forming Products and Indistractable: How to Control Your Attention and Choose Your Life. He writes, consults, and...
+guest: Nir Eyal
+title: Strategies for becoming less distractible and improving focus | Nir Eyal
+youtube_url: https://www.youtube.com/watch?v=WSscIIY609c
+video_id: WSscIIY609c
+description: 'Nir Eyal is the author of two best-selling books, Hooked: How to Build
+  Habit-Forming Products and Indistractable: How to Control Your Attention and Choose
+  Your Life. He writes, consults, and...
+
+  '
 duration_seconds: 5082.0
-duration: "1:24:42"
+duration: '1:24:42'
 view_count: 30097
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- roadmap
+- prioritization
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- market
+- persona
+- ui
+- engineering
+- startup
+- saas
 ---
 
 # Strategies for becoming less distractible and improving focus | Nir Eyal

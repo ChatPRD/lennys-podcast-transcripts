@@ -1,14 +1,33 @@
 ---
-guest: "Patrick Campbell"
-title: "10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell)"
-youtube_url: "https://www.youtube.com/watch?v=FjLSCrSg5QY"
-video_id: "FjLSCrSg5QY"
-description: |
-  Patrick Campbell is the founder and CEO of ProfitWell, which he bootstrapped and sold for over $200 million. In this special episode, we explore 10 big ideas from Patrick, including tips for...
+guest: Patrick Campbell
+title: 10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell)
+youtube_url: https://www.youtube.com/watch?v=FjLSCrSg5QY
+video_id: FjLSCrSg5QY
+description: 'Patrick Campbell is the founder and CEO of ProfitWell, which he bootstrapped
+  and sold for over $200 million. In this special episode, we explore 10 big ideas
+  from Patrick, including tips for...
+
+  '
 duration_seconds: 4417.0
-duration: "1:13:37"
+duration: '1:13:37'
 view_count: 21807
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- churn
+- metrics
+- user research
+- analytics
+- funnel
+- conversion
+- pricing
+- monetization
+- freemium
+- subscription
+- revenue
+- hiring
 ---
 
 # 10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell)

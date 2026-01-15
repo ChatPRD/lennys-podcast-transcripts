@@ -1,14 +1,33 @@
 ---
-guest: "Krithika Shankarraman"
-title: "Growth tactics from OpenAI and Stripe’s first marketer | Krithika Shankarraman"
-youtube_url: "https://www.youtube.com/watch?v=QaDsk4iH1aw"
-video_id: "QaDsk4iH1aw"
-description: |
-  Krithika Shankarraman was the first marketing hire at OpenAI and Stripe and led marketing at Retool. At OpenAI, she established marketing foundations for ChatGPT for consumers and enterprises,...
+guest: Krithika Shankarraman
+title: Growth tactics from OpenAI and Stripe’s first marketer | Krithika Shankarraman
+youtube_url: https://www.youtube.com/watch?v=QaDsk4iH1aw
+video_id: QaDsk4iH1aw
+description: 'Krithika Shankarraman was the first marketing hire at OpenAI and Stripe
+  and led marketing at Retool. At OpenAI, she established marketing foundations for
+  ChatGPT for consumers and enterprises,...
+
+  '
 duration_seconds: 4443.0
-duration: "1:14:03"
+duration: '1:14:03'
 view_count: 62767
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- metrics
+- kpis
+- prioritization
+- user research
+- a/b testing
+- experimentation
+- funnel
+- conversion
+- pricing
+- monetization
+- subscription
+- revenue
+- hiring
+- leadership
 ---
 
 # Growth tactics from OpenAI and Stripe’s first marketer | Krithika Shankarraman

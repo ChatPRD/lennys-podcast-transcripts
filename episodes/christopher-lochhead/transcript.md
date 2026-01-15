@@ -1,14 +1,34 @@
 ---
-guest: "Christopher Lochhead"
-title: "How to become a category pirate | Christopher Lochhead (Author of Play Bigger, Niche Down, more)"
-youtube_url: "https://www.youtube.com/watch?v=mS4B541m9xg"
-video_id: "mS4B541m9xg"
-description: |
-  Christopher Lochhead is a 14-time #1 bestselling author, top podcaster, and former 3x public tech company CMO and has been an advisor to over 50 VC-backed tech startups. He is best known as...
+guest: Christopher Lochhead
+title: How to become a category pirate | Christopher Lochhead (Author of Play Bigger,
+  Niche Down, more)
+youtube_url: https://www.youtube.com/watch?v=mS4B541m9xg
+video_id: mS4B541m9xg
+description: 'Christopher Lochhead is a 14-time #1 bestselling author, top podcaster,
+  and former 3x public tech company CMO and has been an advisor to over 50 VC-backed
+  tech startups. He is best known as...
+
+  '
 duration_seconds: 6515.0
-duration: "1:48:35"
+duration: '1:48:35'
 view_count: 17217
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- iteration
+- analytics
+- funnel
+- freemium
+- revenue
+- hiring
+- culture
+- management
+- strategy
+- vision
+- mission
+- positioning
 ---
 
 # How to become a category pirate | Christopher Lochhead (Author of Play Bigger, Niche Down, more)

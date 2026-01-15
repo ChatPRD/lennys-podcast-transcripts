@@ -1,14 +1,34 @@
 ---
-guest: "Eric Simons"
-title: "Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons"
-youtube_url: "https://www.youtube.com/watch?v=L22DtAHLmzs"
-video_id: "L22DtAHLmzs"
-description: |
-  Eric Simons is the founder and CEO of StackBlitz, the company behind Bolt—the #1 web-based AI coding agent and one of the fastest-growing products in history. After nearly shutting down,...
+guest: Eric Simons
+title: 'Inside Bolt: From near-death to one of the fastest-growing products in history
+  | Eric Simons'
+youtube_url: https://www.youtube.com/watch?v=L22DtAHLmzs
+video_id: L22DtAHLmzs
+description: 'Eric Simons is the founder and CEO of StackBlitz, the company behind
+  Bolt—the #1 web-based AI coding agent and one of the fastest-growing products in
+  history. After nearly shutting down,...
+
+  '
 duration_seconds: 5331.0
-duration: "1:28:51"
+duration: '1:28:51'
 view_count: 25333
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- churn
+- kpis
+- roadmap
+- prioritization
+- experimentation
+- analytics
+- pricing
+- monetization
+- subscription
+- revenue
+- hiring
+- management
+- strategy
 ---
 
 # Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons

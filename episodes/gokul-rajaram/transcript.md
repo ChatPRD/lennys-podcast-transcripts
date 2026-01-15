@@ -1,14 +1,33 @@
 ---
-guest: "Gokul Rajaram"
-title: "What AI means for your product strategy | Paul Adams (CPO of Intercom)"
-youtube_url: "https://www.youtube.com/watch?v=R-Geamq9xc0"
-video_id: "R-Geamq9xc0"
-description: |
-  Paul Adams is the longtime chief product officer at Intercom, where he leads the product management, product design, data science, and research teams. Before Intercom, Paul was the global head...
+guest: Gokul Rajaram
+title: What AI means for your product strategy | Paul Adams (CPO of Intercom)
+youtube_url: https://www.youtube.com/watch?v=R-Geamq9xc0
+video_id: R-Geamq9xc0
+description: 'Paul Adams is the longtime chief product officer at Intercom, where
+  he leads the product management, product design, data science, and research teams.
+  Before Intercom, Paul was the global head...
+
+  '
 duration_seconds: 4981.0
-duration: "1:23:01"
+duration: '1:23:01'
 view_count: 25212
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- onboarding
+- metrics
+- roadmap
+- prioritization
+- iteration
+- experimentation
+- analytics
+- conversion
+- revenue
+- hiring
+- culture
+- management
+- strategy
 ---
 
 # What AI means for your product strategy | Paul Adams (CPO of Intercom)

@@ -1,14 +1,33 @@
 ---
-guest: "Christina Wodtke"
-title: "The ultimate guide to OKRs | Christina Wodtke (Stanford)"
-youtube_url: "https://www.youtube.com/watch?v=kvkL18Ue0dE"
-video_id: "kvkL18Ue0dE"
-description: |
-  Christina Wodtke is an author, Stanford University professor, and speaker who teaches strategies for building high-performing teams. She’s also the author of Radical Focus, which some consider...
+guest: Christina Wodtke
+title: The ultimate guide to OKRs | Christina Wodtke (Stanford)
+youtube_url: https://www.youtube.com/watch?v=kvkL18Ue0dE
+video_id: kvkL18Ue0dE
+description: 'Christina Wodtke is an author, Stanford University professor, and speaker
+  who teaches strategies for building high-performing teams. She’s also the author
+  of Radical Focus, which some consider...
+
+  '
 duration_seconds: 4393.0
-duration: "1:13:13"
+duration: '1:13:13'
 view_count: 33904
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- metrics
+- okrs
+- roadmap
+- user research
+- subscription
+- revenue
+- hiring
+- culture
+- management
+- strategy
+- vision
+- mission
 ---
 
 # The ultimate guide to OKRs | Christina Wodtke (Stanford)

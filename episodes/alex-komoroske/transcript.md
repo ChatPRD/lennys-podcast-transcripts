@@ -1,14 +1,34 @@
 ---
-guest: "Alex Komoroske"
-title: "Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske"
-youtube_url: "https://www.youtube.com/watch?v=PoWRYBWSqpU"
-video_id: "PoWRYBWSqpU"
-description: |
-  Alex Komoroske is a strategic leader who merges the practice, theory, and mindset necessary to tackle complex problems. He spent 13 years at Google, where he worked on Search and DoubleClick...
+guest: Alex Komoroske
+title: 'Thinking like a gardener, slime mold, the adjacent possible: Product advice
+  from Alex Komoroske'
+youtube_url: https://www.youtube.com/watch?v=PoWRYBWSqpU
+video_id: PoWRYBWSqpU
+description: 'Alex Komoroske is a strategic leader who merges the practice, theory,
+  and mindset necessary to tackle complex problems. He spent 13 years at Google, where
+  he worked on Search and DoubleClick...
+
+  '
 duration_seconds: 5078.0
-duration: "1:24:38"
+duration: '1:24:38'
 view_count: 11775
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- activation
+- metrics
+- roadmap
+- a/b testing
+- experimentation
+- data-driven
+- monetization
+- culture
+- leadership
+- management
+- strategy
+- competition
+- market
+- persona
 ---
 
 # Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske

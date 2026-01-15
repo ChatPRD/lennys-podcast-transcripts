@@ -1,14 +1,33 @@
 ---
-guest: "Emilie Gerber"
-title: "The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)"
-youtube_url: "https://www.youtube.com/watch?v=jW9GzaaRPxk"
-video_id: "jW9GzaaRPxk"
-description: |
-  Emilie Gerber is the founder and CEO of Six Eastern, a top PR agency that’s worked with over 100 tech companies, from stealth startups to publicly traded companies. Before starting her own...
+guest: Emilie Gerber
+title: The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)
+youtube_url: https://www.youtube.com/watch?v=jW9GzaaRPxk
+video_id: jW9GzaaRPxk
+description: 'Emilie Gerber is the founder and CEO of Six Eastern, a top PR agency
+  that’s worked with over 100 tech companies, from stealth startups to publicly traded
+  companies. Before starting her own...
+
+  '
 duration_seconds: 5635.0
-duration: "1:33:55"
+duration: '1:33:55'
 view_count: 10210
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- metrics
+- experimentation
+- analytics
+- pricing
+- monetization
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
 ---
 
 # The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)

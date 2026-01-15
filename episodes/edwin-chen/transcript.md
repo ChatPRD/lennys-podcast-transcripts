@@ -1,14 +1,34 @@
 ---
-guest: "Edwin Chen"
-title: "The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen"
-youtube_url: "https://www.youtube.com/watch?v=dduQeaqmpnI"
-video_id: "dduQeaqmpnI"
-description: |
-  Edwin Chen is the founder and CEO of Surge AI, the company that teaches AI what’s good vs. what’s bad, powering frontier labs with elite data, environments, and evaluations. Surge surpassed...
+guest: Edwin Chen
+title: The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible
+  AGI | Edwin Chen
+youtube_url: https://www.youtube.com/watch?v=dduQeaqmpnI
+video_id: dduQeaqmpnI
+description: 'Edwin Chen is the founder and CEO of Surge AI, the company that teaches
+  AI what’s good vs. what’s bad, powering frontier labs with elite data, environments,
+  and evaluations. Surge surpassed...
+
+  '
 duration_seconds: 4232.0
-duration: "1:10:32"
+duration: '1:10:32'
 view_count: 50112
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- metrics
+- okrs
+- iteration
+- revenue
+- hiring
+- management
+- vision
+- mission
+- differentiation
+- market
+- persona
+- design
+- ui
+- startup
 ---
 
 # The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen

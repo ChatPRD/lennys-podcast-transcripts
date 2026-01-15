@@ -1,14 +1,33 @@
 ---
-guest: "Stewart Butterfield"
-title: "Mental models for building products people love ft. Stewart Butterfield"
-youtube_url: "https://www.youtube.com/watch?v=kLe-zy5r0Mk"
-video_id: "kLe-zy5r0Mk"
-description: |
-  Stewart Butterfield is the co-founder of Slack and Flickr, two of the most influential products in internet history. After selling Slack to Salesforce in one of tech’s biggest acquisitions,...
+guest: Stewart Butterfield
+title: Mental models for building products people love ft. Stewart Butterfield
+youtube_url: https://www.youtube.com/watch?v=kLe-zy5r0Mk
+video_id: kLe-zy5r0Mk
+description: 'Stewart Butterfield is the co-founder of Slack and Flickr, two of the
+  most influential products in internet history. After selling Slack to Salesforce
+  in one of tech’s biggest acquisitions,...
+
+  '
 duration_seconds: 5436.0
-duration: "1:30:36"
+duration: '1:30:36'
 view_count: 37741
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- metrics
+- prioritization
+- user research
+- iteration
+- analytics
+- pricing
+- revenue
+- culture
+- leadership
+- management
+- strategy
+- vision
+- positioning
 ---
 
 # Mental models for building products people love ft. Stewart Butterfield

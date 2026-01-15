@@ -1,14 +1,33 @@
 ---
-guest: "Naomi Ionita"
-title: "How to price your product | Naomi Ionita (Menlo Ventures)"
-youtube_url: "https://www.youtube.com/watch?v=xvQadImf568"
-video_id: "xvQadImf568"
-description: |
-  Naomi Ionita is a Partner at the venture capital firm, Menlo Ventures. She started her career in engineering in 2002, shifted to product in 2006, and built product growth and monetization teams...
+guest: Naomi Ionita
+title: How to price your product | Naomi Ionita (Menlo Ventures)
+youtube_url: https://www.youtube.com/watch?v=xvQadImf568
+video_id: xvQadImf568
+description: 'Naomi Ionita is a Partner at the venture capital firm, Menlo Ventures.
+  She started her career in engineering in 2002, shifted to product in 2006, and built
+  product growth and monetization teams...
+
+  '
 duration_seconds: 3197.0
-duration: "53:17"
+duration: '53:17'
 view_count: 15202
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- product-market fit
+- growth
+- retention
+- acquisition
+- activation
+- churn
+- metrics
+- kpis
+- roadmap
+- prioritization
+- user research
+- iteration
+- experimentation
+- data-driven
+- funnel
 ---
 
 # How to price your product | Naomi Ionita (Menlo Ventures)

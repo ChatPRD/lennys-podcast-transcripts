@@ -1,14 +1,34 @@
 ---
-guest: "Kim Scott"
-title: "Inside Devin: The AI engineer that's set to write 50% of its company’s code this year | Scott Wu"
-youtube_url: "https://www.youtube.com/watch?v=gI0ZNhA0rvE"
-video_id: "gI0ZNhA0rvE"
-description: |
-  *Scott Wu* is the co-founder and CEO of Cognition, the company behind Devin—the world’s first autonomous AI software engineer. Unlike other AI coding tools, Devin works like an autonomous...
+guest: Kim Scott
+title: 'Inside Devin: The AI engineer that''s set to write 50% of its company’s code
+  this year | Scott Wu'
+youtube_url: https://www.youtube.com/watch?v=gI0ZNhA0rvE
+video_id: gI0ZNhA0rvE
+description: '*Scott Wu* is the co-founder and CEO of Cognition, the company behind
+  Devin—the world’s first autonomous AI software engineer. Unlike other AI coding
+  tools, Devin works like an autonomous...
+
+  '
 duration_seconds: 5552.0
-duration: "1:32:32"
+duration: '1:32:32'
 view_count: 19857
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- roadmap
+- prioritization
+- culture
+- leadership
+- management
+- strategy
+- market
+- persona
+- ui
+- engineering
+- startup
+- founder
+- investors
 ---
 
 # Inside Devin: The AI engineer that's set to write 50% of its company’s code this year | Scott Wu

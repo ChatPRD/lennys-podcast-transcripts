@@ -1,14 +1,34 @@
 ---
-guest: "Tomer Cohen"
-title: "Why AI is disrupting traditional product management | Tomer Cohen (LinkedIn CPO)"
-youtube_url: "https://www.youtube.com/watch?v=R-zCfLQD_84"
-video_id: "R-zCfLQD_84"
-description: |
-  Tomer Cohen is the longtime chief product officer at LinkedIn, where he’s pioneering the Full Stack Builder program, a radical new approach to product development that fully embraces what...
+guest: Tomer Cohen
+title: Why AI is disrupting traditional product management | Tomer Cohen (LinkedIn
+  CPO)
+youtube_url: https://www.youtube.com/watch?v=R-zCfLQD_84
+video_id: R-zCfLQD_84
+description: 'Tomer Cohen is the longtime chief product officer at LinkedIn, where
+  he’s pioneering the Full Stack Builder program, a radical new approach to product
+  development that fully embraces what...
+
+  '
 duration_seconds: 4052.0
-duration: "1:07:32"
+duration: '1:07:32'
 view_count: 23051
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- onboarding
+- metrics
+- roadmap
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
+- market
+- persona
+- design
+- ui
+- engineering
 ---
 
 # Why AI is disrupting traditional product management | Tomer Cohen (LinkedIn CPO)

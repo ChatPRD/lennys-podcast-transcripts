@@ -1,14 +1,34 @@
 ---
-guest: "April Dunford"
-title: "A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)"
-youtube_url: "https://www.youtube.com/watch?v=-VqmFI9vY7w"
-video_id: "-VqmFI9vY7w"
-description: |
-  April Dunford is a speaker, mentor, podcaster, best-selling author, and beloved returning guest to the show. Last year, she joined me on the pod to discuss product positioning and differentiated...
+guest: April Dunford
+title: A step-by-step guide to crafting a sales pitch that wins | April Dunford (author
+  of Sales Pitch)
+youtube_url: https://www.youtube.com/watch?v=-VqmFI9vY7w
+video_id: -VqmFI9vY7w
+description: 'April Dunford is a speaker, mentor, podcaster, best-selling author,
+  and beloved returning guest to the show. Last year, she joined me on the pod to
+  discuss product positioning and differentiated...
+
+  '
 duration_seconds: 5453.0
-duration: "1:30:53"
+duration: '1:30:53'
 view_count: 57522
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- activation
+- metrics
+- prioritization
+- mvp
+- experimentation
+- pricing
+- subscription
+- revenue
+- hiring
+- team building
+- management
+- strategy
+- positioning
 ---
 
 # A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)

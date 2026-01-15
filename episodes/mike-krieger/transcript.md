@@ -1,14 +1,33 @@
 ---
-guest: "Mike Krieger"
-title: "Anthropic's CPO on what comes next | Mike Krieger (co-founder of Instagram)"
-youtube_url: "https://www.youtube.com/watch?v=DKrBGOFs0GY"
-video_id: "DKrBGOFs0GY"
-description: |
-  Mike Krieger is the chief product officer of Anthropic and the co-founder of Instagram. After leaving Meta, he co-founded Artifact, an AI-powered news app that I absolutely loved, and joined...
+guest: Mike Krieger
+title: Anthropic's CPO on what comes next | Mike Krieger (co-founder of Instagram)
+youtube_url: https://www.youtube.com/watch?v=DKrBGOFs0GY
+video_id: DKrBGOFs0GY
+description: 'Mike Krieger is the chief product officer of Anthropic and the co-founder
+  of Instagram. After leaving Meta, he co-founded Artifact, an AI-powered news app
+  that I absolutely loved, and joined...
+
+  '
 duration_seconds: 3982.0
-duration: "1:06:22"
+duration: '1:06:22'
 view_count: 102785
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- metrics
+- okrs
+- roadmap
+- a/b testing
+- funnel
+- subscription
+- revenue
+- management
+- strategy
+- mission
+- positioning
+- differentiation
+- competition
 ---
 
 # Anthropic's CPO on what comes next | Mike Krieger (co-founder of Instagram)

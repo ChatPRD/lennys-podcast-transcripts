@@ -1,14 +1,34 @@
 ---
-guest: "Dan Shipper"
-title: "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)"
-youtube_url: "https://www.youtube.com/watch?v=crMrVozp_h8"
-video_id: "crMrVozp_h8"
-description: |
-  Dan Shipper is the co-founder and CEO of Every. With just 15 people, Every publishes a daily AI newsletter, ships multiple AI products, and operates a million-dollar-a-year consulting arm—all...
+guest: Dan Shipper
+title: 'The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code.
+  | Dan Shipper (Every)'
+youtube_url: https://www.youtube.com/watch?v=crMrVozp_h8
+video_id: crMrVozp_h8
+description: 'Dan Shipper is the co-founder and CEO of Every. With just 15 people,
+  Every publishes a daily AI newsletter, ships multiple AI products, and operates
+  a million-dollar-a-year consulting arm—all...
+
+  '
 duration_seconds: 5697.0
-duration: "1:34:57"
+duration: '1:34:57'
 view_count: 81826
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- metrics
+- experimentation
+- analytics
+- subscription
+- revenue
+- hiring
+- management
+- strategy
+- vision
+- differentiation
+- market
+- persona
+- design
+- ux
 ---
 
 # The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)

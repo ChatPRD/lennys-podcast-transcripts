@@ -1,14 +1,34 @@
 ---
-guest: "Josh Miller"
-title: "Competing with giants: An inside look at how The Browser Company builds product | Josh Miller (CEO)"
-youtube_url: "https://www.youtube.com/watch?v=AZpo5785v8A"
-video_id: "AZpo5785v8A"
-description: |
-  Josh Miller is the CEO and co-founder of The Browser Company, where he helped build Arc, my go-to web browser. In today’s episode, we get an inside look at the unique structure and values...
+guest: Josh Miller
+title: 'Competing with giants: An inside look at how The Browser Company builds product
+  | Josh Miller (CEO)'
+youtube_url: https://www.youtube.com/watch?v=AZpo5785v8A
+video_id: AZpo5785v8A
+description: 'Josh Miller is the CEO and co-founder of The Browser Company, where
+  he helped build Arc, my go-to web browser. In today’s episode, we get an inside
+  look at the unique structure and values...
+
+  '
 duration_seconds: 5318.0
-duration: "1:28:38"
+duration: '1:28:38'
 view_count: 14985
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- metrics
+- roadmap
+- prioritization
+- user research
+- revenue
+- hiring
+- team building
+- culture
+- management
+- strategy
+- vision
+- mission
+- market
 ---
 
 # Competing with giants: An inside look at how The Browser Company builds product | Josh Miller (CEO)

@@ -1,14 +1,34 @@
 ---
-guest: "Bangaly Kaba"
-title: "Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YT, IG, FB)"
-youtube_url: "https://www.youtube.com/watch?v=Ub9UkWByFIQ"
-video_id: "Ub9UkWByFIQ"
-description: |
-  Bangaly Kaba was an early growth PM at Facebook, head of growth at Instagram, and VP of Product at Instacart and is currently Director of Product at YouTube overseeing a global team working...
+guest: Bangaly Kaba
+title: Unorthodox frameworks for growing your product, career, and impact | Bangaly
+  Kaba (YT, IG, FB)
+youtube_url: https://www.youtube.com/watch?v=Ub9UkWByFIQ
+video_id: Ub9UkWByFIQ
+description: 'Bangaly Kaba was an early growth PM at Facebook, head of growth at Instagram,
+  and VP of Product at Instacart and is currently Director of Product at YouTube overseeing
+  a global team working...
+
+  '
 duration_seconds: 6125.0
-duration: "1:42:05"
+duration: '1:42:05'
 view_count: 28378
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- activation
+- onboarding
+- churn
+- metrics
+- roadmap
+- prioritization
+- user research
+- iteration
+- funnel
+- monetization
+- culture
+- leadership
+- management
 ---
 
 # Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YT, IG, FB)

@@ -1,14 +1,34 @@
 ---
-guest: "Mike Maples Jr"
-title: "Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)"
-youtube_url: "https://www.youtube.com/watch?v=h9o6gPQA6LA"
-video_id: "h9o6gPQA6LA"
-description: |
-  Mike Maples, Jr. is a legendary early-stage startup investor and a co-founder and partner at Floodgate. He’s made early bets on transformative companies like Twitter, Lyft, Twitch, Okta,...
+guest: Mike Maples Jr
+title: 'Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr.
+  (Partner at Floodgate)'
+youtube_url: https://www.youtube.com/watch?v=h9o6gPQA6LA
+video_id: h9o6gPQA6LA
+description: 'Mike Maples, Jr. is a legendary early-stage startup investor and a co-founder
+  and partner at Floodgate. He’s made early bets on transformative companies like
+  Twitter, Lyft, Twitch, Okta,...
+
+  '
 duration_seconds: 6554.0
-duration: "1:49:14"
+duration: '1:49:14'
 view_count: 53184
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- activation
+- roadmap
+- conversion
+- pricing
+- revenue
+- leadership
+- management
+- strategy
+- vision
+- mission
+- positioning
+- market
+- design
 ---
 
 # Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)

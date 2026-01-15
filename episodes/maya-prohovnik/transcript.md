@@ -1,14 +1,34 @@
 ---
-guest: "Maya Prohovnik"
-title: "Building Anchor, selling to Spotify, and lessons learned | Maya Prohovnik (Head of Podcast Product)"
-youtube_url: "https://www.youtube.com/watch?v=1gXNOJEWajU"
-video_id: "1gXNOJEWajU"
-description: |
-  Maya Prohovnik is currently Spotify’s Head of Podcast Product. She was employee #1 at Anchor, which was acquired by Spotify in 2019 and now powers more than 80% of all new podcasts created...
+guest: Maya Prohovnik
+title: Building Anchor, selling to Spotify, and lessons learned | Maya Prohovnik (Head
+  of Podcast Product)
+youtube_url: https://www.youtube.com/watch?v=1gXNOJEWajU
+video_id: 1gXNOJEWajU
+description: 'Maya Prohovnik is currently Spotify’s Head of Podcast Product. She was
+  employee #1 at Anchor, which was acquired by Spotify in 2019 and now powers more
+  than 80% of all new podcasts created...
+
+  '
 duration_seconds: 4056.0
-duration: "1:07:36"
+duration: '1:07:36'
 view_count: 3797
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- onboarding
+- metrics
+- roadmap
+- user research
+- data-driven
+- monetization
+- subscription
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
 ---
 
 # Building Anchor, selling to Spotify, and lessons learned | Maya Prohovnik (Head of Podcast Product)

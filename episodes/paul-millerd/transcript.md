@@ -1,14 +1,33 @@
 ---
-guest: "Paul Millerd"
-title: "Redefining success, money, and belonging | Paul Millerd (The Pathless Path)"
-youtube_url: "https://www.youtube.com/watch?v=yFckwBtiCUM"
-video_id: "yFckwBtiCUM"
-description: |
-  Paul Millerd spent several years working in strategy consulting and on the “default path” before deciding to walk away to work on his own in 2017. His book, The Pathless Path, chronicles...
+guest: Paul Millerd
+title: Redefining success, money, and belonging | Paul Millerd (The Pathless Path)
+youtube_url: https://www.youtube.com/watch?v=yFckwBtiCUM
+video_id: yFckwBtiCUM
+description: 'Paul Millerd spent several years working in strategy consulting and
+  on the “default path” before deciding to walk away to work on his own in 2017. His
+  book, The Pathless Path, chronicles...
+
+  '
 duration_seconds: 3893.0
-duration: "1:04:53"
+duration: '1:04:53'
 view_count: 33073
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- hiring
+- culture
+- management
+- strategy
+- vision
+- mission
+- market
+- persona
+- design
+- ui
+- startup
+- founder
+- platform
 ---
 
 # Redefining success, money, and belonging | Paul Millerd (The Pathless Path)

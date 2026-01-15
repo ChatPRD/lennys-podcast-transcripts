@@ -1,14 +1,34 @@
 ---
-guest: "Arielle Jackson"
-title: "The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)"
-youtube_url: "https://www.youtube.com/watch?v=mJEWns2hyDs"
-video_id: "mJEWns2hyDs"
-description: |
-  What makes a great brand? After working at Google and Square, Arielle Jackson has spent the past eight years consulting startups on how to create powerful messaging that works. In this jam-packed...
+guest: Arielle Jackson
+title: The art of building legendary brands | Arielle Jackson (Google, Square, First
+  Round Capital)
+youtube_url: https://www.youtube.com/watch?v=mJEWns2hyDs
+video_id: mJEWns2hyDs
+description: 'What makes a great brand? After working at Google and Square, Arielle
+  Jackson has spent the past eight years consulting startups on how to create powerful
+  messaging that works. In this jam-packed...
+
+  '
 duration_seconds: 4954.0
-duration: "1:22:34"
+duration: '1:22:34'
 view_count: 4271
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- onboarding
+- mvp
+- iteration
+- conversion
+- pricing
+- hiring
+- culture
+- strategy
+- vision
+- mission
+- positioning
+- differentiation
+- market
 ---
 
 # The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)

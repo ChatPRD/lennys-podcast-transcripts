@@ -1,14 +1,34 @@
 ---
-guest: "Gina Gotthilf"
-title: "Scaling Duolingo, embracing failure, and insight into Latin America’s tech scene | Gina Gotthilf"
-youtube_url: "https://www.youtube.com/watch?v=sWClFYdbkRA"
-video_id: "sWClFYdbkRA"
-description: |
-  Gina Gotthilf is a co-founder and the COO of Latitud, a startup platform supporting the next generation of iconic tech startups in Latin America. Previously, Gina led growth and marketing at...
+guest: Gina Gotthilf
+title: Scaling Duolingo, embracing failure, and insight into Latin America’s tech
+  scene | Gina Gotthilf
+youtube_url: https://www.youtube.com/watch?v=sWClFYdbkRA
+video_id: sWClFYdbkRA
+description: 'Gina Gotthilf is a co-founder and the COO of Latitud, a startup platform
+  supporting the next generation of iconic tech startups in Latin America. Previously,
+  Gina led growth and marketing at...
+
+  '
 duration_seconds: 5809.0
-duration: "1:36:49"
+duration: '1:36:49'
 view_count: 15988
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- metrics
+- roadmap
+- prioritization
+- user research
+- mvp
+- analytics
+- conversion
+- subscription
+- culture
+- leadership
+- management
+- strategy
 ---
 
 # Scaling Duolingo, embracing failure, and insight into Latin America’s tech scene | Gina Gotthilf

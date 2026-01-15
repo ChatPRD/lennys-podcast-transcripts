@@ -1,14 +1,33 @@
 ---
-guest: "Adriel Frederick"
-title: "Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)"
-youtube_url: "https://www.youtube.com/watch?v=uMhBej6-Ey4"
-video_id: "uMhBej6-Ey4"
-description: |
-  Adriel Frederick is VP of Product Management at Reddit X, where he helps incubate and scale new products. He is a former Product Lead at Facebook, as well as a former PM and Director of Product...
+guest: Adriel Frederick
+title: Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)
+youtube_url: https://www.youtube.com/watch?v=uMhBej6-Ey4
+video_id: uMhBej6-Ey4
+description: 'Adriel Frederick is VP of Product Management at Reddit X, where he helps
+  incubate and scale new products. He is a former Product Lead at Facebook, as well
+  as a former PM and Director of Product...
+
+  '
 duration_seconds: 4046.0
-duration: "1:07:26"
+duration: '1:07:26'
 view_count: 3562
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- onboarding
+- metrics
+- roadmap
+- experimentation
+- analytics
+- funnel
+- conversion
+- pricing
+- subscription
+- revenue
+- culture
 ---
 
 # Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)

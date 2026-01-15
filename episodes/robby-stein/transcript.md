@@ -1,14 +1,34 @@
 ---
-guest: "Robby Stein"
-title: "Inside Google's AI turnaround: AI Mode, AI Overviews, and vision for AI-powered search | Robby Stein"
-youtube_url: "https://www.youtube.com/watch?v=kOnsqqVbIeY"
-video_id: "kOnsqqVbIeY"
-description: |
-  Robby Stein is VP of Product at Google, where he oversees the core products of Google Search—including the new AI Overviews, AI Mode, search ranking, Google Lens, and more. Previously, he...
+guest: Robby Stein
+title: 'Inside Google''s AI turnaround: AI Mode, AI Overviews, and vision for AI-powered
+  search | Robby Stein'
+youtube_url: https://www.youtube.com/watch?v=kOnsqqVbIeY
+video_id: kOnsqqVbIeY
+description: 'Robby Stein is VP of Product at Google, where he oversees the core products
+  of Google Search—including the new AI Overviews, AI Mode, search ranking, Google
+  Lens, and more. Previously, he...
+
+  '
 duration_seconds: 4898.0
-duration: "1:21:38"
+duration: '1:21:38'
 view_count: 27015
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- metrics
+- kpis
+- roadmap
+- hiring
+- leadership
+- management
+- strategy
+- vision
+- mission
+- positioning
+- market
+- jobs to be done
+- design
 ---
 
 # Inside Google's AI turnaround: AI Mode, AI Overviews, and vision for AI-powered search | Robby Stein

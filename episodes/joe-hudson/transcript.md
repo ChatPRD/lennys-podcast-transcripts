@@ -1,14 +1,34 @@
 ---
-guest: "Joe Hudson"
-title: "How embracing your emotions will accelerate your career | Joe Hudson (Art of Accomplishment)"
-youtube_url: "https://www.youtube.com/watch?v=DYkE1gf37ts"
-video_id: "DYkE1gf37ts"
-description: |
-  Joe Hudson is one of the most sought-after executive coaches in Silicon Valley. He is the founder of Art of Accomplishment, a transformational coaching program that has helped tens of thousands...
+guest: Joe Hudson
+title: How embracing your emotions will accelerate your career | Joe Hudson (Art of
+  Accomplishment)
+youtube_url: https://www.youtube.com/watch?v=DYkE1gf37ts
+video_id: DYkE1gf37ts
+description: 'Joe Hudson is one of the most sought-after executive coaches in Silicon
+  Valley. He is the founder of Art of Accomplishment, a transformational coaching
+  program that has helped tens of thousands...
+
+  '
 duration_seconds: 4727.0
-duration: "1:18:47"
+duration: '1:18:47'
 view_count: 26945
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- okrs
+- roadmap
+- user research
+- iteration
+- experimentation
+- pricing
+- subscription
+- culture
+- management
+- strategy
+- vision
+- persona
+- design
 ---
 
 # How embracing your emotions will accelerate your career | Joe Hudson (Art of Accomplishment)

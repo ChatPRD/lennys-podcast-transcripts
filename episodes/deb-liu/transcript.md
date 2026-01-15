@@ -1,14 +1,34 @@
 ---
-guest: "Deb Liu"
-title: "Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu"
-youtube_url: "https://www.youtube.com/watch?v=MajB5CQUKDA"
-video_id: "MajB5CQUKDA"
-description: |
-  Deb Liu is the CEO of Ancestry and former longtime VP of Product at Facebook. At Facebook, Deb led the creation of Facebook Marketplace, developed the first mobile ad product for apps, built...
+guest: Deb Liu
+title: Succeeding as an introvert, building zero-to-one, and PM’ing your career like
+  a product | Deb Liu
+youtube_url: https://www.youtube.com/watch?v=MajB5CQUKDA
+video_id: MajB5CQUKDA
+description: 'Deb Liu is the CEO of Ancestry and former longtime VP of Product at
+  Facebook. At Facebook, Deb led the creation of Facebook Marketplace, developed the
+  first mobile ad product for apps, built...
+
+  '
 duration_seconds: 4286.0
-duration: "1:11:26"
+duration: '1:11:26'
 view_count: 20146
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- metrics
+- roadmap
+- iteration
+- analytics
+- conversion
+- pricing
+- revenue
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
 ---
 
 # Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu

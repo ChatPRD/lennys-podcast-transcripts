@@ -1,14 +1,34 @@
 ---
-guest: "Geoff Charles"
-title: "Velocity over everything: How Ramp became the fastest-growing SaaS startup ever | Geoff Charles"
-youtube_url: "https://www.youtube.com/watch?v=aNJDZ_RzTVk"
-video_id: "aNJDZ_RzTVk"
-description: |
-  Geoff Charles is VP of Product at Ramp—the fastest-growing SaaS startup of all time, Fast Company’s #1 Most Innovative Company in North America, and a company I believe we should all study...
+guest: Geoff Charles
+title: 'Velocity over everything: How Ramp became the fastest-growing SaaS startup
+  ever | Geoff Charles'
+youtube_url: https://www.youtube.com/watch?v=aNJDZ_RzTVk
+video_id: aNJDZ_RzTVk
+description: 'Geoff Charles is VP of Product at Ramp—the fastest-growing SaaS startup
+  of all time, Fast Company’s #1 Most Innovative Company in North America, and a company
+  I believe we should all study...
+
+  '
 duration_seconds: 4617.0
-duration: "1:16:57"
+duration: '1:16:57'
 view_count: 54457
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- metrics
+- okrs
+- kpis
+- roadmap
+- iteration
+- data-driven
+- conversion
+- revenue
+- hiring
+- team building
+- culture
+- leadership
+- management
+- strategy
 ---
 
 # Velocity over everything: How Ramp became the fastest-growing SaaS startup ever | Geoff Charles

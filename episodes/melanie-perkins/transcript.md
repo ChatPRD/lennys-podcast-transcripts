@@ -1,14 +1,33 @@
 ---
-guest: "Melanie Perkins"
-title: "She turned 100+ rejections into a $42B company | Melanie Perkins"
-youtube_url: "https://www.youtube.com/watch?v=-LywX3T5Scc"
-video_id: "-LywX3T5Scc"
-description: |
-  Melanie Perkins is CEO and co-founder of Canva, currently valued at over $42 billion, generating over $3 billion in annual revenue, with more than 240 million monthly active users and, incredibly,...
+guest: Melanie Perkins
+title: She turned 100+ rejections into a $42B company | Melanie Perkins
+youtube_url: https://www.youtube.com/watch?v=-LywX3T5Scc
+video_id: -LywX3T5Scc
+description: 'Melanie Perkins is CEO and co-founder of Canva, currently valued at
+  over $42 billion, generating over $3 billion in annual revenue, with more than 240
+  million monthly active users and, incredibly,...
+
+  '
 duration_seconds: 3970.0
-duration: "1:06:10"
+duration: '1:06:10'
 view_count: 48206
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- pricing
+- revenue
+- hiring
+- leadership
+- management
+- strategy
+- vision
+- mission
+- market
+- persona
+- design
+- ui
+- prototype
+- startup
 ---
 
 # She turned 100+ rejections into a $42B company | Melanie Perkins

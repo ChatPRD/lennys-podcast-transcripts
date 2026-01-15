@@ -1,14 +1,34 @@
 ---
-guest: "Matt Abrahams"
-title: "How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)"
-youtube_url: "https://www.youtube.com/watch?v=LpbBzmXrzEY"
-video_id: "LpbBzmXrzEY"
-description: |
-  Matt Abrahams is a renowned communication expert, with decades of teaching, coaching, and consulting experience. At Stanford University, he teaches a business school class on strategic communicatio...
+guest: Matt Abrahams
+title: How to speak more confidently and persuasively | Matt Abrahams (professor,
+  speaker, author)
+youtube_url: https://www.youtube.com/watch?v=LpbBzmXrzEY
+video_id: LpbBzmXrzEY
+description: 'Matt Abrahams is a renowned communication expert, with decades of teaching,
+  coaching, and consulting experience. At Stanford University, he teaches a business
+  school class on strategic communicatio...
+
+  '
 duration_seconds: 4318.0
-duration: "1:11:58"
+duration: '1:11:58'
 view_count: 52123
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- okrs
+- roadmap
+- hiring
+- culture
+- management
+- strategy
+- vision
+- mission
+- persona
+- design
+- ui
+- startup
+- saas
+- platform
 ---
 
 # How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)

@@ -1,14 +1,33 @@
 ---
-guest: "Karina Nguyen"
-title: "OpenAI researcher on why soft skills are the future of work | Karina Nguyen"
-youtube_url: "https://www.youtube.com/watch?v=DeskgjrLxxs"
-video_id: "DeskgjrLxxs"
-description: |
-  Karina Nguyen leads research at OpenAI, where she’s been pivotal in developing groundbreaking products like Canvas, Tasks, and the o1 language model. Before OpenAI, Karina was at Anthropic,...
+guest: Karina Nguyen
+title: OpenAI researcher on why soft skills are the future of work | Karina Nguyen
+youtube_url: https://www.youtube.com/watch?v=DeskgjrLxxs
+video_id: DeskgjrLxxs
+description: 'Karina Nguyen leads research at OpenAI, where she’s been pivotal in
+  developing groundbreaking products like Canvas, Tasks, and the o1 language model.
+  Before OpenAI, Karina was at Anthropic,...
+
+  '
 duration_seconds: 4474.0
-duration: "1:14:34"
+duration: '1:14:34'
 view_count: 22860
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- churn
+- metrics
+- roadmap
+- prioritization
+- iteration
+- revenue
+- hiring
+- culture
+- management
+- strategy
+- vision
+- persona
+- design
+- ux
+- ui
 ---
 
 # OpenAI researcher on why soft skills are the future of work | Karina Nguyen

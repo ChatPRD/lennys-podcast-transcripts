@@ -1,14 +1,31 @@
 ---
-guest: "Chip Huyen"
-title: "OpenAI researcher on why soft skills are the future of work | Karina Nguyen"
-youtube_url: "https://www.youtube.com/watch?v=DeskgjrLxxs"
-video_id: "DeskgjrLxxs"
-description: |
-  Karina Nguyen leads research at OpenAI, where she’s been pivotal in developing groundbreaking products like Canvas, Tasks, and the o1 language model. Before OpenAI, Karina was at Anthropic,...
-duration_seconds: 4474.0
-duration: "1:14:34"
-view_count: 22860
-channel: "Lenny's Podcast"
+guest: Chip Huyen
+title: Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)
+youtube_url: https://www.youtube.com/watch?v=qbvY0dQgSJ4
+video_id: qbvY0dQgSJ4
+description: Chip Huyen is a core developer on Nvidia’s Nemo platform, a former AI
+  researcher at Netflix, and taught machine learning at Stanford. She’s a two-time
+  founder and the author of two widely...
+duration_seconds: 4956.0
+duration: '1:22:36'
+view_count: 39648
+channel: Lenny's Podcast
+keywords:
+- acquisition
+- metrics
+- conversion
+- pricing
+- subscription
+- hiring
+- strategy
+- market
+- persona
+- design
+- ui
+- prototype
+- user experience
+- engineering
+- architecture
 ---
 
 # OpenAI researcher on why soft skills are the future of work | Karina Nguyen

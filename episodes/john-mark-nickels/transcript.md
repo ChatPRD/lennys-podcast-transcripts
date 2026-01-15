@@ -1,14 +1,34 @@
 ---
-guest: "John Mark Nickels"
-title: "Conscious leadership: Unlocking vision, strategy and purpose | JM Nickels (Uber, Waymo, DoorDash)"
-youtube_url: "https://www.youtube.com/watch?v=W7o40qcYHlM"
-video_id: "W7o40qcYHlM"
-description: |
-  JM Nickels is a Senior Director of Product Management at Uber. Previously, he was Head of Product for Commercialization at Waymo and led product teams at DoorDash. JM is also a coach and advisor...
+guest: John Mark Nickels
+title: 'Conscious leadership: Unlocking vision, strategy and purpose | JM Nickels
+  (Uber, Waymo, DoorDash)'
+youtube_url: https://www.youtube.com/watch?v=W7o40qcYHlM
+video_id: W7o40qcYHlM
+description: 'JM Nickels is a Senior Director of Product Management at Uber. Previously,
+  he was Head of Product for Commercialization at Waymo and led product teams at DoorDash.
+  JM is also a coach and advisor...
+
+  '
 duration_seconds: 4686.0
-duration: "1:18:06"
+duration: '1:18:06'
 view_count: 8028
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- roadmap
+- data-driven
+- analytics
+- pricing
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
+- market
+- persona
+- design
+- ux
 ---
 
 # Conscious leadership: Unlocking vision, strategy and purpose | JM Nickels (Uber, Waymo, DoorDash)

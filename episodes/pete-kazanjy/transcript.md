@@ -1,14 +1,33 @@
 ---
-guest: "Pete Kazanjy"
-title: "Founder-led sales | Pete Kazanjy (Founding Sales, Atrium)"
-youtube_url: "https://www.youtube.com/watch?v=cZd5234Eem0"
-video_id: "cZd5234Eem0"
-description: |
-  Pete Kazanjy is the author of Founding Sales: The Early Stage Go-to-Market Handbook and the founder of Modern Sales Pros, an invite-only peer learning community focused on sales operations...
+guest: Pete Kazanjy
+title: Founder-led sales | Pete Kazanjy (Founding Sales, Atrium)
+youtube_url: https://www.youtube.com/watch?v=cZd5234Eem0
+video_id: cZd5234Eem0
+description: 'Pete Kazanjy is the author of Founding Sales: The Early Stage Go-to-Market
+  Handbook and the founder of Modern Sales Pros, an invite-only peer learning community
+  focused on sales operations...
+
+  '
 duration_seconds: 3701.0
-duration: "1:01:41"
+duration: '1:01:41'
 view_count: 24047
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- onboarding
+- churn
+- metrics
+- roadmap
+- data-driven
+- analytics
+- funnel
+- conversion
+- freemium
+- revenue
+- hiring
+- leadership
+- management
 ---
 
 # Founder-led sales | Pete Kazanjy (Founding Sales, Atrium)

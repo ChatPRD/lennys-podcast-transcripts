@@ -1,14 +1,33 @@
 ---
-guest: "Eeke de Milliano"
-title: "How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)"
-youtube_url: "https://www.youtube.com/watch?v=2ezz4KJe7kA"
-video_id: "2ezz4KJe7kA"
-description: |
-  Eeke de Milliano is the Head of Product at Retool and a former product lead at Stripe. In this episode, we discuss how any team can become an innovation machine. We talk about how a culture...
+guest: Eeke de Milliano
+title: How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)
+youtube_url: https://www.youtube.com/watch?v=2ezz4KJe7kA
+video_id: 2ezz4KJe7kA
+description: 'Eeke de Milliano is the Head of Product at Retool and a former product
+  lead at Stripe. In this episode, we discuss how any team can become an innovation
+  machine. We talk about how a culture...
+
+  '
 duration_seconds: 3776.0
-duration: "1:02:56"
+duration: '1:02:56'
 view_count: 13631
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- pmf
+- growth
+- retention
+- activation
+- onboarding
+- metrics
+- roadmap
+- mvp
+- a/b testing
+- experimentation
+- analytics
+- funnel
+- pricing
+- subscription
+- revenue
 ---
 
 # How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)

@@ -1,14 +1,34 @@
 ---
-guest: "John Cutler"
-title: "What differentiates the highest-performing product teams | John Cutler (The Beautiful Mess)"
-youtube_url: "https://www.youtube.com/watch?v=Y4PdUItyXUk"
-video_id: "Y4PdUItyXUk"
-description: |
-  John Cutler writes the popular and beloved product newsletter The Beautiful Mess. For many years, he was a Product Evangelist at Amplitude, where he ended up meeting and working with a large...
+guest: John Cutler
+title: What differentiates the highest-performing product teams | John Cutler (The
+  Beautiful Mess)
+youtube_url: https://www.youtube.com/watch?v=Y4PdUItyXUk
+video_id: Y4PdUItyXUk
+description: 'John Cutler writes the popular and beloved product newsletter The Beautiful
+  Mess. For many years, he was a Product Evangelist at Amplitude, where he ended up
+  meeting and working with a large...
+
+  '
 duration_seconds: 6044.0
-duration: "1:40:44"
+duration: '1:40:44'
 view_count: 14846
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- metrics
+- roadmap
+- prioritization
+- experimentation
+- analytics
+- pricing
+- subscription
+- revenue
+- hiring
+- culture
+- leadership
 ---
 
 # What differentiates the highest-performing product teams | John Cutler (The Beautiful Mess)

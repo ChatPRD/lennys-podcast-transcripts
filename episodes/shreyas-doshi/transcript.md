@@ -1,14 +1,33 @@
 ---
-guest: "Shreyas Doshi"
-title: "The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)"
-youtube_url: "https://www.youtube.com/watch?v=YP_QghPLG-8"
-video_id: "YP_QghPLG-8"
-description: |
-  Shreyas Doshi is a treasure trove of wisdom and tactical insights on product, strategy, psychology, leadership, and life. Over the course of his career, he’s PM’d at Google, Twitter, Yahoo,...
+guest: Shreyas Doshi
+title: The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)
+youtube_url: https://www.youtube.com/watch?v=YP_QghPLG-8
+video_id: YP_QghPLG-8
+description: 'Shreyas Doshi is a treasure trove of wisdom and tactical insights on
+  product, strategy, psychology, leadership, and life. Over the course of his career,
+  he’s PM’d at Google, Twitter, Yahoo,...
+
+  '
 duration_seconds: 5482.0
-duration: "1:31:22"
+duration: '1:31:22'
 view_count: 260513
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- activation
+- onboarding
+- metrics
+- okrs
+- roadmap
+- prioritization
+- user research
+- data-driven
+- analytics
+- pricing
+- monetization
+- revenue
+- culture
 ---
 
 # The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)

@@ -1,14 +1,34 @@
 ---
-guest: "Chris Hutchins"
-title: "Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)"
-youtube_url: "https://www.youtube.com/watch?v=kc1XhB4k0Eg"
-video_id: "kc1XhB4k0Eg"
-description: |
-  Chris Hutchins recently left his position as Head of New Product Strategy at Wealthfront to focus full-time on his podcast, All the Hacks. If you’re thinking about starting your own podcast...
+guest: Chris Hutchins
+title: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront,
+  Google)
+youtube_url: https://www.youtube.com/watch?v=kc1XhB4k0Eg
+video_id: kc1XhB4k0Eg
+description: 'Chris Hutchins recently left his position as Head of New Product Strategy
+  at Wealthfront to focus full-time on his podcast, All the Hacks. If you’re thinking
+  about starting your own podcast...
+
+  '
 duration_seconds: 4655.0
-duration: "1:17:35"
+duration: '1:17:35'
 view_count: 2795
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- metrics
+- roadmap
+- analytics
+- funnel
+- monetization
+- subscription
+- revenue
+- hiring
+- culture
+- management
+- strategy
+- vision
+- mission
+- market
 ---
 
 # Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)

@@ -1,14 +1,34 @@
 ---
-guest: "Christopher Miller"
-title: "Relentless curiosity, radical accountability, and HubSpot’s winning growth formula | Chris Miller"
-youtube_url: "https://www.youtube.com/watch?v=SzKKJwuRFZI"
-video_id: "SzKKJwuRFZI"
-description: |
-  Christopher Miller serves as the VP of Product for Growth and AI at HubSpot. Having spent the past seven years at HubSpot, Chris has been at the center of one of the biggest B2B growth stories...
+guest: Christopher Miller
+title: Relentless curiosity, radical accountability, and HubSpot’s winning growth
+  formula | Chris Miller
+youtube_url: https://www.youtube.com/watch?v=SzKKJwuRFZI
+video_id: SzKKJwuRFZI
+description: 'Christopher Miller serves as the VP of Product for Growth and AI at
+  HubSpot. Having spent the past seven years at HubSpot, Chris has been at the center
+  of one of the biggest B2B growth stories...
+
+  '
 duration_seconds: 5484.0
-duration: "1:31:24"
+duration: '1:31:24'
 view_count: 13807
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- activation
+- onboarding
+- metrics
+- roadmap
+- user research
+- iteration
+- experimentation
+- funnel
+- conversion
+- pricing
+- freemium
+- subscription
+- revenue
+- hiring
 ---
 
 # Relentless curiosity, radical accountability, and HubSpot’s winning growth formula | Chris Miller

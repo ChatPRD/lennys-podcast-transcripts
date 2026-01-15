@@ -1,14 +1,34 @@
 ---
-guest: "Bob Moesta"
-title: "How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of \"Job Moves”)"
-youtube_url: "https://www.youtube.com/watch?v=2wypVv9wZtI"
-video_id: "2wypVv9wZtI"
-description: |
-  Bob Moesta, co-creator of the Jobs to Be Done framework, recently published a new book, Job Moves. Drawing from interviews with over 1,000 people about their career transitions, it offers a...
+guest: Bob Moesta
+title: How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author
+  of "Job Moves”)
+youtube_url: https://www.youtube.com/watch?v=2wypVv9wZtI
+video_id: 2wypVv9wZtI
+description: 'Bob Moesta, co-creator of the Jobs to Be Done framework, recently published
+  a new book, Job Moves. Drawing from interviews with over 1,000 people about their
+  career transitions, it offers a...
+
+  '
 duration_seconds: 5096.0
-duration: "1:24:56"
+duration: '1:24:56'
 view_count: 19224
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- activation
+- churn
+- metrics
+- roadmap
+- experimentation
+- conversion
+- pricing
+- subscription
+- hiring
+- competition
+- market
+- persona
+- jobs to be done
 ---
 
 # How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of "Job Moves”)

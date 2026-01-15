@@ -1,14 +1,34 @@
 ---
-guest: "Ami Vora"
-title: "Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)"
-youtube_url: "https://www.youtube.com/watch?v=6UHAop9fhNU"
-video_id: "6UHAop9fhNU"
-description: |
-  Ami Vora is the Chief Product Officer of Faire, which connects independent retailers and brands around the world. Before Faire, Ami spent over 15 years at Meta, including as VP of Product and...
+guest: Ami Vora
+title: Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire,
+  ex-WhatsApp, FB, IG)
+youtube_url: https://www.youtube.com/watch?v=6UHAop9fhNU
+video_id: 6UHAop9fhNU
+description: 'Ami Vora is the Chief Product Officer of Faire, which connects independent
+  retailers and brands around the world. Before Faire, Ami spent over 15 years at
+  Meta, including as VP of Product and...
+
+  '
 duration_seconds: 5039.0
-duration: "1:23:59"
+duration: '1:23:59'
 view_count: 40831
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- onboarding
+- metrics
+- roadmap
+- user research
+- iteration
+- conversion
+- revenue
+- hiring
+- leadership
+- strategy
+- vision
+- mission
+- competition
+- market
 ---
 
 # Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)

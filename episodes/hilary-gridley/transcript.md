@@ -1,14 +1,34 @@
 ---
-guest: "Hilary Gridley"
-title: "How to build a team that can “take a punch” | Hilary Gridley (Head of Core Product, Whoop)"
-youtube_url: "https://www.youtube.com/watch?v=xm5QAzAlqEY"
-video_id: "xm5QAzAlqEY"
-description: |
-  Hilary Gridley is the Head of Core Product at WHOOP and a passionate thought leader in leveraging AI to elevate product teams and management practices. With extensive experience tackling challengin...
+guest: Hilary Gridley
+title: How to build a team that can “take a punch” | Hilary Gridley (Head of Core
+  Product, Whoop)
+youtube_url: https://www.youtube.com/watch?v=xm5QAzAlqEY
+video_id: xm5QAzAlqEY
+description: 'Hilary Gridley is the Head of Core Product at WHOOP and a passionate
+  thought leader in leveraging AI to elevate product teams and management practices.
+  With extensive experience tackling challengin...
+
+  '
 duration_seconds: 6880.0
-duration: "1:54:40"
+duration: '1:54:40'
 view_count: 15779
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- activation
+- metrics
+- conversion
+- pricing
+- leadership
+- management
+- strategy
+- vision
+- mission
+- market
+- persona
+- design
+- ux
+- ui
 ---
 
 # How to build a team that can “take a punch” | Hilary Gridley (Head of Core Product, Whoop)

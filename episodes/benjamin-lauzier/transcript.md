@@ -1,14 +1,34 @@
 ---
-guest: "Benjamin Lauzier"
-title: "How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)"
-youtube_url: "https://www.youtube.com/watch?v=CYwgStMln6U"
-video_id: "CYwgStMln6U"
-description: |
-  Benjamin Lauzier has been building and scaling marketplaces for almost 15 years. He was the VP of product and growth at Thumbtack, where he rebuilt the product team and Thumbtack’s growth...
+guest: Benjamin Lauzier
+title: 'How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier
+  (Lyft, Thumbtack)'
+youtube_url: https://www.youtube.com/watch?v=CYwgStMln6U
+video_id: CYwgStMln6U
+description: 'Benjamin Lauzier has been building and scaling marketplaces for almost
+  15 years. He was the VP of product and growth at Thumbtack, where he rebuilt the
+  product team and Thumbtack’s growth...
+
+  '
 duration_seconds: 5043.0
-duration: "1:24:03"
+duration: '1:24:03'
 view_count: 21572
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- activation
+- onboarding
+- roadmap
+- iteration
+- a/b testing
+- experimentation
+- funnel
+- conversion
+- monetization
+- revenue
+- hiring
+- culture
+- management
 ---
 
 # How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)

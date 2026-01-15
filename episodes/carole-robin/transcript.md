@@ -1,14 +1,34 @@
 ---
-guest: "Carole Robin"
-title: "How to build deeper, more robust relationships | Carole Robin (Stanford professor, “Touchy Feely”)"
-youtube_url: "https://www.youtube.com/watch?v=Cew9-GlC_yk"
-video_id: "Cew9-GlC_yk"
-description: |
-  Carole Robin spent over 20 years teaching the Stanford Graduate School of Business course Interpersonal Dynamics, affectionately known as “Touchy Feely.” After leaving Stanford, she founded...
+guest: Carole Robin
+title: How to build deeper, more robust relationships | Carole Robin (Stanford professor,
+  “Touchy Feely”)
+youtube_url: https://www.youtube.com/watch?v=Cew9-GlC_yk
+video_id: Cew9-GlC_yk
+description: 'Carole Robin spent over 20 years teaching the Stanford Graduate School
+  of Business course Interpersonal Dynamics, affectionately known as “Touchy Feely.”
+  After leaving Stanford, she founded...
+
+  '
 duration_seconds: 5220.0
-duration: "1:27:00"
+duration: '1:27:00'
 view_count: 18515
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- a/b testing
+- experimentation
+- analytics
+- monetization
+- culture
+- leadership
+- management
+- vision
+- mission
+- market
+- persona
+- design
+- ui
+- engineering
 ---
 
 # How to build deeper, more robust relationships | Carole Robin (Stanford professor, “Touchy Feely”)

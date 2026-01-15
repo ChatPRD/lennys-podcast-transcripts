@@ -1,14 +1,33 @@
 ---
-guest: "Petra Wille"
-title: "How to be the best coach to product people | Petra Wille (Strong Product People)"
-youtube_url: "https://www.youtube.com/watch?v=4n3ybRqU5mU"
-video_id: "4n3ybRqU5mU"
-description: |
-  Petra Wille is an independent product leadership coach who’s been helping product teams expand their skill sets since 2013. She’s also the author of Strong Product People, which she published...
+guest: Petra Wille
+title: How to be the best coach to product people | Petra Wille (Strong Product People)
+youtube_url: https://www.youtube.com/watch?v=4n3ybRqU5mU
+video_id: 4n3ybRqU5mU
+description: 'Petra Wille is an independent product leadership coach who’s been helping
+  product teams expand their skill sets since 2013. She’s also the author of Strong
+  Product People, which she published...
+
+  '
 duration_seconds: 4337.0
-duration: "1:12:17"
+duration: '1:12:17'
 view_count: 9703
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- onboarding
+- roadmap
+- prioritization
+- data-driven
+- analytics
+- conversion
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- market
 ---
 
 # How to be the best coach to product people | Petra Wille (Strong Product People)

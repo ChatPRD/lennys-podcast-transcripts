@@ -1,14 +1,33 @@
 ---
-guest: "Shaun Clowes"
-title: "Why great AI products are all about the data | Shaun Clowes (CPO at Confluent)"
-youtube_url: "https://www.youtube.com/watch?v=yVS1gTAQYSU"
-video_id: "yVS1gTAQYSU"
-description: |
-  Shaun Clowes is the chief product officer at Confluent and former CPO at Salesforce’s MuleSoft and at Metromile. He was also the first head of growth at Atlassian, where he led product for...
+guest: Shaun Clowes
+title: Why great AI products are all about the data | Shaun Clowes (CPO at Confluent)
+youtube_url: https://www.youtube.com/watch?v=yVS1gTAQYSU
+video_id: yVS1gTAQYSU
+description: 'Shaun Clowes is the chief product officer at Confluent and former CPO
+  at Salesforce’s MuleSoft and at Metromile. He was also the first head of growth
+  at Atlassian, where he led product for...
+
+  '
 duration_seconds: 4895.0
-duration: "1:21:35"
+duration: '1:21:35'
 view_count: 17562
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- onboarding
+- churn
+- roadmap
+- user research
+- data-driven
+- analytics
+- funnel
+- conversion
+- pricing
+- subscription
+- revenue
 ---
 
 # Why great AI products are all about the data | Shaun Clowes (CPO at Confluent)

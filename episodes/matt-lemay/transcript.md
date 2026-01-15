@@ -1,14 +1,33 @@
 ---
-guest: "Matt LeMay"
-title: "The one question that saves product careers | Matt LeMay"
-youtube_url: "https://www.youtube.com/watch?v=ts9ZvlkeWGs"
-video_id: "ts9ZvlkeWGs"
-description: |
-  Matt LeMay spent 13 years as a music critic at Pitchfork before becoming one of product management’s most influential voices. He’s consulted with companies from startups to Fortune 500s...
+guest: Matt LeMay
+title: The one question that saves product careers | Matt LeMay
+youtube_url: https://www.youtube.com/watch?v=ts9ZvlkeWGs
+video_id: ts9ZvlkeWGs
+description: 'Matt LeMay spent 13 years as a music critic at Pitchfork before becoming
+  one of product management’s most influential voices. He’s consulted with companies
+  from startups to Fortune 500s...
+
+  '
 duration_seconds: 5529.0
-duration: "1:32:09"
+duration: '1:32:09'
 view_count: 27437
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- onboarding
+- metrics
+- okrs
+- kpis
+- prioritization
+- user research
+- funnel
+- conversion
+- revenue
+- hiring
+- culture
+- leadership
+- management
 ---
 
 # The one question that saves product careers | Matt LeMay

@@ -1,14 +1,33 @@
 ---
-guest: "Shweta Shriva"
-title: "Product lessons from Waymo | Shweta Shrivastava (Waymo, Amazon, Cisco)"
-youtube_url: "https://www.youtube.com/watch?v=VtNmAjNF3Tc"
-video_id: "VtNmAjNF3Tc"
-description: |
-  Shweta Shrivastava is a Senior Product Leader at Waymo, an autonomous driving technology company backed by Alphabet. Prior to joining Waymo, she was the CPO of Nauto, where she also worked...
+guest: Shweta Shriva
+title: Product lessons from Waymo | Shweta Shrivastava (Waymo, Amazon, Cisco)
+youtube_url: https://www.youtube.com/watch?v=VtNmAjNF3Tc
+video_id: VtNmAjNF3Tc
+description: 'Shweta Shrivastava is a Senior Product Leader at Waymo, an autonomous
+  driving technology company backed by Alphabet. Prior to joining Waymo, she was the
+  CPO of Nauto, where she also worked...
+
+  '
 duration_seconds: 2536.0
-duration: "42:16"
+duration: '42:16'
 view_count: 5227
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- metrics
+- kpis
+- prioritization
+- mvp
+- analytics
+- funnel
+- hiring
+- culture
+- management
+- strategy
+- vision
+- mission
+- market
+- design
 ---
 
 # Product lessons from Waymo | Shweta Shrivastava (Waymo, Amazon, Cisco)

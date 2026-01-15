@@ -1,14 +1,34 @@
 ---
-guest: "Dylan Field"
-title: "Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field"
-youtube_url: "https://www.youtube.com/watch?v=WyJV6VwEGA8"
-video_id: "WyJV6VwEGA8"
-description: |
-  Dylan Field is co-founder and CEO of Figma, a beloved tool used by every modern product team. Founded in 2012, Figma has expanded from a single design tool to a comprehensive platform including...
+guest: Dylan Field
+title: 'Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups
+  | Dylan Field'
+youtube_url: https://www.youtube.com/watch?v=WyJV6VwEGA8
+video_id: WyJV6VwEGA8
+description: 'Dylan Field is co-founder and CEO of Figma, a beloved tool used by every
+  modern product team. Founded in 2012, Figma has expanded from a single design tool
+  to a comprehensive platform including...
+
+  '
 duration_seconds: 5210.0
-duration: "1:26:50"
+duration: '1:26:50'
 view_count: 199455
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- user research
+- hiring
+- leadership
+- management
+- strategy
+- vision
+- mission
+- market
+- persona
+- design
+- ui
+- engineering
+- startup
+- founder
 ---
 
 # Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field

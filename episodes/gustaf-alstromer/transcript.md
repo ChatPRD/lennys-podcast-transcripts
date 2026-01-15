@@ -1,14 +1,34 @@
 ---
-guest: "Gustaf Alstromer"
-title: "Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator, Airbnb)"
-youtube_url: "https://www.youtube.com/watch?v=ZoKLofsp8u0"
-video_id: "ZoKLofsp8u0"
-description: |
-  Gustaf Alströmer is a Group Partner at Y Combinator, where he has worked with over 600 startups. He’s also a fellow Airbnb alumnus and even started the original Airbnb growth team. In today’s...
+guest: Gustaf Alstromer
+title: Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator,
+  Airbnb)
+youtube_url: https://www.youtube.com/watch?v=ZoKLofsp8u0
+video_id: ZoKLofsp8u0
+description: 'Gustaf Alströmer is a Group Partner at Y Combinator, where he has worked
+  with over 600 startups. He’s also a fellow Airbnb alumnus and even started the original
+  Airbnb growth team. In today’s...
+
+  '
 duration_seconds: 5136.0
-duration: "1:25:36"
+duration: '1:25:36'
 view_count: 129172
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- activation
+- metrics
+- roadmap
+- iteration
+- a/b testing
+- experimentation
+- analytics
+- subscription
+- revenue
+- hiring
+- team building
+- culture
+- management
 ---
 
 # Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator, Airbnb)

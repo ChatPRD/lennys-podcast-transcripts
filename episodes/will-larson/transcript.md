@@ -1,14 +1,33 @@
 ---
-guest: "Will Larson"
-title: "The engineering mindset | Will Larson (Carta, Stripe, Uber, Calm, Digg)"
-youtube_url: "https://www.youtube.com/watch?v=Z9ftpRhRiJE"
-video_id: "Z9ftpRhRiJE"
-description: |
-  Will Larson is the chief technology officer at Carta. Prior to joining Carta, he was the CTO at Calm and held engineering leadership roles at Stripe, Uber, and Digg. He is the author of two...
+guest: Will Larson
+title: The engineering mindset | Will Larson (Carta, Stripe, Uber, Calm, Digg)
+youtube_url: https://www.youtube.com/watch?v=Z9ftpRhRiJE
+video_id: Z9ftpRhRiJE
+description: 'Will Larson is the chief technology officer at Carta. Prior to joining
+  Carta, he was the CTO at Calm and held engineering leadership roles at Stripe, Uber,
+  and Digg. He is the author of two...
+
+  '
 duration_seconds: 4613.0
-duration: "1:16:53"
+duration: '1:16:53'
 view_count: 36504
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- metrics
+- roadmap
+- funnel
+- conversion
+- monetization
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- competition
+- market
 ---
 
 # The engineering mindset | Will Larson (Carta, Stripe, Uber, Calm, Digg)

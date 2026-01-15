@@ -1,14 +1,33 @@
 ---
-guest: "Boz"
-title: "Making Meta | Andrew ‘Boz’ Bosworth (CTO)"
-youtube_url: "https://www.youtube.com/watch?v=_XqDB2Upr3s"
-video_id: "_XqDB2Upr3s"
-description: |
-  Andrew Bosworth—or Boz, as most people know him—is the chief technology officer at Meta and head of Reality Labs, the company’s augmented reality/virtual reality (AR/VR) organization,...
+guest: Boz
+title: Making Meta | Andrew ‘Boz’ Bosworth (CTO)
+youtube_url: https://www.youtube.com/watch?v=_XqDB2Upr3s
+video_id: _XqDB2Upr3s
+description: 'Andrew Bosworth—or Boz, as most people know him—is the chief technology
+  officer at Meta and head of Reality Labs, the company’s augmented reality/virtual
+  reality (AR/VR) organization,...
+
+  '
 duration_seconds: 6141.0
-duration: "1:42:21"
+duration: '1:42:21'
 view_count: 37528
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- roadmap
+- experimentation
+- analytics
+- monetization
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
+- competition
+- market
+- persona
+- design
 ---
 
 # Making Meta | Andrew ‘Boz’ Bosworth (CTO)

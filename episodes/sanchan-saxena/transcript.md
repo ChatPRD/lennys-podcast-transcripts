@@ -1,14 +1,33 @@
 ---
-guest: "Sanchan Saxena"
-title: "Why Uber’s CPO delivers food on weekends | Sachin Kansal"
-youtube_url: "https://www.youtube.com/watch?v=MnBZlEQ14fY"
-video_id: "MnBZlEQ14fY"
-description: |
-  Sachin Kansal is chief product officer at Uber, where he oversees the Rider, Driver, Delivery, Grocery, and New Verticals product lines used for 33 million daily trips worldwide. He’s been...
+guest: Sanchan Saxena
+title: Why Uber’s CPO delivers food on weekends | Sachin Kansal
+youtube_url: https://www.youtube.com/watch?v=MnBZlEQ14fY
+video_id: MnBZlEQ14fY
+description: 'Sachin Kansal is chief product officer at Uber, where he oversees the
+  Rider, Driver, Delivery, Grocery, and New Verticals product lines used for 33 million
+  daily trips worldwide. He’s been...
+
+  '
 duration_seconds: 4917.0
-duration: "1:21:57"
+duration: '1:21:57'
 view_count: 15157
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- onboarding
+- roadmap
+- user research
+- mvp
+- iteration
+- a/b testing
+- data-driven
+- pricing
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
 ---
 
 # Why Uber’s CPO delivers food on weekends | Sachin Kansal

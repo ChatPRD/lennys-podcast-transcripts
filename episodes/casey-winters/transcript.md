@@ -1,18 +1,37 @@
 ---
-guest: "Casey Winters"
-title: "Why most product managers are unprepared for the demands of a real startup | Casey Winters"
-youtube_url: "https://www.youtube.com/watch?v=WlRfyEpAKxw"
-video_id: "WlRfyEpAKxw"
-description: |
-  Casey Winters explains why so many product managers are falling short.
+guest: Casey Winters
+title: Why most product managers are unprepared for the demands of a real startup
+  | Casey Winters
+youtube_url: https://www.youtube.com/watch?v=WlRfyEpAKxw
+video_id: WlRfyEpAKxw
+description: 'Casey Winters explains why so many product managers are falling short.
+
   🎙️Find the full episode here: https://youtu.be/QMFvz8utx-Q
-  
+
+
   —
-  
+
+  '
 duration_seconds: 99.0
-duration: "1:39"
+duration: '1:39'
 view_count: 2212
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- metrics
+- okrs
+- roadmap
+- user research
+- analytics
+- conversion
+- pricing
+- hiring
+- leadership
+- management
+- strategy
+- market
+- segmentation
 ---
 
 # Why most product managers are unprepared for the demands of a real startup | Casey Winters

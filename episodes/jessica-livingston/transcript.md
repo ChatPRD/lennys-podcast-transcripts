@@ -1,14 +1,34 @@
 ---
-guest: "Jessica Livingston"
-title: "The social radar: Y Combinator’s secret weapon | Jessica Livingston (co-founder of YC, author)"
-youtube_url: "https://www.youtube.com/watch?v=h9MUuhsDJOM"
-video_id: "h9MUuhsDJOM"
-description: |
-  Jessica Livingston is a co-founder of Y Combinator, the first and most successful startup accelerator. Y Combinator has funded over 5,000 companies, 200 of which are now unicorns, including...
+guest: Jessica Livingston
+title: 'The social radar: Y Combinator’s secret weapon | Jessica Livingston (co-founder
+  of YC, author)'
+youtube_url: https://www.youtube.com/watch?v=h9MUuhsDJOM
+video_id: h9MUuhsDJOM
+description: 'Jessica Livingston is a co-founder of Y Combinator, the first and most
+  successful startup accelerator. Y Combinator has funded over 5,000 companies, 200
+  of which are now unicorns, including...
+
+  '
 duration_seconds: 5096.0
-duration: "1:24:56"
+duration: '1:24:56'
 view_count: 22295
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- roadmap
+- analytics
+- revenue
+- culture
+- management
+- strategy
+- vision
+- market
+- persona
+- ui
+- startup
+- founder
+- fundraising
 ---
 
 # The social radar: Y Combinator’s secret weapon | Jessica Livingston (co-founder of YC, author)

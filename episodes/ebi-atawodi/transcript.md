@@ -1,14 +1,33 @@
 ---
-guest: "Ebi Atawodi"
-title: "Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)"
-youtube_url: "https://www.youtube.com/watch?v=tBPTwUmaxDs"
-video_id: "tBPTwUmaxDs"
-description: |
-  Ebi Atawodi is Director of Product Management for the Creator Experience at YouTube, former Head of Product at Uber, and a former Director of Product (Payments and EMEA) at Netflix. Known for...
+guest: Ebi Atawodi
+title: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)
+youtube_url: https://www.youtube.com/watch?v=tBPTwUmaxDs
+video_id: tBPTwUmaxDs
+description: 'Ebi Atawodi is Director of Product Management for the Creator Experience
+  at YouTube, former Head of Product at Uber, and a former Director of Product (Payments
+  and EMEA) at Netflix. Known for...
+
+  '
 duration_seconds: 5987.0
-duration: "1:39:47"
+duration: '1:39:47'
 view_count: 48600
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- onboarding
+- metrics
+- roadmap
+- prioritization
+- user research
+- analytics
+- subscription
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
 ---
 
 # Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)

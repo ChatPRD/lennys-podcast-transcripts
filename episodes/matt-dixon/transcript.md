@@ -1,14 +1,34 @@
 ---
-guest: "Matt Dixon"
-title: "The surprising truth about what closes deals: Insights from 2.5m sales conversations | Matt Dixon"
-youtube_url: "https://www.youtube.com/watch?v=cUzEgRetmC4"
-video_id: "cUzEgRetmC4"
-description: |
-  Matt Dixon is one of the world’s foremost experts in sales and the author of The Challenger Sale, which sold over a million copies worldwide and was a #1 Amazon and Wall Street Journal bestseller...
+guest: Matt Dixon
+title: 'The surprising truth about what closes deals: Insights from 2.5m sales conversations
+  | Matt Dixon'
+youtube_url: https://www.youtube.com/watch?v=cUzEgRetmC4
+video_id: cUzEgRetmC4
+description: 'Matt Dixon is one of the world’s foremost experts in sales and the author
+  of The Challenger Sale, which sold over a million copies worldwide and was a #1
+  Amazon and Wall Street Journal bestseller...
+
+  '
 duration_seconds: 3399.0
-duration: "56:39"
+duration: '56:39'
 view_count: 19770
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- metrics
+- roadmap
+- analytics
+- conversion
+- revenue
+- hiring
+- management
+- strategy
+- vision
+- mission
+- competition
+- market
+- persona
 ---
 
 # The surprising truth about what closes deals: Insights from 2.5m sales conversations | Matt Dixon

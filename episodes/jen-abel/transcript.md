@@ -1,14 +1,33 @@
 ---
-guest: "Jen Abel"
-title: "The ultimate guide to founder-led sales | Jen Abel (co-founder of JJELLYFISH)"
-youtube_url: "https://www.youtube.com/watch?v=969dwgu98qc"
-video_id: "969dwgu98qc"
-description: |
-  Jen Abel is the co-founder of JJELLYFISH, where she and her team have worked with over 300 early-stage founders to learn how to sell, do early customer discovery, and set up a repeatable sales...
+guest: Jen Abel
+title: The ultimate guide to founder-led sales | Jen Abel (co-founder of JJELLYFISH)
+youtube_url: https://www.youtube.com/watch?v=969dwgu98qc
+video_id: 969dwgu98qc
+description: 'Jen Abel is the co-founder of JJELLYFISH, where she and her team have
+  worked with over 300 early-stage founders to learn how to sell, do early customer
+  discovery, and set up a repeatable sales...
+
+  '
 duration_seconds: 4565.0
-duration: "1:16:05"
+duration: '1:16:05'
 view_count: 74499
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- churn
+- roadmap
+- customer discovery
+- mvp
+- experimentation
+- funnel
+- conversion
+- revenue
+- hiring
+- leadership
+- management
+- strategy
+- vision
 ---
 
 # The ultimate guide to founder-led sales | Jen Abel (co-founder of JJELLYFISH)

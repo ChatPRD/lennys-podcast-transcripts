@@ -1,14 +1,34 @@
 ---
-guest: "Oji Udezue"
-title: "Picking sharp problems, increasing virality, and unique product frameworks | Oji Udezue (Typeform)"
-youtube_url: "https://www.youtube.com/watch?v=T8TQGbJhv6Q"
-video_id: "T8TQGbJhv6Q"
-description: |
-  Oji Udezue is Chief Product Officer at Typeform and has held leadership roles at Twitter (Head of Product for Creation and Conversation), Calendly (CPO), and Atlassian (Head of Product for...
+guest: Oji Udezue
+title: Picking sharp problems, increasing virality, and unique product frameworks
+  | Oji Udezue (Typeform)
+youtube_url: https://www.youtube.com/watch?v=T8TQGbJhv6Q
+video_id: T8TQGbJhv6Q
+description: 'Oji Udezue is Chief Product Officer at Typeform and has held leadership
+  roles at Twitter (Head of Product for Creation and Conversation), Calendly (CPO),
+  and Atlassian (Head of Product for...
+
+  '
 duration_seconds: 4576.0
-duration: "1:16:16"
+duration: '1:16:16'
 view_count: 11065
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- activation
+- onboarding
+- churn
+- roadmap
+- prioritization
+- customer discovery
+- conversion
+- monetization
+- freemium
+- revenue
+- hiring
+- leadership
+- management
 ---
 
 # Picking sharp problems, increasing virality, and unique product frameworks | Oji Udezue (Typeform)

@@ -1,14 +1,34 @@
 ---
-guest: "Meltem Kuran"
-title: "An inside look at Deel’s unprecedented growth | Meltem Kuran Berkowitz (Head of Growth)"
-youtube_url: "https://www.youtube.com/watch?v=C1_sM0_ds2c"
-video_id: "C1_sM0_ds2c"
-description: |
-  Meltem Kuran Berkowitz is Head of Growth at Deel, which went from $0 to $300m in ARR in 3 years (fastest company in history to do so). Meltem joined Deel early to lead growth, and currently...
+guest: Meltem Kuran
+title: An inside look at Deel’s unprecedented growth | Meltem Kuran Berkowitz (Head
+  of Growth)
+youtube_url: https://www.youtube.com/watch?v=C1_sM0_ds2c
+video_id: C1_sM0_ds2c
+description: 'Meltem Kuran Berkowitz is Head of Growth at Deel, which went from $0
+  to $300m in ARR in 3 years (fastest company in history to do so). Meltem joined
+  Deel early to lead growth, and currently...
+
+  '
 duration_seconds: 4311.0
-duration: "1:11:51"
+duration: '1:11:51'
 view_count: 33018
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- metrics
+- kpis
+- prioritization
+- user research
+- a/b testing
+- funnel
+- revenue
+- hiring
+- team building
+- culture
+- strategy
+- vision
+- positioning
 ---
 
 # An inside look at Deel’s unprecedented growth | Meltem Kuran Berkowitz (Head of Growth)

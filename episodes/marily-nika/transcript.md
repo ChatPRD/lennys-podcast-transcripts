@@ -1,14 +1,33 @@
 ---
-guest: "Marily Nika"
-title: "AI and product management | Marily Nika (Meta, Google)"
-youtube_url: "https://www.youtube.com/watch?v=qNPPoj1qUG0"
-video_id: "qNPPoj1qUG0"
-description: |
-  Marily is a computer scientist and an AI Product Leader currently working for Meta’s reality labs, and previously at Google for 8 years. In 2014 she completed a PhD in Machine Learning. She...
+guest: Marily Nika
+title: AI and product management | Marily Nika (Meta, Google)
+youtube_url: https://www.youtube.com/watch?v=qNPPoj1qUG0
+video_id: qNPPoj1qUG0
+description: 'Marily is a computer scientist and an AI Product Leader currently working
+  for Meta’s reality labs, and previously at Google for 8 years. In 2014 she completed
+  a PhD in Machine Learning. She...
+
+  '
 duration_seconds: 2882.0
-duration: "48:02"
+duration: '48:02'
 view_count: 71782
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- activation
+- metrics
+- mvp
+- iteration
+- experimentation
+- analytics
+- subscription
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
 ---
 
 # AI and product management | Marily Nika (Meta, Google)

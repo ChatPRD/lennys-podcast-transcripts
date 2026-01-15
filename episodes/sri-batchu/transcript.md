@@ -1,14 +1,33 @@
 ---
-guest: "Sri Batchu"
-title: "Lessons from scaling Ramp | Sri Batchu (Ramp, Instacart, Opendoor)"
-youtube_url: "https://www.youtube.com/watch?v=RcYCU5UAZOk"
-video_id: "RcYCU5UAZOk"
-description: |
-  Sri Batchu currently leads growth at Ramp, the fastest-growing SaaS business (and fintech business) in history. Previously, he led growth strategy and operations at Instacart and was one of...
+guest: Sri Batchu
+title: Lessons from scaling Ramp | Sri Batchu (Ramp, Instacart, Opendoor)
+youtube_url: https://www.youtube.com/watch?v=RcYCU5UAZOk
+video_id: RcYCU5UAZOk
+description: 'Sri Batchu currently leads growth at Ramp, the fastest-growing SaaS
+  business (and fintech business) in history. Previously, he led growth strategy and
+  operations at Instacart and was one of...
+
+  '
 duration_seconds: 4638.0
-duration: "1:17:18"
+duration: '1:17:18'
 view_count: 8355
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- churn
+- metrics
+- roadmap
+- prioritization
+- mvp
+- a/b testing
+- experimentation
+- analytics
+- funnel
+- conversion
+- monetization
 ---
 
 # Lessons from scaling Ramp | Sri Batchu (Ramp, Instacart, Opendoor)

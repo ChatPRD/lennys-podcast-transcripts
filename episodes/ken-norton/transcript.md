@@ -1,14 +1,33 @@
 ---
-guest: "Ken Norton"
-title: "How to unlock your product leadership skills | Ken Norton, Ex-Google"
-youtube_url: "https://www.youtube.com/watch?v=6P0Es02vIF4"
-video_id: "6P0Es02vIF4"
-description: |
-  Advancing as a product leader requires new skills and a new mindset. Ken Norton is an executive coach who works with some of the top people in product to help them get unstuck and find creativity...
+guest: Ken Norton
+title: How to unlock your product leadership skills | Ken Norton, Ex-Google
+youtube_url: https://www.youtube.com/watch?v=6P0Es02vIF4
+video_id: 6P0Es02vIF4
+description: 'Advancing as a product leader requires new skills and a new mindset.
+  Ken Norton is an executive coach who works with some of the top people in product
+  to help them get unstuck and find creativity...
+
+  '
 duration_seconds: 4689.0
-duration: "1:18:09"
+duration: '1:18:09'
 view_count: 6090
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- metrics
+- experimentation
+- analytics
+- conversion
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- vision
+- mission
+- differentiation
+- market
+- persona
 ---
 
 # How to unlock your product leadership skills | Ken Norton, Ex-Google

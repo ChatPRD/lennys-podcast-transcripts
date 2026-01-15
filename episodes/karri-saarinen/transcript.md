@@ -1,14 +1,34 @@
 ---
-guest: "Karri Saarinen"
-title: "Inside Linear: Building with taste, craft, and focus | Karri Saarinen (co-founder, designer, CEO)"
-youtube_url: "https://www.youtube.com/watch?v=4muxFVZ4XfM"
-video_id: "4muxFVZ4XfM"
-description: |
-  Karri Saarinen is the co-founder and CEO of Linear, an issue-tracking tool that has quickly become the fastest-growing and most beloved in the world. Before Linear, Karri was the principal...
+guest: Karri Saarinen
+title: 'Inside Linear: Building with taste, craft, and focus | Karri Saarinen (co-founder,
+  designer, CEO)'
+youtube_url: https://www.youtube.com/watch?v=4muxFVZ4XfM
+video_id: 4muxFVZ4XfM
+description: 'Karri Saarinen is the co-founder and CEO of Linear, an issue-tracking
+  tool that has quickly become the fastest-growing and most beloved in the world.
+  Before Linear, Karri was the principal...
+
+  '
 duration_seconds: 5990.0
-duration: "1:39:50"
+duration: '1:39:50'
 view_count: 39856
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- metrics
+- roadmap
+- user research
+- iteration
+- analytics
+- pricing
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
 ---
 
 # Inside Linear: Building with taste, craft, and focus | Karri Saarinen (co-founder, designer, CEO)

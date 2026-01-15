@@ -1,14 +1,31 @@
 ---
-guest: "Hamilton Helmer"
-title: "Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst"
-youtube_url: "https://www.youtube.com/watch?v=oB-BjEjxHNw"
-video_id: "oB-BjEjxHNw"
-description: |
-  Camille Hearst is Head of Fan Monetization at Spotify, where she finds new ways for fans to connect and for artists to monetize. Previously she was Head of Product for Creators at Patreon,...
-duration_seconds: 3822.0
-duration: "1:03:42"
-view_count: 4752
-channel: "Lenny's Podcast"
+guest: Hamilton Helmer
+title: Business strategy with Hamilton Helmer (author of 7 Powers)
+youtube_url: https://www.youtube.com/watch?v=hKq1_KPSqy0
+video_id: hKq1_KPSqy0
+description: 'Hamilton Helmer is one of the world’s leading experts on business strategy
+  and the author of the seminal book 7 Powers: The Foundations of Business Strategy,
+  which provides a comprehensive...'
+duration_seconds: 4088.0
+duration: '1:08:08'
+view_count: 21086
+channel: Lenny's Podcast
+keywords:
+- product-market fit
+- growth
+- retention
+- monetization
+- subscription
+- management
+- strategy
+- vision
+- positioning
+- competition
+- market
+- persona
+- design
+- ux
+- ui
 ---
 
 # Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst

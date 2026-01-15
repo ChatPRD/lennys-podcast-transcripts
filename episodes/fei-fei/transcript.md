@@ -1,14 +1,34 @@
 ---
-guest: "Fei Fei"
-title: "The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li"
-youtube_url: "https://www.youtube.com/watch?v=Ctjiatnd6Xk"
-video_id: "Ctjiatnd6Xk"
-description: |
-  Dr. Fei-Fei Li is known as the “godmother of AI.” She’s been at the center of AI’s biggest breakthroughs for over two decades. She spearheaded ImageNet, the dataset that sparked the...
+guest: Fei Fei
+title: The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei
+  Li
+youtube_url: https://www.youtube.com/watch?v=Ctjiatnd6Xk
+video_id: Ctjiatnd6Xk
+description: 'Dr. Fei-Fei Li is known as the “godmother of AI.” She’s been at the
+  center of AI’s biggest breakthroughs for over two decades. She spearheaded ImageNet,
+  the dataset that sparked the...
+
+  '
 duration_seconds: 4774.0
-duration: "1:19:34"
+duration: '1:19:34'
 view_count: 139609
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- experimentation
+- hiring
+- culture
+- vision
+- mission
+- competition
+- market
+- persona
+- design
+- ui
+- prototype
+- engineering
+- architecture
+- founder
+- investors
 ---
 
 # The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li

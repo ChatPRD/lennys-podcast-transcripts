@@ -1,18 +1,37 @@
 ---
-guest: "Jonathan Becker"
-title: "The crazy story of landing Uber as a client | Jonathan Becker (Thrive Digital)"
-youtube_url: "https://www.youtube.com/watch?v=rG4zxf0CAv0"
-video_id: "rG4zxf0CAv0"
-description: |
-  Jonathan explains how he went from exploiting Uber's marketing loophole to landing them as a client.
+guest: Jonathan Becker
+title: The crazy story of landing Uber as a client | Jonathan Becker (Thrive Digital)
+youtube_url: https://www.youtube.com/watch?v=rG4zxf0CAv0
+video_id: rG4zxf0CAv0
+description: 'Jonathan explains how he went from exploiting Uber''s marketing loophole
+  to landing them as a client.
+
   🎙️Find the full episode here: https://youtu.be/mmxTeS0AVMo
-  
+
+
   —
-  
+
+  '
 duration_seconds: 122.0
-duration: "2:02"
+duration: '2:02'
 view_count: 461
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- metrics
+- roadmap
+- iteration
+- experimentation
+- funnel
+- conversion
+- revenue
+- hiring
+- culture
+- management
+- strategy
+- vision
 ---
 
 # The crazy story of landing Uber as a client | Jonathan Becker (Thrive Digital)

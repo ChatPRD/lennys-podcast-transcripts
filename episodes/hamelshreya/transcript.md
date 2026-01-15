@@ -1,14 +1,32 @@
 ---
-guest: "Hamel+Shreya"
-title: "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)"
-youtube_url: "https://www.youtube.com/watch?v=dpw9Ue1HU48"
-video_id: "dpw9Ue1HU48"
-description: |
-  Dharmesh Shah is the co-founder and CTO of HubSpot (currently valued at $30 billion) and one of the most fascinating founders I’ve ever met. Dharmesh is the keeper of HubSpot’s Culture...
-duration_seconds: 6104.0
-duration: "1:41:44"
-view_count: 72215
-channel: "Lenny's Podcast"
+guest: Hamel+Shreya
+title: Why AI evals are the hottest new skill for product builders | Hamel Husain
+  & Shreya Shankar
+youtube_url: https://www.youtube.com/watch?v=BsWxPI9UM4c
+video_id: BsWxPI9UM4c
+description: Hamel Husain and Shreya Shankar teach the world’s most popular course
+  on AI evals and have trained over 2,000 PMs and engineers (including many teams
+  at OpenAI and Anthropic). In this conversatio...
+duration_seconds: 6393.0
+duration: '1:46:33'
+view_count: 79329
+channel: Lenny's Podcast
+keywords:
+- acquisition
+- metrics
+- analytics
+- culture
+- management
+- vision
+- market
+- persona
+- design
+- ux
+- ui
+- prototype
+- user experience
+- engineering
+- startup
 ---
 
 # Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)

@@ -1,14 +1,33 @@
 ---
-guest: "Sahil Mansuri"
-title: "How to hit revenue targets in a recession | Sahil Mansuri (Bravado)"
-youtube_url: "https://www.youtube.com/watch?v=pYZ0S7a72po"
-video_id: "pYZ0S7a72po"
-description: |
-  Sahil Mansuri is the CEO of Bravado, the world’s largest online sales community. Sahil is passionate about sales, and his experience dates all the way back to 2008, working for Obama’s...
+guest: Sahil Mansuri
+title: How to hit revenue targets in a recession | Sahil Mansuri (Bravado)
+youtube_url: https://www.youtube.com/watch?v=pYZ0S7a72po
+video_id: pYZ0S7a72po
+description: 'Sahil Mansuri is the CEO of Bravado, the world’s largest online sales
+  community. Sahil is passionate about sales, and his experience dates all the way
+  back to 2008, working for Obama’s...
+
+  '
 duration_seconds: 5191.0
-duration: "1:26:31"
+duration: '1:26:31'
 view_count: 13762
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- onboarding
+- churn
+- metrics
+- roadmap
+- analytics
+- funnel
+- conversion
+- pricing
+- revenue
+- hiring
+- leadership
+- management
+- strategy
 ---
 
 # How to hit revenue targets in a recession | Sahil Mansuri (Bravado)

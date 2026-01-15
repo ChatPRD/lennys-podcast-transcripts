@@ -1,14 +1,33 @@
 ---
-guest: "Inbal S"
-title: "The future of AI in software development | Inbal Shani (CPO of GitHub)"
-youtube_url: "https://www.youtube.com/watch?v=f10s3rxKaJw"
-video_id: "f10s3rxKaJw"
-description: |
-  Inbal Shani is the chief product officer at GitHub, where she leads core product management, along with product strategy, marketing, open source, and communities, including the development...
+guest: Inbal S
+title: The future of AI in software development | Inbal Shani (CPO of GitHub)
+youtube_url: https://www.youtube.com/watch?v=f10s3rxKaJw
+video_id: f10s3rxKaJw
+description: 'Inbal Shani is the chief product officer at GitHub, where she leads
+  core product management, along with product strategy, marketing, open source, and
+  communities, including the development...
+
+  '
 duration_seconds: 3004.0
-duration: "50:04"
+duration: '50:04'
 view_count: 9980
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- churn
+- metrics
+- roadmap
+- prioritization
+- revenue
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
+- market
+- persona
 ---
 
 # The future of AI in software development | Inbal Shani (CPO of GitHub)

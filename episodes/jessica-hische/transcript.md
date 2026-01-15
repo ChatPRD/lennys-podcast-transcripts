@@ -1,14 +1,34 @@
 ---
-guest: "Jessica Hische"
-title: "How to see like a designer: The hidden power of typography and logos | Jessica Hische"
-youtube_url: "https://www.youtube.com/watch?v=tLLqE6Ia8-U"
-video_id: "tLLqE6Ia8-U"
-description: |
-  Jessica Hische is a lettering artist and New York Times bestselling author based in Oakland, California. She specializes in typographical work for logos, film, books, and other commercial applicati...
+guest: Jessica Hische
+title: 'How to see like a designer: The hidden power of typography and logos | Jessica
+  Hische'
+youtube_url: https://www.youtube.com/watch?v=tLLqE6Ia8-U
+video_id: tLLqE6Ia8-U
+description: 'Jessica Hische is a lettering artist and New York Times bestselling
+  author based in Oakland, California. She specializes in typographical work for logos,
+  film, books, and other commercial applicati...
+
+  '
 duration_seconds: 4908.0
-duration: "1:21:48"
+duration: '1:21:48'
 view_count: 9805
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- roadmap
+- iteration
+- pricing
+- hiring
+- culture
+- leadership
+- management
+- vision
+- mission
+- market
+- design
+- ui
+- engineering
+- startup
+- founder
 ---
 
 # How to see like a designer: The hidden power of typography and logos | Jessica Hische

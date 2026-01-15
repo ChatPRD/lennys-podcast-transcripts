@@ -1,16 +1,36 @@
 ---
-guest: "Matt Mochary"
-title: "Are your fears giving you terrible advice? | Matt Mochary"
-youtube_url: "https://www.youtube.com/watch?v=qOrwVtZvdaE"
-video_id: "qOrwVtZvdaE"
-description: |
-  From episode: (https://youtu.be/bCel0X2Ta7U) How to fire people with grace, work through fear, and nurture innovation | Matt Mochary (CEO coach)
+guest: Matt Mochary
+title: Are your fears giving you terrible advice? | Matt Mochary
+youtube_url: https://www.youtube.com/watch?v=qOrwVtZvdaE
+video_id: qOrwVtZvdaE
+description: 'From episode: (https://youtu.be/bCel0X2Ta7U) How to fire people with
+  grace, work through fear, and nurture innovation | Matt Mochary (CEO coach)
+
   —
+
   Matt Mochary, CEO of Mochary Method, is...
+
+  '
 duration_seconds: 420.0
-duration: "7:00"
+duration: '7:00'
 view_count: 2138
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- hiring
+- leadership
+- management
+- market
+- persona
+- design
+- ux
+- ui
+- prototype
+- engineering
+- startup
+- founder
+- investors
+- platform
 ---
 
 # Are your fears giving you terrible advice? | Matt Mochary

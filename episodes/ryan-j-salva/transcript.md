@@ -1,14 +1,34 @@
 ---
-guest: "Ryan J. Salva"
-title: "The role of AI in new product development | Ryan J. Salva (VP of Product at GitHub)"
-youtube_url: "https://www.youtube.com/watch?v=awcd3P1DnX4"
-video_id: "awcd3P1DnX4"
-description: |
-  Ryan J. Salva is the VP of Product at GitHub, where he led the incubation and launch of Copilot, which uses OpenAI to suggest code and entire functions in real time, right from your editor,...
+guest: Ryan J. Salva
+title: The role of AI in new product development | Ryan J. Salva (VP of Product at
+  GitHub)
+youtube_url: https://www.youtube.com/watch?v=awcd3P1DnX4
+video_id: awcd3P1DnX4
+description: 'Ryan J. Salva is the VP of Product at GitHub, where he led the incubation
+  and launch of Copilot, which uses OpenAI to suggest code and entire functions in
+  real time, right from your editor,...
+
+  '
 duration_seconds: 3900.0
-duration: "1:05:00"
+duration: '1:05:00'
 view_count: 3798
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- metrics
+- roadmap
+- iteration
+- experimentation
+- analytics
+- conversion
+- revenue
+- hiring
+- leadership
+- management
+- vision
+- market
+- persona
 ---
 
 # The role of AI in new product development | Ryan J. Salva (VP of Product at GitHub)

@@ -1,14 +1,33 @@
 ---
-guest: "Yamashata"
-title: "An inside look at how Figma builds product | Yuhki Yamashita (CPO of Figma)"
-youtube_url: "https://www.youtube.com/watch?v=NepFo4zXyK4"
-video_id: "NepFo4zXyK4"
-description: |
-  Yuhki Yamashita is Chief Product Officer at Figma. Prior to Figma, he was Head of Design of Uber’s New Mobility efforts, and before that a product manager at Google and Microsoft. Adding...
+guest: Yamashata
+title: An inside look at how Figma builds product | Yuhki Yamashita (CPO of Figma)
+youtube_url: https://www.youtube.com/watch?v=NepFo4zXyK4
+video_id: NepFo4zXyK4
+description: 'Yuhki Yamashita is Chief Product Officer at Figma. Prior to Figma, he
+  was Head of Design of Uber’s New Mobility efforts, and before that a product manager
+  at Google and Microsoft. Adding...
+
+  '
 duration_seconds: 4116.0
-duration: "1:08:36"
+duration: '1:08:36'
 view_count: 31856
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- onboarding
+- metrics
+- okrs
+- roadmap
+- experimentation
+- funnel
+- conversion
+- hiring
+- culture
+- leadership
+- management
+- strategy
 ---
 
 # An inside look at how Figma builds product | Yuhki Yamashita (CPO of Figma)

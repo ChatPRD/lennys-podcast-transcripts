@@ -1,14 +1,33 @@
 ---
-guest: "Christian Idiodi"
-title: "The essence of product management | Christian Idiodi (SVPG)"
-youtube_url: "https://www.youtube.com/watch?v=SXYc5RoU3Lg"
-video_id: "SXYc5RoU3Lg"
-description: |
-  Christian Idiodi is a partner at Silicon Valley Product Group. After a long product career and founding multiple companies, Christian now spends his time working closely with product leaders...
+guest: Christian Idiodi
+title: The essence of product management | Christian Idiodi (SVPG)
+youtube_url: https://www.youtube.com/watch?v=SXYc5RoU3Lg
+video_id: SXYc5RoU3Lg
+description: 'Christian Idiodi is a partner at Silicon Valley Product Group. After
+  a long product career and founding multiple companies, Christian now spends his
+  time working closely with product leaders...
+
+  '
 duration_seconds: 5594.0
-duration: "1:33:14"
+duration: '1:33:14'
 view_count: 24105
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- roadmap
+- prioritization
+- user research
+- iteration
+- funnel
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
 ---
 
 # The essence of product management | Christian Idiodi (SVPG)

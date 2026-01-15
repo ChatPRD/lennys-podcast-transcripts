@@ -1,14 +1,33 @@
 ---
-guest: "Judd Antin"
-title: "The UX Research reckoning is here | Judd Antin (Airbnb, Meta)"
-youtube_url: "https://www.youtube.com/watch?v=L6RKi9ZvkT4"
-video_id: "L6RKi9ZvkT4"
-description: |
-  Judd Antin has spent 15 years leading research and design teams at companies like Yahoo, Meta, and Airbnb. His direct reports have gone on to lead user research at Figma, Notion, Slack, Robinhood,...
+guest: Judd Antin
+title: The UX Research reckoning is here | Judd Antin (Airbnb, Meta)
+youtube_url: https://www.youtube.com/watch?v=L6RKi9ZvkT4
+video_id: L6RKi9ZvkT4
+description: 'Judd Antin has spent 15 years leading research and design teams at companies
+  like Yahoo, Meta, and Airbnb. His direct reports have gone on to lead user research
+  at Figma, Notion, Slack, Robinhood,...
+
+  '
 duration_seconds: 4475.0
-duration: "1:14:35"
+duration: '1:14:35'
 view_count: 48444
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- onboarding
+- metrics
+- okrs
+- roadmap
+- prioritization
+- user research
+- mvp
+- iteration
+- data-driven
+- funnel
+- conversion
+- hiring
+- leadership
+- management
 ---
 
 # The UX Research reckoning is here | Judd Antin (Airbnb, Meta)

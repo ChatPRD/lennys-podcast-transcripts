@@ -1,14 +1,34 @@
 ---
-guest: "Adam Fishman"
-title: "How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)"
-youtube_url: "https://www.youtube.com/watch?v=wP8YyWH524A"
-video_id: "wP8YyWH524A"
-description: |
-  Adam Fishman has decades of experience building and scaling some incredible businesses, like Lyft, Patreon, and Imperfect Foods. He is currently an Executive in Residence at Reforge and an...
+guest: Adam Fishman
+title: How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect
+  Foods)
+youtube_url: https://www.youtube.com/watch?v=wP8YyWH524A
+video_id: wP8YyWH524A
+description: 'Adam Fishman has decades of experience building and scaling some incredible
+  businesses, like Lyft, Patreon, and Imperfect Foods. He is currently an Executive
+  in Residence at Reforge and an...
+
+  '
 duration_seconds: 3946.0
-duration: "1:05:46"
+duration: '1:05:46'
 view_count: 5411
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- product-market fit
+- pmf
+- growth
+- retention
+- activation
+- onboarding
+- churn
+- metrics
+- roadmap
+- prioritization
+- user research
+- experimentation
+- conversion
+- pricing
+- subscription
 ---
 
 # How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)

@@ -1,14 +1,33 @@
 ---
-guest: "Sachin Monga"
-title: "Building Substack | Sachin Monga (Substack, Facebook)"
-youtube_url: "https://www.youtube.com/watch?v=zKP2HrMc23s"
-video_id: "zKP2HrMc23s"
-description: |
-  Sachin Monga is the Head of Product at Substack, a platform that I personally use every day, and love. Before Substack, Sachin co-founded an app called Cocoon, which he ended up selling to...
+guest: Sachin Monga
+title: Building Substack | Sachin Monga (Substack, Facebook)
+youtube_url: https://www.youtube.com/watch?v=zKP2HrMc23s
+video_id: zKP2HrMc23s
+description: 'Sachin Monga is the Head of Product at Substack, a platform that I personally
+  use every day, and love. Before Substack, Sachin co-founded an app called Cocoon,
+  which he ended up selling to...
+
+  '
 duration_seconds: 3660.0
-duration: "1:01:00"
+duration: '1:01:00'
 view_count: 5414
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- onboarding
+- metrics
+- prioritization
+- analytics
+- funnel
+- conversion
+- subscription
+- hiring
+- culture
+- management
+- strategy
+- vision
 ---
 
 # Building Substack | Sachin Monga (Substack, Facebook)

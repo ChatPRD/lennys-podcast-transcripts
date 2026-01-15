@@ -1,14 +1,33 @@
 ---
-guest: "Sander Schulhoff"
-title: "AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff"
-youtube_url: "https://www.youtube.com/watch?v=eKuFqQKYRrA"
-video_id: "eKuFqQKYRrA"
-description: |
-  Sander Schulhoff is the OG prompt engineer. He created the very first prompt engineering guide on the internet (two months before ChatGPT’s release) and recently wrote the most comprehensive...
+guest: Sander Schulhoff
+title: 'AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff'
+youtube_url: https://www.youtube.com/watch?v=eKuFqQKYRrA
+video_id: eKuFqQKYRrA
+description: 'Sander Schulhoff is the OG prompt engineer. He created the very first
+  prompt engineering guide on the internet (two months before ChatGPT’s release) and
+  recently wrote the most comprehensive...
+
+  '
 duration_seconds: 5867.0
-duration: "1:37:47"
+duration: '1:37:47'
 view_count: 78637
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- a/b testing
+- experimentation
+- monetization
+- subscription
+- revenue
+- culture
+- management
+- mission
+- competition
+- market
+- persona
+- ui
+- engineering
+- architecture
 ---
 
 # AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff

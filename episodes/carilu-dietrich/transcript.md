@@ -1,14 +1,33 @@
 ---
-guest: "Carilu Dietrich"
-title: "How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)"
-youtube_url: "https://www.youtube.com/watch?v=Pm7QSWDIEUc"
-video_id: "Pm7QSWDIEUc"
-description: |
-  Carilu Dietrich is a former CMO, most notably the Head of Marketing who took Atlassian public. These days she’s an advisor to CEOs and CMOs of hypergrowth B2B companies and has worked with...
+guest: Carilu Dietrich
+title: How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)
+youtube_url: https://www.youtube.com/watch?v=Pm7QSWDIEUc
+video_id: Pm7QSWDIEUc
+description: 'Carilu Dietrich is a former CMO, most notably the Head of Marketing
+  who took Atlassian public. These days she’s an advisor to CEOs and CMOs of hypergrowth
+  B2B companies and has worked with...
+
+  '
 duration_seconds: 4040.0
-duration: "1:07:20"
+duration: '1:07:20'
 view_count: 7644
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- metrics
+- okrs
+- roadmap
+- analytics
+- conversion
+- revenue
+- hiring
+- leadership
+- strategy
+- market
+- persona
+- design
+- ui
 ---
 
 # How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)

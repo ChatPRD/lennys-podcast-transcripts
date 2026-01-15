@@ -1,17 +1,35 @@
 ---
-guest: "Ivan Zhao"
-title: "Building minimum lovable products, stories from WeWork & Airbnb, and thriving as a PM | Jiaona Zhang"
-youtube_url: "https://www.youtube.com/watch?v=gLFZNzeylCc"
-video_id: "gLFZNzeylCc"
-description: |
-  Jiaona Zhang (JZ) is a product leader with a strong background in consumer products and extensive hiring and management experience. She is currently SVP of Product at Webflow as well as a lecturer...
-duration_seconds: 4052.0
-duration: "1:07:32"
-view_count: 19099
-channel: "Lenny's Podcast"
+guest: Ivan Zhao
+title: Notion's lost years, near collapse during COVID, staying small to move fast,
+  building horizontal
+youtube_url: https://www.youtube.com/watch?v=IIPKMixTMfE
+video_id: IIPKMixTMfE
+description: Ivan Zhao is the co-founder and CEO of Notion. Ivan shares the untold
+  story of Notion, from nearly running out of database space during Covid to finding
+  product-market fit.
+duration_seconds: 4338.0
+duration: '1:12:18'
+view_count: 49484
+channel: Lenny's Podcast
+keywords:
+- growth
+- roadmap
+- experimentation
+- funnel
+- monetization
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
+- positioning
+- competition
 ---
 
-# Building minimum lovable products, stories from WeWork & Airbnb, and thriving as a PM | Jiaona Zhang
+# Notion's lost years, near collapse during COVID, staying small to move fast, building horizontal
 
 ## Transcript
 

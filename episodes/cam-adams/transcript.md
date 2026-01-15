@@ -1,14 +1,34 @@
 ---
-guest: "Cam Adams"
-title: "Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams"
-youtube_url: "https://www.youtube.com/watch?v=wgrJNHlYUA8"
-video_id: "wgrJNHlYUA8"
-description: |
-  Cameron Adams is the co-founder and chief product officer of Canva. Canva is one of the world’s most valuable private software companies, used by 95% of Fortune 500 companies. Since its...
+guest: Cam Adams
+title: 'Inside Canva: Coaches not managers, giving away your Legos, and embracing
+  AI | Cameron Adams'
+youtube_url: https://www.youtube.com/watch?v=wgrJNHlYUA8
+video_id: wgrJNHlYUA8
+description: 'Cameron Adams is the co-founder and chief product officer of Canva.
+  Canva is one of the world’s most valuable private software companies, used by 95%
+  of Fortune 500 companies. Since its...
+
+  '
 duration_seconds: 3789.0
-duration: "1:03:09"
+duration: '1:03:09'
 view_count: 25631
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- onboarding
+- roadmap
+- user research
+- mvp
+- funnel
+- monetization
+- freemium
+- subscription
+- revenue
+- hiring
+- culture
+- management
+- strategy
 ---
 
 # Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams

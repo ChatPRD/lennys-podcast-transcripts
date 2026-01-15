@@ -1,14 +1,34 @@
 ---
-guest: "Noam Lovinsky"
-title: "The happiness and pain of product management | Noam Lovinsky (Grammarly, FB, Thumbtack, YT)"
-youtube_url: "https://www.youtube.com/watch?v=a_W5Rn0bJWE"
-video_id: "a_W5Rn0bJWE"
-description: |
-  Noam Lovinsky has had a distinguished career in product, leaving an indelible mark at Facebook, YouTube, Thumbtack, and currently as the chief product officer at Grammarly. At Facebook, Noam...
+guest: Noam Lovinsky
+title: The happiness and pain of product management | Noam Lovinsky (Grammarly, FB,
+  Thumbtack, YT)
+youtube_url: https://www.youtube.com/watch?v=a_W5Rn0bJWE
+video_id: a_W5Rn0bJWE
+description: 'Noam Lovinsky has had a distinguished career in product, leaving an
+  indelible mark at Facebook, YouTube, Thumbtack, and currently as the chief product
+  officer at Grammarly. At Facebook, Noam...
+
+  '
 duration_seconds: 4175.0
-duration: "1:09:35"
+duration: '1:09:35'
 view_count: 14093
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- onboarding
+- roadmap
+- prioritization
+- experimentation
+- monetization
+- subscription
+- revenue
+- culture
+- leadership
+- management
+- strategy
+- market
+- persona
 ---
 
 # The happiness and pain of product management | Noam Lovinsky (Grammarly, FB, Thumbtack, YT)

@@ -1,14 +1,34 @@
 ---
-guest: "Tanguy Crusson"
-title: "Hard-won lessons building 0 to 1 inside Atlassian | Tanguy Crusson (Head of Jira Product Discovery)"
-youtube_url: "https://www.youtube.com/watch?v=cZqpqb5qR5A"
-video_id: "cZqpqb5qR5A"
-description: |
-  Tanguy Crusson is the product lead for Jira Product Discovery at Atlassian. In his more than 10 years at the company, he has been instrumental in taking several new products from zero to one,...
+guest: Tanguy Crusson
+title: Hard-won lessons building 0 to 1 inside Atlassian | Tanguy Crusson (Head of
+  Jira Product Discovery)
+youtube_url: https://www.youtube.com/watch?v=cZqpqb5qR5A
+video_id: cZqpqb5qR5A
+description: 'Tanguy Crusson is the product lead for Jira Product Discovery at Atlassian.
+  In his more than 10 years at the company, he has been instrumental in taking several
+  new products from zero to one,...
+
+  '
 duration_seconds: 6843.0
-duration: "1:54:03"
+duration: '1:54:03'
 view_count: 18833
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- onboarding
+- churn
+- metrics
+- okrs
+- roadmap
+- prioritization
+- user research
+- funnel
+- revenue
+- hiring
+- culture
+- leadership
 ---
 
 # Hard-won lessons building 0 to 1 inside Atlassian | Tanguy Crusson (Head of Jira Product Discovery)

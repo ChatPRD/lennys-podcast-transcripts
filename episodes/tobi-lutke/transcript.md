@@ -1,17 +1,32 @@
 ---
-guest: "Tobi Lutke"
-title: "How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)"
-youtube_url: "https://www.youtube.com/watch?v=GT0jtVjRy2E"
-video_id: "GT0jtVjRy2E"
-description: |
-  Howie Liu is the co-founder and CEO of Airtable, the no-code platform valued at around $12 billion. After a viral tweet declared “Airtable is dead” based on incorrect data, Howie led a...
-duration_seconds: 6042.0
-duration: "1:40:42"
-view_count: 28715
-channel: "Lenny's Podcast"
+guest: Tobi Lutke
+title: "Tobi Lütke's leadership playbook: First principles, infinite games, and maximizing human potential"
+youtube_url: https://www.youtube.com/watch?v=tq6vdDJQXvs
+video_id: tq6vdDJQXvs
+description: "Tobi Lütke is the founder and CEO of Shopify, a $130 billion business that powers over 10% of all U.S. e-commerce. Starting as a snowboard shop in 2004, Shopify has become the leading commerce..."
+duration_seconds: 6103.0
+duration: '1:41:43'
+view_count: 94661
+channel: Lenny's Podcast
+keywords:
+- growth
+- churn
+- metrics
+- okrs
+- kpis
+- roadmap
+- a/b testing
+- data-driven
+- conversion
+- pricing
+- monetization
+- subscription
+- hiring
+- culture
+- leadership
 ---
 
-# How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)
+# Tobi Lütke's leadership playbook: First principles, infinite games, and maximizing human potential
 
 ## Transcript
 

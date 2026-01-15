@@ -1,14 +1,33 @@
 ---
-guest: "Anuj Rathi"
-title: "The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)"
-youtube_url: "https://www.youtube.com/watch?v=1sClhfuCxP0"
-video_id: "1sClhfuCxP0"
-description: |
-  Anuj Rathi is the Chief Product and Marketing Officer at Jupiter Money, where he leads product management, marketing, design, growth, and analytics. Before Jupiter Money, Anuj served as the...
+guest: Anuj Rathi
+title: The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)
+youtube_url: https://www.youtube.com/watch?v=1sClhfuCxP0
+video_id: 1sClhfuCxP0
+description: 'Anuj Rathi is the Chief Product and Marketing Officer at Jupiter Money,
+  where he leads product management, marketing, design, growth, and analytics. Before
+  Jupiter Money, Anuj served as the...
+
+  '
 duration_seconds: 4349.0
-duration: "1:12:29"
+duration: '1:12:29'
 view_count: 25289
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- activation
+- onboarding
+- okrs
+- roadmap
+- prioritization
+- mvp
+- iteration
+- analytics
+- funnel
+- pricing
+- revenue
+- culture
+- leadership
 ---
 
 # The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)

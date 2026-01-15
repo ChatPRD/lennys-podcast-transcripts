@@ -1,14 +1,34 @@
 ---
-guest: "Tim Holley"
-title: "Inside Etsy’s product, growth, and marketplace evolution | Tim Holley (VP of Product)"
-youtube_url: "https://www.youtube.com/watch?v=n4hRs2FsRug"
-video_id: "n4hRs2FsRug"
-description: |
-  Tim Holley is VP of Product at Etsy where he leads the Etsy buyer experience. With a tenure spanning more than a decade, Tim has seen the company through many transitions (both in culture,...
+guest: Tim Holley
+title: Inside Etsy’s product, growth, and marketplace evolution | Tim Holley (VP of
+  Product)
+youtube_url: https://www.youtube.com/watch?v=n4hRs2FsRug
+video_id: n4hRs2FsRug
+description: 'Tim Holley is VP of Product at Etsy where he leads the Etsy buyer experience.
+  With a tenure spanning more than a decade, Tim has seen the company through many
+  transitions (both in culture,...
+
+  '
 duration_seconds: 4317.0
-duration: "1:11:57"
+duration: '1:11:57'
 view_count: 6820
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- metrics
+- roadmap
+- prioritization
+- a/b testing
+- experimentation
+- data-driven
+- analytics
+- funnel
+- conversion
+- subscription
+- revenue
 ---
 
 # Inside Etsy’s product, growth, and marketplace evolution | Tim Holley (VP of Product)

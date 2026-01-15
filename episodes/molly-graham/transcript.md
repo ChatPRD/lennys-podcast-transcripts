@@ -1,14 +1,34 @@
 ---
-guest: "Molly Graham"
-title: "“I like being scared”: Molly Graham’s frameworks for rapid career growth | Molly Graham"
-youtube_url: "https://www.youtube.com/watch?v=twzLDx9iers"
-video_id: "twzLDx9iers"
-description: |
-  Molly Graham has worked for some of tech’s most effective leaders, including Mark Zuckerberg, Sheryl Sandberg, Chamath Palihapitiya, and Bret Taylor. Today she leads Glue Club, a community...
+guest: Molly Graham
+title: '“I like being scared”: Molly Graham’s frameworks for rapid career growth |
+  Molly Graham'
+youtube_url: https://www.youtube.com/watch?v=twzLDx9iers
+video_id: twzLDx9iers
+description: 'Molly Graham has worked for some of tech’s most effective leaders, including
+  Mark Zuckerberg, Sheryl Sandberg, Chamath Palihapitiya, and Bret Taylor. Today she
+  leads Glue Club, a community...
+
+  '
 duration_seconds: 5517.0
-duration: "1:31:57"
+duration: '1:31:57'
 view_count: 20808
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- onboarding
+- okrs
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- market
+- persona
+- design
+- ui
+- engineering
 ---
 
 # “I like being scared”: Molly Graham’s frameworks for rapid career growth | Molly Graham

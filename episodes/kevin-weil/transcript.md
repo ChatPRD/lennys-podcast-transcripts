@@ -1,14 +1,34 @@
 ---
-guest: "Kevin Weil"
-title: "OpenAI’s CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil"
-youtube_url: "https://www.youtube.com/watch?v=scsW6_2SPC4"
-video_id: "scsW6_2SPC4"
-description: |
-  Kevin Weil is the chief product officer at OpenAI, where he oversees the development of ChatGPT, enterprise products, and the OpenAI API. Prior to OpenAI, Kevin was head of product at Twitter,...
+guest: Kevin Weil
+title: OpenAI’s CPO on how AI changes must-have skills, moats, coding, startup playbooks,
+  more | Kevin Weil
+youtube_url: https://www.youtube.com/watch?v=scsW6_2SPC4
+video_id: scsW6_2SPC4
+description: 'Kevin Weil is the chief product officer at OpenAI, where he oversees
+  the development of ChatGPT, enterprise products, and the OpenAI API. Prior to OpenAI,
+  Kevin was head of product at Twitter,...
+
+  '
 duration_seconds: 5501.0
-duration: "1:31:41"
+duration: '1:31:41'
 view_count: 202940
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- onboarding
+- roadmap
+- iteration
+- a/b testing
+- experimentation
+- conversion
+- monetization
+- hiring
+- management
+- strategy
+- vision
+- competition
+- market
+- persona
 ---
 
 # OpenAI’s CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil

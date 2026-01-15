@@ -1,14 +1,34 @@
 ---
-guest: "Brian Tolkin"
-title: "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)"
-youtube_url: "https://www.youtube.com/watch?v=sRukk520Fds"
-video_id: "sRukk520Fds"
-description: |
-  Brian Tolkin is the Head of Product at Opendoor. Previously, he was one of the early employees at Uber, where he was instrumental in launching and growing UberPool, UberHop, and UberExpress...
+guest: Brian Tolkin
+title: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor,
+  ex-Uber)
+youtube_url: https://www.youtube.com/watch?v=sRukk520Fds
+video_id: sRukk520Fds
+description: 'Brian Tolkin is the Head of Product at Opendoor. Previously, he was
+  one of the early employees at Uber, where he was instrumental in launching and growing
+  UberPool, UberHop, and UberExpress...
+
+  '
 duration_seconds: 4480.0
-duration: "1:14:40"
+duration: '1:14:40'
 view_count: 11209
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- onboarding
+- metrics
+- roadmap
+- iteration
+- a/b testing
+- experimentation
+- data-driven
+- analytics
+- funnel
+- pricing
+- team building
+- culture
+- strategy
 ---
 
 # Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)

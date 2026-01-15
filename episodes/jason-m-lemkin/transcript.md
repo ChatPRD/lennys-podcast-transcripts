@@ -1,14 +1,34 @@
 ---
-guest: "Jason M Lemkin"
-title: "We replaced our sales team with 20 AI agents—here’s what happened next | Jason Lemkin (SaaStr)"
-youtube_url: "https://www.youtube.com/watch?v=I-R1bc1rlFs"
-video_id: "I-R1bc1rlFs"
-description: |
-  Jason Lemkin is the founder of SaaStr, the world’s largest community for software founders, and a veteran SaaS investor who has deployed over $200 million into B2B startups. After his last...
+guest: Jason M Lemkin
+title: We replaced our sales team with 20 AI agents—here’s what happened next | Jason
+  Lemkin (SaaStr)
+youtube_url: https://www.youtube.com/watch?v=I-R1bc1rlFs
+video_id: I-R1bc1rlFs
+description: 'Jason Lemkin is the founder of SaaStr, the world’s largest community
+  for software founders, and a veteran SaaS investor who has deployed over $200 million
+  into B2B startups. After his last...
+
+  '
 duration_seconds: 6131.0
-duration: "1:42:11"
+duration: '1:42:11'
 view_count: 47503
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- onboarding
+- churn
+- metrics
+- okrs
+- kpis
+- roadmap
+- data-driven
+- analytics
+- conversion
+- freemium
+- revenue
+- hiring
+- culture
 ---
 
 # We replaced our sales team with 20 AI agents—here’s what happened next | Jason Lemkin (SaaStr)

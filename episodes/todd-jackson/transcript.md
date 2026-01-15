@@ -1,14 +1,33 @@
 ---
-guest: "Todd Jackson"
-title: "A framework for finding product-market fit | Todd Jackson (First Round Capital)"
-youtube_url: "https://www.youtube.com/watch?v=yc1Uwhfxacs"
-video_id: "yc1Uwhfxacs"
-description: |
-  Todd Jackson is a Partner at First Round Capital. Before moving into venture capital, he played a crucial role as VP of Product and Design at Dropbox, guiding the company until its IPO in 2018....
+guest: Todd Jackson
+title: A framework for finding product-market fit | Todd Jackson (First Round Capital)
+youtube_url: https://www.youtube.com/watch?v=yc1Uwhfxacs
+video_id: yc1Uwhfxacs
+description: 'Todd Jackson is a Partner at First Round Capital. Before moving into
+  venture capital, he played a crucial role as VP of Product and Design at Dropbox,
+  guiding the company until its IPO in 2018....
+
+  '
 duration_seconds: 5233.0
-duration: "1:27:13"
+duration: '1:27:13'
 view_count: 78505
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- product-market fit
+- pmf
+- growth
+- retention
+- churn
+- metrics
+- okrs
+- customer discovery
+- iteration
+- a/b testing
+- experimentation
+- funnel
+- conversion
+- pricing
+- monetization
 ---
 
 # A framework for finding product-market fit | Todd Jackson (First Round Capital)

@@ -1,14 +1,33 @@
 ---
-guest: "Jonny Miller"
-title: "Managing nerves, anxiety, and burnout | Jonny Miller (Nervous Systems Mastery)"
-youtube_url: "https://www.youtube.com/watch?v=-kN8Agqee4w"
-video_id: "-kN8Agqee4w"
-description: |
-  Jonny Miller is the founder of ⁠Nervous System Mastery⁠, a course that has helped hundreds of founders and tech leaders cultivate calm, reduce nervousness, enhance resilience, and elevate...
+guest: Jonny Miller
+title: Managing nerves, anxiety, and burnout | Jonny Miller (Nervous Systems Mastery)
+youtube_url: https://www.youtube.com/watch?v=-kN8Agqee4w
+video_id: -kN8Agqee4w
+description: 'Jonny Miller is the founder of ⁠Nervous System Mastery⁠, a course that
+  has helped hundreds of founders and tech leaders cultivate calm, reduce nervousness,
+  enhance resilience, and elevate...
+
+  '
 duration_seconds: 4455.0
-duration: "1:14:15"
+duration: '1:14:15'
 view_count: 12804
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- leadership
+- vision
+- mission
+- market
+- persona
+- ui
+- engineering
+- technical debt
+- startup
+- founder
+- platform
+- ai
+- career
+- feedback
 ---
 
 # Managing nerves, anxiety, and burnout | Jonny Miller (Nervous Systems Mastery)

@@ -1,14 +1,34 @@
 ---
-guest: "Jeffrey Pfeffer"
-title: "The paths to power: How to grow your influence and advance your career | Jeffrey Pfeffer (Stanford)"
-youtube_url: "https://www.youtube.com/watch?v=etVCBDRXUH8"
-video_id: "etVCBDRXUH8"
-description: |
-  Jeffrey Pfeffer teaches the single most popular (and somewhat controversial) class at Stanford’s Graduate School of Business: The Paths to Power. He’s also the author of 16 books, including...
+guest: Jeffrey Pfeffer
+title: 'The paths to power: How to grow your influence and advance your career | Jeffrey
+  Pfeffer (Stanford)'
+youtube_url: https://www.youtube.com/watch?v=etVCBDRXUH8
+video_id: etVCBDRXUH8
+description: 'Jeffrey Pfeffer teaches the single most popular (and somewhat controversial)
+  class at Stanford’s Graduate School of Business: The Paths to Power. He’s also the
+  author of 16 books, including...
+
+  '
 duration_seconds: 4951.0
-duration: "1:22:31"
+duration: '1:22:31'
 view_count: 161034
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- analytics
+- conversion
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- mission
+- market
+- persona
+- design
+- ui
+- prototype
 ---
 
 # The paths to power: How to grow your influence and advance your career | Jeffrey Pfeffer (Stanford)

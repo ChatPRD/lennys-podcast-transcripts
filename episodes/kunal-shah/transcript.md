@@ -1,14 +1,31 @@
 ---
-guest: "Kunal Shah"
-title: "The future of AI in software development | Inbal Shani (CPO of GitHub)"
-youtube_url: "https://www.youtube.com/watch?v=f10s3rxKaJw"
-video_id: "f10s3rxKaJw"
-description: |
-  Inbal Shani is the chief product officer at GitHub, where she leads core product management, along with product strategy, marketing, open source, and communities, including the development...
-duration_seconds: 3004.0
-duration: "50:04"
-view_count: 9980
-channel: "Lenny's Podcast"
+guest: Kunal Shah
+title: Building a meaningful career | Jason Shah (Airbnb, Amazon, Microsoft, Alchemy)
+youtube_url: https://www.youtube.com/watch?v=nMsA5VeLoOM
+video_id: nMsA5VeLoOM
+description: Jason Shah has led product teams at Amazon, Airbnb, Microsoft, and Yammer
+  and currently leads the product team at Alchemy (one of the most important web3
+  infrastructure companies). In addition,...
+duration_seconds: 4214.0
+duration: '1:10:14'
+view_count: 5855
+channel: Lenny's Podcast
+keywords:
+- growth
+- conversion
+- pricing
+- monetization
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- positioning
+- market
+- persona
+- design
 ---
 
 # The future of AI in software development | Inbal Shani (CPO of GitHub)

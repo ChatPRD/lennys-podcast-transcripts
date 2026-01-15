@@ -1,14 +1,33 @@
 ---
-guest: "Brian Chesky"
-title: "Brian Chesky’s new playbook"
-youtube_url: "https://www.youtube.com/watch?v=4ef0juAMqoE"
-video_id: "4ef0juAMqoE"
-description: |
-  Brian Chesky is the co-founder and CEO of Airbnb. Under Brian’s leadership, Airbnb has grown into a community of over 4 million hosts who have welcomed more than 1.5 billion guests across...
+guest: Brian Chesky
+title: Brian Chesky’s new playbook
+youtube_url: https://www.youtube.com/watch?v=4ef0juAMqoE
+video_id: 4ef0juAMqoE
+description: 'Brian Chesky is the co-founder and CEO of Airbnb. Under Brian’s leadership,
+  Airbnb has grown into a community of over 4 million hosts who have welcomed more
+  than 1.5 billion guests across...
+
+  '
 duration_seconds: 4408.0
-duration: "1:13:28"
+duration: '1:13:28'
 view_count: 381905
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- metrics
+- roadmap
+- prioritization
+- experimentation
+- analytics
+- conversion
+- monetization
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
+- competition
 ---
 
 # Brian Chesky’s new playbook

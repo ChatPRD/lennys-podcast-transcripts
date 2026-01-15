@@ -1,14 +1,34 @@
 ---
-guest: "Julian Shapiro"
-title: "From managing people to managing AI: The leadership skills everyone needs now | Julie Zhuo"
-youtube_url: "https://www.youtube.com/watch?v=c_w0LaFahxk"
-video_id: "c_w0LaFahxk"
-description: |
-  Julie Zhuo is the former VP and Head of Design at Facebook (now Meta), author of the bestselling book The Making of a Manager, and co-founder of Sundial, an AI-powered data analysis company....
+guest: Julian Shapiro
+title: 'From managing people to managing AI: The leadership skills everyone needs
+  now | Julie Zhuo'
+youtube_url: https://www.youtube.com/watch?v=c_w0LaFahxk
+video_id: c_w0LaFahxk
+description: 'Julie Zhuo is the former VP and Head of Design at Facebook (now Meta),
+  author of the bestselling book The Making of a Manager, and co-founder of Sundial,
+  an AI-powered data analysis company....
+
+  '
 duration_seconds: 5784.0
-duration: "1:36:24"
+duration: '1:36:24'
 view_count: 49142
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- onboarding
+- metrics
+- roadmap
+- a/b testing
+- experimentation
+- analytics
+- funnel
+- conversion
+- subscription
+- revenue
+- leadership
 ---
 
 # From managing people to managing AI: The leadership skills everyone needs now | Julie Zhuo

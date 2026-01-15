@@ -1,14 +1,34 @@
 ---
-guest: "Ethan Smith"
-title: "The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)"
-youtube_url: "https://www.youtube.com/watch?v=iT7kq-R3Gjc"
-video_id: "iT7kq-R3Gjc"
-description: |
-  Ethan Smith is the CEO of Graphite—the leading SEO growth agency—and my go-to expert on SEO. After 18 years of mastering traditional SEO, Ethan has been at the forefront of what is called...
+guest: Ethan Smith
+title: 'The ultimate guide to AEO: How to get ChatGPT to recommend your product |
+  Ethan Smith (Graphite)'
+youtube_url: https://www.youtube.com/watch?v=iT7kq-R3Gjc
+video_id: iT7kq-R3Gjc
+description: 'Ethan Smith is the CEO of Graphite—the leading SEO growth agency—and
+  my go-to expert on SEO. After 18 years of mastering traditional SEO, Ethan has been
+  at the forefront of what is called...
+
+  '
 duration_seconds: 4316.0
-duration: "1:11:56"
+duration: '1:11:56'
 view_count: 98036
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- roadmap
+- conversion
+- hiring
+- management
+- strategy
+- market
+- persona
+- design
+- ux
+- ui
+- prototype
+- startup
+- founder
+- b2b
 ---
 
 # The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)
