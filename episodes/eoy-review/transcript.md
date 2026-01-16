@@ -1,35 +1,28 @@
 ---
-guest: EOY Review
-title: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
-youtube_url: https://www.youtube.com/watch?v=-PDsvl2WCZU
-video_id: -PDsvl2WCZU
-publish_date: 2022-09-15
-description: Adam Grenier is the former Head of Growth Marketing and Innovation at
-  Uber, where he helped build Uber’s growth infrastructure from the ground up. He
-  is also the former VP of Product and...
-duration_seconds: 4191.0
-duration: '1:09:51'
-view_count: 2975
+guest: Various (Year-End Review)
+title: Countdown of the top 10 episodes of the year
+youtube_url: https://www.youtube.com/watch?v=f4cskASqAsg
+video_id: f4cskASqAsg
+publish_date: 2022-12-29
+description: 'Lenny counts down the top 10 most downloaded episodes of 2022, featuring
+  clips from April Dunford, Crystal Widjaja, Julie Zhuo, Shishir Mehrotra, Kristen
+  Berman, Elena Verna, and more. A compilation of the best insights from the year.'
+duration_seconds: 3660.0
+duration: '1:01:00'
+view_count: 9357
 channel: Lenny's Podcast
 keywords:
+- best-of
+- year-end
+- compilation
+- top-episodes
+- product-management
 - growth
-- retention
-- acquisition
-- activation
-- kpis
-- analytics
-- pricing
-- monetization
-- freemium
-- revenue
-- management
-- strategy
-- positioning
-- competition
-- market
+- leadership
+- career
 ---
 
-# Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)
+# Countdown of the top 10 episodes of the year
 
 ## Transcript
 
