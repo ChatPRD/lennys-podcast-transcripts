@@ -113,6 +113,28 @@ This archive contains **269 transcripts** from Lenny's Podcast episodes.
 
 If you notice any issues with the transcripts or metadata, please open an issue or submit a pull request.
 
+## Projects Built with These Transcripts
+
+Here are some projects that have been built using this transcript archive:
+
+**[Learn from Lenny](https://x.com/learnfromlenny)** - An AI agent on X that provides credible product advice based on Lenny's podcasts. Tag it to get spot-on advice with no fluff.
+
+**[Lenny Skills Database](https://refoundai.com/lenny-skills/)** by Refound AI - A searchable database of 86 actionable skills extracted from 297 podcast episodes. Learn how the best product teams actually work.
+
+**[Lenny MCP](https://lenny-mcp.onrender.com/mcp)** - A Model Context Protocol server that provides access to Lenny's podcast content for AI applications.
+
+**[Recapio - Lenny's Podcast Summaries](https://recapio.com/channel/lennyspodcast)** - AI-generated summaries, transcripts, key insights, and chat interface for Lenny's Podcast episodes.
+
+**[Lenny's Frameworks](https://lennys-frameworks.vercel.app/)** - A collection of frameworks and mental models extracted from Lenny's Podcast episodes.
+
+**[Lenny Listens](https://lenny-listens.vercel.app/)** - An interactive tool for exploring and searching Lenny's Podcast content.
+
+**[Lenny's Advice Arena](https://lennysadvicearena.lovable.app/)** - An interactive experience for exploring product advice from Lenny's Podcast.
+
+**[Lenny Gallery](https://lennygallery.manus.space/)** by Alan Chan - An infographic gallery with visual summaries of key episodes, built with Manus AI.
+
+Have you built something with these transcripts? Open a PR to add your project to this list!
+
 ## Disclaimer
 
 This archive is for educational and research purposes. All content belongs to Lenny's Podcast and the respective guests. Please visit the official YouTube channel to support the creators.
