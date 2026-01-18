@@ -135,6 +135,8 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny Gallery](https://lennygallery.manus.space/)** by Alan Chan - An infographic gallery with visual summaries of key episodes, built with Manus AI.
 
+**[LennySan RAG-o-Matic](https://github.com/deanpeters/lennysan-rag-o-matic)** by Dean Peters - A low-barrier, learn-by-building PM pm research tool for exploring Lenny Rachitsky's 320+ podcast episodes using AI and RAG from the CLI, with future support for Jupyter notebooks, time-series exploration, and more.
+
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
 ## Disclaimer
