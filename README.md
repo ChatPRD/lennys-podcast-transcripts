@@ -135,6 +135,8 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny Gallery](https://lennygallery.manus.space/)** by Alan Chan - An infographic gallery with visual summaries of key episodes, built with Manus AI.
 
+**[Time Capsule](https://sameerbajaj.com/tools/timecapsule)** by [@sameerbajaj](https://x.com/sameerbajaj) - Describe your situation and get a personalized letter with advice from product leaders who were in your exact moment.
+
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
 ## Disclaimer
