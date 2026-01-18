@@ -135,6 +135,8 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny Gallery](https://lennygallery.manus.space/)** by Alan Chan - An infographic gallery with visual summaries of key episodes, built with Manus AI.
 
+**[Lenny Ideation Constellation & Search](https://lennys-search.vercel.app/)** - A semantic search engine and idea explorer for Lenny's Podcast. Find exactly what the guests said, or visually discover how their ideas connect, cluster, and contradict across episodes.
+
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
 ## Disclaimer
