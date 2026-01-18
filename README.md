@@ -137,6 +137,14 @@ Here are some projects that have been built using this transcript archive:
 
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
+## Projects Built with These Transcripts
+
+Here are some projects that have been built using this transcript archive:
+
+**[The Product Management Transcripts](https://theproductmanagementtranscripts.netlify.app)** by [Corey O](https://x.com/coreyo) – Dig into 300+ episodes of Lenny's Podcast to find the unified principles that make product organizations elite.
+
+Have you built something with these transcripts? Open a PR to add your project to this list!
+
 ## Disclaimer
 
 This archive is for educational and research purposes. All content belongs to Lenny's Podcast and the respective guests. Please visit the official YouTube channel to support the creators.
