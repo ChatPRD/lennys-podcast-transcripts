@@ -135,6 +135,8 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny Gallery](https://lennygallery.manus.space/)** by Alan Chan - An infographic gallery with visual summaries of key episodes, built with Manus AI.
 
+**[Ask Lenny](https://ask-lenny.vercel.app/)** by Prayerson Christian - AI research assistant that answers questions using real quotes from Lenny’s podcast.
+
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
 ## Disclaimer
