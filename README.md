@@ -135,6 +135,8 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny Gallery](https://lennygallery.manus.space/)** by Alan Chan - An infographic gallery with visual summaries of key episodes, built with Manus AI.
 
+**[Lennyhub RAG](https://github.com/traversaal-ai/lennyhub-rag)** by Hamza Farooq - A production grade knowledge graph RAG, enabling multi-turn questions 
+
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
 ## Disclaimer
