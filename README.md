@@ -135,6 +135,8 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny Gallery](https://lennygallery.manus.space/)** by Alan Chan - An infographic gallery with visual summaries of key episodes, built with Manus AI.
 
+**[Lenny's Library in Radia.io](https://getradia.io/resources/lennys-library)** by Kas Eelman - Leveraging transcripts to provide additional insight in to the product competency assessment for Radia users with citations, meta-data and the original episodes.
+
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
 ## Disclaimer
