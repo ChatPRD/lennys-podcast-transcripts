@@ -135,6 +135,8 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny Gallery](https://lennygallery.manus.space/)** by Alan Chan - An infographic gallery with visual summaries of key episodes, built with Manus AI.
 
+**[Lenny for Claude](https://github.com/arjunlall/lenny-for-claude)** by [Arjun Lall](https://x.com/_arjun) - MCP server that surfaces podcast advice inside Claude Code and Claude Desktop. Includes /lenny slash command and optional plan mode hook.
+
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
 ## Disclaimer
