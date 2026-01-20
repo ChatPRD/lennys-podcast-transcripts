@@ -12,3 +12,4 @@ Episodes discussing **communication**:
 - [Tristan de Montebello](../episodes/tristan-de-montebello/transcript.md)
 - [Upasna Gautam](../episodes/upasna-gautam/transcript.md)
 - [Wes Kao](../episodes/wes-kao/transcript.md)
+- [Wes Kao 2.0](../episodes/wes-kao-20/transcript.md)

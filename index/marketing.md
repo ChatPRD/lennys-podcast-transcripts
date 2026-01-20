@@ -9,3 +9,6 @@ Episodes discussing **marketing**:
 - [Emily Kramer](../episodes/emily-kramer/transcript.md)
 - [Jason Feifer](../episodes/jason-feifer/transcript.md)
 - [Jonathan Becker](../episodes/jonathan-becker/transcript.md)
+- [Andy Raskin](../episodes/andy-raskin_/transcript.md)
+- [April Dunford 2.0](../episodes/april-dunford-20/transcript.md)
+- [Elena Verna 2.0](../episodes/elena-verna-20/transcript.md)

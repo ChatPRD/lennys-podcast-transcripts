@@ -35,3 +35,6 @@ Episodes discussing **growth strategy**:
 - [Sahil Mansuri](../episodes/sahil-mansuri/transcript.md)
 - [Sean Ellis](../episodes/sean-ellis/transcript.md)
 - [Shishir Mehrotra](../episodes/shishir-mehrotra/transcript.md)
+- [Elena Verna 3.0](../episodes/elena-verna-30/transcript.md)
+- [Jag Duggal](../episodes/jag-duggal/transcript.md)
+- [Jen Abel 2.0](../episodes/jen-abel-20/transcript.md)

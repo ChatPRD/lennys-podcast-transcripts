@@ -21,3 +21,6 @@ Episodes discussing **hiring**:
 - [Nabeel S. Qureshi](../episodes/nabeel-s-qureshi/transcript.md)
 - [Pete Kazanjy](../episodes/pete-kazanjy/transcript.md)
 - [Phyl Terry](../episodes/phyl-terry/transcript.md)
+- [Bob Moesta 2.0](../episodes/bob-moesta-20/transcript.md)
+- [Marty Cagan 2.0](../episodes/marty-cagan-20/transcript.md)
+- [Peter Deng](../episodes/peter-deng/transcript.md)
