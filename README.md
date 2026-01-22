@@ -163,6 +163,9 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny's Knowledge Graph](https://lennysgraph.vercel.app/)** by [Eze Actis Grosso](https://www.linkedin.com/in/fractionaltech/) - Explore concepts, frameworks, guests, and books across 330+ episodes. Find connections, ask questions, and get answers with the exact episode and timestamp—click straight to that moment on YouTube.
 
+**[Advanced Product Management Skills for AI Agents](https://github.com/wdavidturner/product-skills)** by [David Turner](https://davidbuildsproducts.com/) - A collection of AI agent skills inspired from the guests on Lenny's Podcast. This project generates reusable Agent Skills that capture product management wisdom, frameworks, and methodologies shared by industry experts. Also includes a lightweight testing harness to ensure that we observe skill building best practices like selective disclosure.
+
+
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
 ## Disclaimer
