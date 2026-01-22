@@ -163,6 +163,8 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny's Knowledge Graph](https://lennysgraph.vercel.app/)** by [Eze Actis Grosso](https://www.linkedin.com/in/fractionaltech/) - Explore concepts, frameworks, guests, and books across 330+ episodes. Find connections, ask questions, and get answers with the exact episode and timestamp—click straight to that moment on YouTube.
 
+**[KOHO's LennyAgent](https://www.linkedin.com/posts/katrinastevenson_ai-productmanagement-buildinpublic-activity-7419079926697324544-J690)** by [Katrina Stevenson](https://www.linkedin.com/in/katrinastevenson/) - KOHO's 24/7 business coach accessible in Slack or Glean that provides answers to questions and cites specific guests and episodes.
+
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
 ## Disclaimer
