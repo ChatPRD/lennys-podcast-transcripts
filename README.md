@@ -163,6 +163,8 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny's Knowledge Graph](https://lennysgraph.vercel.app/)** by [Eze Actis Grosso](https://www.linkedin.com/in/fractionaltech/) - Explore concepts, frameworks, guests, and books across 330+ episodes. Find connections, ask questions, and get answers with the exact episode and timestamp—click straight to that moment on YouTube.
 
+**[Lenny RAG MCP](https://github.com/mpnikhil/lenny-rag-mcp)** by [Nikhil Pujari](https://www.linkedin.com/in/nikhilpujari/) - Agentic RAG via MCP to naturally surface insights in Claude Code, Claude Desktop, and Cursor. Hierarchical extraction (Episodes → Topics → Insights → Examples) with implicit anchor detection. Clone, install, configure MCP, done.
+
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
 ## Disclaimer
