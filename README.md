@@ -163,6 +163,8 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny's Knowledge Graph](https://lennysgraph.vercel.app/)** by [Eze Actis Grosso](https://www.linkedin.com/in/fractionaltech/) - Explore concepts, frameworks, guests, and books across 330+ episodes. Find connections, ask questions, and get answers with the exact episode and timestamp—click straight to that moment on YouTube.
 
+**[PM Roast - from Lenny's Wisdom](https://pmroast.com/)** by [Justin Luk](https://www.linkedin.com/in/lukjustin/)[X: @whosjluk](https://x.com/whosjluk) - Upload your LinkedIn, website, or resume - get a personalized PM card roast with a career roadmap including recommendations from Lenny's guests on how to achieve your dream role. For fun, try celebrity or tech legends to see what the roast and Lenny advice is!
+
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
 ## Disclaimer
