@@ -163,6 +163,8 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny's Knowledge Graph](https://lennysgraph.vercel.app/)** by [Eze Actis Grosso](https://www.linkedin.com/in/fractionaltech/) - Explore concepts, frameworks, guests, and books across 330+ episodes. Find connections, ask questions, and get answers with the exact episode and timestamp—click straight to that moment on YouTube.
 
+**[Talk to Lenny](https://talktolenny.com)** by [Sid Hawthorne](https://linkedin.com/in/sidney-hori) - Chat to across all Lenny's podcasts and also deep dive into each episode. Browse guests, quotes and books.
+
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
 ## Disclaimer
