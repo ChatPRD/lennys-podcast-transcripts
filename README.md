@@ -163,6 +163,8 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny's Knowledge Graph](https://lennysgraph.vercel.app/)** by [Eze Actis Grosso](https://www.linkedin.com/in/fractionaltech/) - Explore concepts, frameworks, guests, and books across 330+ episodes. Find connections, ask questions, and get answers with the exact episode and timestamp—click straight to that moment on YouTube.
 
+**[Invisible Threads](https://threads.anshumani.com)** by [Anshumani Ruddra](https://x.com/baboonzero) - Find the signal in the noise - high-quality insights from podcasts, books, and blogs to uncover the invisible threads that connect them.
+
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
 ## Disclaimer
