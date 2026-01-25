@@ -18,7 +18,7 @@ grep -r "product-market fit" episodes/
 ## Repository Structure
 
 ```
-├── episodes/                    # 269 episode transcripts
+├── episodes/                    # 303 episode transcripts
 │   └── {guest-name}/
 │       └── transcript.md
 ├── index/                       # AI-generated topic index
@@ -102,7 +102,7 @@ print(f"Title: {metadata['title']}")
 
 ## Episode Count
 
-This archive contains **269 transcripts** from Lenny's Podcast episodes.
+This archive contains **303 transcripts** from Lenny's Podcast episodes.
 
 ## Data Sources
 
@@ -162,6 +162,8 @@ Here are some projects that have been built using this transcript archive:
 **[Lenny Antimemes](https://lenny.antimeme.co)** by [@antimemetic_](https://x.com/antimemetic_) - An antimeme is an idea that resists spreading despite being important. The guests on Lenny's podcast have internalized them anyway - that's part of what makes them outliers. This surfaces those insights.
 
 **[Lenny's Knowledge Graph](https://lennysgraph.vercel.app/)** by [Eze Actis Grosso](https://www.linkedin.com/in/fractionaltech/) - Explore concepts, frameworks, guests, and books across 330+ episodes. Find connections, ask questions, and get answers with the exact episode and timestamp—click straight to that moment on YouTube.
+
+**[Inspiration](https://github.com/mostly-coherent/Inspiration)** by [JM Beh](https://www.linkedin.com/in/jmbeh) – Discover patterns in your AI coding sessions you didn't notice, then automatically see how expert product leaders solved those same problems. Your thinking connects with 300+ Lenny's Podcast episodes—no manual searching required.
 
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
