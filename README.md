@@ -18,7 +18,7 @@ grep -r "product-market fit" episodes/
 ## Repository Structure
 
 ```
-├── episodes/                    # 269 episode transcripts
+├── episodes/                    # 303 episode transcripts
 │   └── {guest-name}/
 │       └── transcript.md
 ├── index/                       # AI-generated topic index
@@ -102,7 +102,7 @@ print(f"Title: {metadata['title']}")
 
 ## Episode Count
 
-This archive contains **269 transcripts** from Lenny's Podcast episodes.
+This archive contains **303 transcripts** from Lenny's Podcast episodes.
 
 ## Data Sources
 
