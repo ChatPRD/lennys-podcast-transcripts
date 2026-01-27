@@ -135,6 +135,8 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny Gallery](https://lennygallery.manus.space/)** by Alan Chan - An infographic gallery with visual summaries of key episodes, built with Manus AI.
 
+**[PM Philosophy Recommendations](https://lenny.productbuilder.net/)** by [René DeAnda](https://renedeanda.com) - Discover your product philosophy, get personalized episode recommendations, and explore AI-curated quotes and takeaways from 295 Lenny's Podcast interviews. [Open source](https://github.com/renedeanda/lenny)
+
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
 ## Disclaimer
