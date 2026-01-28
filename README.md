@@ -163,6 +163,8 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny's Knowledge Graph](https://lennysgraph.vercel.app/)** by [Eze Actis Grosso](https://www.linkedin.com/in/fractionaltech/) - Explore concepts, frameworks, guests, and books across 330+ episodes. Find connections, ask questions, and get answers with the exact episode and timestamp—click straight to that moment on YouTube.
 
+**[Lenny's Council](https://compassandcouncil.growingus.coach) ** by [@andischuster](https://x.com/andischuster)- Voice-first AI mentors and secondbrain feat. Lenny. Query wisdom from 200+ Lenny's Podcast guests in real-time voice conversations. Get guidance on your goals and time spent.
+
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
 ## Disclaimer
