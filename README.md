@@ -18,7 +18,7 @@ grep -r "product-market fit" episodes/
 ## Repository Structure
 
 ```
-├── episodes/                    # 269 episode transcripts
+├── episodes/                    # 303 episode transcripts
 │   └── {guest-name}/
 │       └── transcript.md
 ├── index/                       # AI-generated topic index
@@ -102,7 +102,7 @@ print(f"Title: {metadata['title']}")
 
 ## Episode Count
 
-This archive contains **269 transcripts** from Lenny's Podcast episodes.
+This archive contains **303 transcripts** from Lenny's Podcast episodes.
 
 ## Data Sources
 
@@ -135,7 +135,9 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny Gallery](https://lennygallery.manus.space/)** by Alan Chan - An infographic gallery with visual summaries of key episodes, built with Manus AI.
 
-**[Lenny's Friends in Notion](https://lnkd.in/gtEdP5ew)** by Saya Iwasaki - turned Lenny's guests into Notion mentors, so now you can ask anything you want & get feedback from them right in your Notion workspace. Each guest has a persona set up with mental models, frameworks & communication styles; you can also query by companies.
+**[PM Philosophy Recommendations](https://lenny.productbuilder.net/)** by [René DeAnda](https://renedeanda.com) - Discover your product philosophy, get personalized episode recommendations, and explore AI-curated quotes and takeaways from 295 Lenny's Podcast interviews. [Open source](https://github.com/renedeanda/lenny)
+
+**[Lenny's Friends in Notion](https://lnkd.in/gtEdP5ew)**by Saya Iwasaki - turned Lenny's guests into Notion mentors, so now you can ask anything you want & get feedback from them right in your Notion workspace. Each guest has a persona set up with mental models, frameworks & communication styles; you can also query by companies.
 
 **[Lenny Distilled](https://lennydistilled.com)** by [Harsh Nene](https://www.linkedin.com/in/harshnene/) - A curated collection of PM wisdom to dip into anytime...discover a new insight each visit, trace it back to the source quote and YouTube moment. Mapped to the PM craft across 6 dimensions, minimalist design, multiple languages.
 
@@ -162,6 +164,24 @@ Here are some projects that have been built using this transcript archive:
 **[Lenny Antimemes](https://lenny.antimeme.co)** by [@antimemetic_](https://x.com/antimemetic_) - An antimeme is an idea that resists spreading despite being important. The guests on Lenny's podcast have internalized them anyway - that's part of what makes them outliers. This surfaces those insights.
 
 **[Lenny's Knowledge Graph](https://lennysgraph.vercel.app/)** by [Eze Actis Grosso](https://www.linkedin.com/in/fractionaltech/) - Explore concepts, frameworks, guests, and books across 330+ episodes. Find connections, ask questions, and get answers with the exact episode and timestamp—click straight to that moment on YouTube.
+
+**[Advanced Product Management Skills for AI Agents](https://github.com/wdavidturner/product-skills)** by [David Turner](https://davidbuildsproducts.com/) - A collection of AI agent skills inspired from the guests on Lenny's Podcast. This project generates reusable Agent Skills that capture product management wisdom, frameworks, and methodologies shared by industry experts. Also includes a lightweight testing harness to ensure that we observe skill building best practices like selective disclosure.
+
+**[KOHO's LennyAgent](https://www.linkedin.com/posts/katrinastevenson_ai-productmanagement-buildinpublic-activity-7419079926697324544-J690)** by [Katrina Stevenson](https://www.linkedin.com/in/katrinastevenson/) - KOHO's 24/7 business coach accessible in Slack or Glean that provides answers to questions and cites specific guests and episodes.
+
+**[PM Roast - from Lenny's Wisdom](https://pmroast.com/)** by [Justin Luk](https://www.linkedin.com/in/lukjustin/) [@whosjluk](https://x.com/whosjluk) - Upload your LinkedIn, website, or resume - get a personalized PM card roast with a career roadmap including recommendations from Lenny's guests on how to achieve your dream role. For fun, try celebrity or tech legends to see what the roast and Lenny advice is!
+
+**[Lenny RAG MCP](https://github.com/mpnikhil/lenny-rag-mcp)** by [Nikhil Pujari](https://www.linkedin.com/in/nikhilpujari/) - Agentic RAG via MCP to naturally surface insights in Claude Code, Claude Desktop, and Cursor. Hierarchical extraction (Episodes → Topics → Insights → Examples) with implicit anchor detection. Clone, install, configure MCP, done.
+
+**[Talk to Lenny](https://talktolenny.com)** by [Sid Hawthorne](https://linkedin.com/in/sidney-hori) - Chat to across all Lenny's podcasts and also deep dive into each episode. Browse guests, quotes and books.
+
+**[Invisible Threads](https://threads.anshumani.com)** by [Anshumani Ruddra](https://x.com/baboonzero) - Find the signal in the noise - high-quality insights from podcasts, books, and blogs to uncover the invisible threads that connect them.
+
+**[Counter Narrative Generator](https://github.com/Laksh-star/counter-narrative-generator)** by Laksh-star – Uses the Panchatantra-inspired Three-Fish AI agents to generate counter-narratives and balanced insights from Lenny's Podcast transcripts via vector search and multi-model orchestration.
+
+**[Inspiration](https://github.com/mostly-coherent/Inspiration)** by [JM Beh](https://www.linkedin.com/in/jmbeh) – Discover patterns in your AI coding sessions you didn't notice, then automatically see how expert product leaders solved those same problems. Your thinking connects with 300+ Lenny's Podcast episodes—no manual searching required.
+
+**[Lenny's Council](https://compassandcouncil.growingus.coach)** by [@andischuster](https://x.com/andischuster) - Voice-first AI mentors and secondbrain feat. Lenny. Query wisdom from 200+ Lenny's Podcast guests in real-time voice conversations. Get guidance on your goals and time spent.
 
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
